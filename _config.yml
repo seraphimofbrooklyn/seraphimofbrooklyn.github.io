@@ -1,0 +1,67 @@
+title:            Balzac
+tagline:          A beautiful theme.
+description:      Essays on Philosophy, History, Literature and Religion
+canonical: http://jekyll.gtat.me
+
+# Owner/author information
+owner:
+  name:           Seraphim of Brooklyn
+  avatar:         avatar.png
+  bio:            "Orthodox Christian Essayist"
+  email:          seraphimofbrooklyn@gmail
+  twitter:        N/A
+  github:         seraphimofbrooklyn
+  instagram:      N/A
+  dribbble:       N/A
+  disqus:         N/A
+  location:       "Brooklyn, NY"
+  # Plug in your disqus shortname!
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:           en_US
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Blog
+    url: https://github.com/seraphimofbrooklyn/blog
+    external: true
+  - title: Cole Who?
+    url: http://coletownsend.com
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+highlighter: pygments
+markdown:    kramdown
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
