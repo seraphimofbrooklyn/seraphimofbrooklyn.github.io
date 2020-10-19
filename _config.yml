@@ -1,7 +1,7 @@
 title:            Balzac
 tagline:          A beautiful theme.
 description:      Essays on Philosophy, History, Literature and Religion
-canonical: http://jekyll.gtat.me
+canonical: seraphimofbrooklyn.github.io
 
 # Owner/author information
 owner:
@@ -30,11 +30,10 @@ opengraph:
 links:
   - title: About
     url: /about
-  - title: Blog
-    url: https://github.com/seraphimofbrooklyn/blog
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
+  - title: Essays
+    url: /essays
+  - title: Stories
+    url: /stories
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
