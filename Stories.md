@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: /Stories/index.html
+permalink: /stories/index.html
 title: "Stories"
 tags: [essays, graphic design]
 ---
