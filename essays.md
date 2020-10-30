@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /articles/index.html
+permalink: /essays/index.html
 title: "Articles and Essays"
 tags: [essays, graphic design]
 ---
