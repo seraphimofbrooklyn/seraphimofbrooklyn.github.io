@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: post
 permalink: /articles/index.html
-title: "Articles"
+title: "Articles and Essays"
 tags: [essays, graphic design]
 ---
 
