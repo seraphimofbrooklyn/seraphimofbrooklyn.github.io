@@ -31,9 +31,9 @@ links:
   - title: About
     url: /about
   - title: Essays
-    url: /essays
+    url: /Essays
   - title: Stories
-    url: /stories
+    url: /Stories
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
