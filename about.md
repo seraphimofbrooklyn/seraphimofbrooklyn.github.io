@@ -11,10 +11,11 @@ image:
 I am a former atheist to Eastern Orthodox convert and as such much of my worldview will come from that perspective.
 ### Interests
 * Religion/Spirituality
-* Philosophy
+* Philosophy - Epistemology and Philosophy of Science
 * Literature
 * History
 * Linguistics
+* Semiotics/Symbolism
 * Psychology
 
 ### The Name
