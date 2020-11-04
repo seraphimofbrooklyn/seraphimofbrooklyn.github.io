@@ -132,7 +132,7 @@ Those called conspiracy theorists have reason to believe that the people at the 
 So the question is not whether these institutions lie. **The question is whether the lies that they have sold the American people merit a categorical loss faith in them.**
 
 
-#Links
+# Links
 
 https://web.archive.org/web/20180217220924/https://www.nytimes.com/2018/02/17/sunday-review/russia-isnt-the-only-one-meddling-in-elections-we-do-it-too.html - NYT article on Regime change and the US
 https://journals.sagepub.com/doi/pdf/10.1177/0738894216661190 - Study done on regime change by US and Soviet Union as referenced by NYT article
