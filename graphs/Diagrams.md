@@ -13,22 +13,19 @@ import cufflinks as cf
 cf.go_offline()
 cf.set_config_file(world_readable=True, theme='pearl')
 
-os.getcwd() 
+os.getcwd()
 
 import plotly.graph_objects as go
-stance=['Pro-war', 'Neutral', 'Anti-war']
 
-fig = go.Figure(data=[
-    go.Bar(name='Percent of American Sources', x=stance, y=[71, 26, 3],marker_color='indianred'),
-    go.Bar(name='Percent of Total Sources', x=stance, y=[65, 26, 10],marker_color='rgb(55, 83, 109)')
-])
-# Change the bar mode
-fig.update_layout(
-  title={'text':"Percent of Iraq War Media Sources",'y':0.9,'x':0.5},
-  barmode='group',
-  yaxis_title="%",xaxis_title="Stance towards war",
-  legend=dict(yanchor='top',y=.99,xanchor='right',x=.99))
+fig = go.Figure(go.Scatter(x=[0,1,2,0,None,3,3,5,5,3], y=[0,2,0,0,None,0.5,1.5,1.5,0.5,0.5], fill="toself"))
 fig.show()
+
+fig2= go.Figure(go.Scatter(x=[0,2,1,0],y=[0,0,3,0],fill="toself"))
+fig2.update_xaxes(showticklabels=False)
+fig2.update_yaxes(showticklabels=False)
+fig2.update_xaxes(showgrid=False,zeroline=False)
+fig2.update_yaxes(showgrid=False,zeroline=False)
+fig2.show()
 
 fig.write_image("images/FAIRx1.png")
 ```
