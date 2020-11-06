@@ -32,7 +32,7 @@ The first model can be represented by a simple pyramid or mountain in which the 
 	<figcaption> Figure 4: Hierarchical Model for the Human Person also showcasing the consequences of an inverted hierarchy. The soul for more scientifically minded people can be also named 'consciousness'</figcaption>
 </figure>
 
-The second model is represented by concentric circles, being an alternative view of the first model. If Hierarchical model were a side or frontal view of a mountain, the circular model is the birds eye view of it. It can be likened to the concept of **axis mundi** or the centre of the world. The centre is contrasted with the margin just as the peak of the hierarchy is contrasted with the bottom. Where the centre is known and orderly, the outside is unknown and chaotic. This model can also be used as a way to represent the relationship between macrocosms and microcosms and hierarchies in a similar manner to the first model.
+The second model is represented by concentric circles, being an alternative view of the first model. If Hierarchical model were a side or frontal view of a mountain, the circular model is the birds eye view of it. Both can be likened to the concept of **axis mundi** or the centre of the world. The centre is contrasted with the margin just as the peak of the hierarchy is contrasted with the bottom. Where the centre is known and orderly, the outside is unknown and chaotic. This model can also be used as a way to represent the relationship between macrocosms and microcosms and hierarchies in a similar manner to the first model.
 
 <figure>
 	<img src="/images/Circle Model 1_Final.png">
@@ -49,9 +49,9 @@ Worship does not necessarily mean the typical means of worship one may accustome
 	<figcaption> Figure 5: Left: Fangirls waiting for boyband One Direction to appear. Right: Painting of an Eastern Orthodox Procession</figcaption>
 </figure>
 
-Imagine that within every person there is a mountain representing their identity and values as well as their relationships. The people most congruent with their identity and values lie closest to the center while those that are most opposed to them lie outside  at the circumference. This creates in-groups and out-groups, as well as acceptable ideas, and non-acceptable ideas. For example, for someone who is 'spiritual not religious' that principal value would be 'love', 'peace', or 'unity', while rejecting 'intolerance', 'hate', and 'divison'. Or for someone that is a strict athiest who prizes rationality above all else that which lies at the centre would be 'truth' or 'reason' and opposed to 'lies' and 'faith'.
+Imagine that within every person there is a mountain representing their identity and values as well as their relationships. The people most congruent with their identity and values lie closest to the center while those that are most opposed to them lie outside  at the circumference. This creates in-groups and out-groups, as well as acceptable ideas, and non-acceptable ideas. For example, for someone who is 'spiritual not religious' that principal value would be **'love', 'peace', or 'unity'**, while rejecting **'intolerance', 'hate', and 'divison'**. Or for someone that is a strict athiest who prizes rationality above all else that which lies at the centre would be **'truth' and 'reason'** and opposed to **'lies' and 'faith'**.
 
-Similar to how the head of a hierarchical organization directs those who are lower, the centre will organize everything outside of it. In other words what you believe (spiritual/ideological) dictates how you act (material). For the atheist, prioritizing a materialist truth above all else, they will rule out the admission of certain ideas they deem to be false from entering into the centre. As a result this may preclude the entrance of people they disagree with into their life, primarily deeply spiritual people who hold metaphysical beliefs contrary to those of their own, and will generally exclude the regular attendance of corporate gatherings of people with beliefs different than their own such as the attendance of a mosque, church, etc. If the they do admit religious people into their lives it will be despite those differences rather than because of them. Lastly, the spiritual beliefs may be humored by the atheist in relations with spiritual people but never allowed to displace the fundamental centre. In short, the atheist does not **commune** with the believer because they are not of the same spirit.
+Similar to how the head of a hierarchical organization directs those who are lower, the centre will organize everything outside of it. In other words what you believe (spiritual/ideological) dictates how you act (material). For the atheist, prioritizing a materialist truth above all else, they will rule out the admission of certain ideas they deem to be false from entering into the centre. As a result this may preclude the entrance of people they disagree with into their life, namely deeply spiritual people who hold metaphysical beliefs contrary to those of their own, and will generally exclude the regular attendance of corporate gatherings of people with beliefs different than their own such as the attendance of a mosque, church, etc. If the they do admit religious people into their lives it will be despite those differences rather than because of them. Lastly, the spiritual beliefs may be humored by the atheist in relations with spiritual people but never allowed to displace the fundamental centre. In short, the atheist does not **commune** with the believer because they are not of the same spirit.
 
 Atheists, and any other belief system, named or unnamed, have 'priests', 'sacred texts' 'churches', 'dogmas', 'cosmologies', 'ethics', 'processions' 'conversions', etc. Their priests are those who advocate for truth in a convincing manner like Sam Harris, Bertrand Russel or Christopher Hitchens. Their 'sacred texts' are essays like 'Why I Am Not a Christian' or 'The God Delusion'. Their churches are the secular universities.  Their dogma and cosmology: Darwinism, and the Big Bang theory and so on and so forth. Their conversion stories mirror the stories of atheists converting into faiths, of being 'enlightened' of finally being able to see the 'truth'. To hold something to be important, is to have set it apart from the rest, and to place **above** all else as **sacred**. Whether or not the term sacred is used is not important. What is important is that the essential meaning is the same and the patterns of behavior is the same.
 
@@ -75,14 +75,14 @@ Circles are labeled as below with Christian terminology
 3. Those who ‘embody’ belief and are 'initiated' ie 'believers'
 4. Those who are yet to be 'initiated' into the belief ie 'the catechumens'
 5. Those who are still ‘in the darkness’ and are not initiated ie 'unbelievers'
-# Common forms of worship in Modernity
+# Forms of Modern Worship
 
 ### 1. Worship of the Self
 Of the three this is probably the most obviously seen one. People subject to this include those on social media who want to become 'influencers' or people whose career depends on their image. Their entire lives revolves around crafting an image of themselves to project into the world. The only value that they can extract from life is from the amount of followers or likes they can procure. This can be caused from narcissism, vanity, or love of fame (or a mix of all three).
 
-Another form of this can be exemplified in the hedonistic lifestyle as well that revolves around sensual pleasures. The sort of life that Dan Bilzerian or Paris Hilton leads comes to mind. The highest value is the self, or whatever pleasure one can provide to the self. For men it can resemble a teenage boy's wet dream of sleeping with countless amounts of woman, and playing video games day and night with no homework or responsibilities. For woman the perfect life may resemble being the most famous and beautiful woman in the world, to be coveted by both men and women alike.
+Another form of this can be exemplified in the hedonistic lifestyle as well that revolves around sensual pleasures. The sort of life that Dan Bilzerian or Paris Hilton leads comes to mind. The highest value is the self, or whatever pleasure one can provide to the self. For men it can resemble a teenage boy's wet dream of sleeping with countless amounts of woman, and playing video games day and night with no homework or responsibilities. For woman the perfect life may involve being the most famous and beautiful woman in the world, to be coveted by both men and women alike.
 
-But even if the clear narcissistic manifestations of self-worship is ignored, it can be embodied in more subtle ways. Such worship of the self can described simply as removing "God" from the highest and supplanting God with the self as seen in **Figure 8**. This is the meaning of the 3rd chapter of Genesis in which Adam and Eve ate from the knowledge of good and evil and became like God knowing good and evil: that the Adam and Eve forgot their place in the celestial hierarchy and in doing so severed themselves from God. No longer occupying the middle space between heaven and earth, man answers not to God but only to himself, and no longer the mediator between those two space he is an autocrat over himself and all of the world.
+But even if the clear narcissistic manifestations of self-worship is ignored, it can be embodied in more subtle ways. Such worship of the self can described simply as removing "God" from the highest and supplanting God with the self as seen in **Figure 8**. This is the meaning of the 3rd chapter of Genesis in which Adam and Eve ate from the knowledge of good and evil and became like God knowing good and evil: that the Adam and Eve forgot their place in the celestial hierarchy and in doing so severed themselves from God. No longer occupying the middle space between heaven and earth, man answers not to God but only to himself, and no longer the mediator between those two spaces he is an autocrat over himself and all of the world.
 
 <figure>
 	<img src="/images/TraditionalvsModern.png">
@@ -90,7 +90,7 @@ But even if the clear narcissistic manifestations of self-worship is ignored, it
 </figcaption>
 </figure>
 
-However this modern paradigm overlooks the fact that just as it is physically that nature hates a vacuum, so it is the case with spiritual vacuums; something always fills the void. This is somewhat akin to Jordan Peterson has said ***"People don't have ideas. Ideas have people".***
+However this modern paradigm overlooks the fact that just as it is nature hates a physical vacuum, so it is the case with spiritual vacuums; something always fills the void. This is somewhat akin to Jordan Peterson has said ***"People don't have ideas. Ideas have people".***
 
 <figure>
 	<img src="/images/TraditionalvsModern2.png">
@@ -99,13 +99,15 @@ However this modern paradigm overlooks the fact that just as it is physically th
 </figure>
 
 ### 2. Worship of the Government
+As in make the government my "god". It's the purest simplification of the secular worldview-- that man can create paradise on earth, if only they are given complete and direct control over everything. It's a tale as old as time, and it always ends in genocide and horror.
+
+The idea is that man can be God. It's a pure distillation of the fundamental satanic doctrine.
+
 
 ### 3. Worship of Science
 
 
-As in make the government my "god". It's the purest simplification of the secular worldview-- that man can create paradise on earth, if only they are given complete and direct control over everything. It's a tale as old as time, and it always ends in genocide and horror.
 
-The idea is that man can be God. It's a pure distillation of the fundamental satanic doctrine.
 
 ###Links
 
