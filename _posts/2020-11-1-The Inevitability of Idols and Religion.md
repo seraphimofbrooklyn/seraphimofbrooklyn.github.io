@@ -36,13 +36,13 @@ The second model is represented by concentric circles, being an alternative view
 
 <figure>
 	<img src="/images/Circle Model 1_Final.png">
-	<figcaption> Figure 4: Circular model being applied to epistemology and personal relations. Similar to the hierarchical model multiplicity increases from the center. Applied to relationships one will have (typically) one spouse, a couple of family members, more friends, and many people you don't know.</figcaption>
+	<figcaption> Figure 5: Circular model being applied to epistemology and personal relations. Similar to the hierarchical model multiplicity increases from the center. Applied to relationships one will have (typically) one spouse, a couple of family members, more friends, and many people you don't know.</figcaption>
 </figure>
 
 So what does any of these funny figures have to do with religion or idolatry? The answer is simple. **We all worship something**. This may be a bitter pill to swallow for some readers but let me explain my position.
 
 # Defining Worship
-Worship does not necessarily mean the typical means of worship one may accustomed to like making pilgrimages to holy sites, praying, or attending religious services, though it can definitely include these things. Worship can look like countless people lining up to see celebrities or artists as in Figure 4 below. One can worship money and orient ones life only to the pursuit of generating wealth. Or one can worship justice and the pursuit of enacting justice by becoming a lawyer and working pro-bono for underprivileged communities. One 'worships' or 'idolizes' what one holds most important, what is the **highest** or what the very **centre** of their being. This will create a pattern of behavior that is predictable as what is highest will organize what is lower.
+Worship does not necessarily mean the typical means of worship one may accustomed to like making pilgrimages to holy sites, praying, or attending religious services, though it can definitely include these things. Worship can look like countless people lining up to see celebrities or artists as in **Figure 6** below. One can worship money and orient ones life only to the pursuit of generating wealth. Or one can worship justice and the pursuit of enacting justice by becoming a lawyer and working pro-bono for underprivileged communities. One 'worships' or 'idolizes' what one holds most important, what is the **highest** or what the very **centre** of their being. This will create a pattern of behavior that is predictable as what is highest will organize what is lower.
 
 <figure>
 	<img src="/images/1DvsEO.png">
@@ -53,19 +53,52 @@ Imagine that within every person there is a mountain representing their identity
 
 Similar to how the head of a hierarchical organization directs those who are lower, the centre will organize everything outside of it. In other words what you believe (spiritual/ideological) dictates how you act (material). For the atheist, prioritizing a materialist truth above all else, they will rule out the admission of certain ideas they deem to be false from entering into the centre. As a result this may preclude the entrance of people they disagree with into their life, primarily deeply spiritual people who hold metaphysical beliefs contrary to those of their own, and will generally exclude the regular attendance of corporate gatherings of people with beliefs different than their own such as the attendance of a mosque, church, etc. If the they do admit religious people into their lives it will be despite those differences rather than because of them. Lastly, the spiritual beliefs may be humored by the atheist in relations with spiritual people but never allowed to displace the fundamental centre. In short, the atheist does not **commune** with the believer because they are not of the same spirit.
 
-Atheists, and any other belief system, named or unnamed, have 'priests', 'sacred texts' 'churches', 'dogmas', 'cosmologies', 'ethics', 'processions' 'conversions', etc. Their priests are those who advocate for truth in a convincing manner like Sam Harris, Bertrand Russel or Christopher Hitchens. Their 'sacred texts' are essays like 'Why I Am Not a Christian' or 'The God Delusion'. Their churches are the secular universities.  Their dogma and cosmology: Darwinism, and the Big Bang theory and so on and so forth. Their conversion stories mirror the stories of atheists converting into faiths, of being 'enlightened' of finally being able to see the 'truth'. To hold something to be important, is to have set it apart from the rest, and to place **above** all else as something sacred. Whether or not the term sacred is used is not important. What is important is that the essential meaning is the same and the patterns of behavior is the same.
+Atheists, and any other belief system, named or unnamed, have 'priests', 'sacred texts' 'churches', 'dogmas', 'cosmologies', 'ethics', 'processions' 'conversions', etc. Their priests are those who advocate for truth in a convincing manner like Sam Harris, Bertrand Russel or Christopher Hitchens. Their 'sacred texts' are essays like 'Why I Am Not a Christian' or 'The God Delusion'. Their churches are the secular universities.  Their dogma and cosmology: Darwinism, and the Big Bang theory and so on and so forth. Their conversion stories mirror the stories of atheists converting into faiths, of being 'enlightened' of finally being able to see the 'truth'. To hold something to be important, is to have set it apart from the rest, and to place **above** all else as **sacred**. Whether or not the term sacred is used is not important. What is important is that the essential meaning is the same and the patterns of behavior is the same.
 
 <figure>
 	<img src="/images/Atheist Hierarchy_fin.png">
-	<figcaption> Figure 6: Atheist Hierarchy from Top to Bottom: Charles Darwin, Richard Dawkins, Christopher Hitchens, Sam Harris, Daniel Dennett, A-heads (Atheists). Note the quantity as you go down the hierarchy. There will always be only one Darwin, and a couple of advocates of Darwinism, but many believers of Darwinism, similar to Christ, his apostles, and the believrs that followed.
+	<figcaption> Figure 6: Atheist Hierarchy from Top to Bottom: Charles Darwin, Richard Dawkins, Christopher Hitchens, Sam Harris, Daniel Dennett, A-heads (Atheists). Note the quantity as you go down the hierarchy. There will always be only one Darwin, and a couple of advocates of Darwinism, but many believers of Darwinism, similar to Christ, his apostles, and the believers that followed.
 </figcaption>
 </figure>
 
-# Common forms of worship in modernity
+The religious framework can be easily seen in **Figure 8** below, where you can imprint whatever ideology, religion, etc on the top in the hierarchical model and in the centre in the circular model.
+
+<figure>
+	<img src="/images/Religious_Framework.png">
+	<figcaption> Figure 8: Religious Framework combining both models.
+</figcaption>
+</figure>
+
+Circles are labeled as below with Christian terminology
+1. Those who perfectly ‘embody’ the belief ie the 'saints'.
+2. Those who ‘embody’ the belief ie 'the pious'
+3. Those who ‘embody’ belief and are 'initiated' ie 'believers'
+4. Those who are yet to be 'initiated' into the belief ie 'the catechumens'
+5. Those who are still ‘in the darkness’ and are not initiated ie 'unbelievers'
+# Common forms of worship in Modernity
 
 ### 1. Worship of the Self
+Of the three this is probably the most obviously seen one. People subject to this include those on social media who want to become 'influencers' or people whose career depends on their image. Their entire lives revolves around crafting an image of themselves to project into the world. The only value that they can extract from life is from the amount of followers or likes they can procure. This can be caused from narcissism, vanity, or love of fame (or a mix of all three).
 
-### 2. Worship of the government
+Another form of this can be exemplified in the hedonistic lifestyle as well that revolves around sensual pleasures. The sort of life that Dan Bilzerian or Paris Hilton leads comes to mind. The highest value is the self, or whatever pleasure one can provide to the self. For men it can resemble a teenage boy's wet dream of sleeping with countless amounts of woman, and playing video games day and night with no homework or responsibilities. For woman the perfect life may resemble being the most famous and beautiful woman in the world, to be coveted by both men and women alike.
+
+But even if the clear narcissistic manifestations of self-worship is ignored, it can be embodied in more subtle ways. Such worship of the self can described simply as removing "God" from the highest and supplanting God with the self as seen in **Figure 8**. This is the meaning of the 3rd chapter of Genesis in which Adam and Eve ate from the knowledge of good and evil and became like God knowing good and evil: that the Adam and Eve forgot their place in the celestial hierarchy and in doing so severed themselves from God. No longer occupying the middle space between heaven and earth, man answers not to God but only to himself, and no longer the mediator between those two space he is an autocrat over himself and all of the world.
+
+<figure>
+	<img src="/images/TraditionalvsModern.png">
+	<figcaption> Figure 9: Comparing the traditional paradigm to the modern paradigm
+</figcaption>
+</figure>
+
+However this modern paradigm overlooks the fact that just as it is physically that nature hates a vacuum, so it is the case with spiritual vacuums; something always fills the void. This is somewhat akin to Jordan Peterson has said ***"People don't have ideas. Ideas have people".***
+
+<figure>
+	<img src="/images/TraditionalvsModern2.png">
+	<figcaption> Figure 10: Comparing the modern paradigm as we would like to believe it is to the actuality of the situation.
+</figcaption>
+</figure>
+
+### 2. Worship of the Government
 
 ### 3. Worship of Science
 
