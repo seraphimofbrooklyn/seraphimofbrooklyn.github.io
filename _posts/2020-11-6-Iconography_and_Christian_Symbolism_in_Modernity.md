@@ -3,7 +3,7 @@ title: "Iconography and Christian Symbolism in Modernity"
 description: "An essay on symbolism and Christian symbolism, and specifically on the theology of iconography. "
 date: 2020-11-06
 image:
-        feature: Christ_the_Pantocrator.jpg
+        feature: EO_Church.jpg
 ---
 ### What are the nature of symbols?
 
@@ -62,3 +62,8 @@ Even marriage, the mystical union of man and woman, a beautiful icon of Christ a
 Where does such inversion come from? From Hollywood, TV, media, books, etc. **Where man does not venerate images of God, he will make for himself other images to venerate, and to consume.** Of the most damaging to the symbol of man and woman, is porn. Pornography is the devil’s iconography. Unfortunately, it is the most powerful icon of the world, enslaving so many men and women, and even some of the faithful. Everyday, a temple of the Holy Spirit is defiled by the act of masturbation, and everyday our eyes lust after strange flesh, and in doing so commit adultery, if not to the betrayal to our spouse or loved one, to God. At such ease, frequency, and ‘quality’ with the technology of today, we watch the sickest and most depraved forms of fornication, a far cry from what union with Christ is like. The acts displayed are more akin to degradation of one sex or the other than one of a mutual outpouring of love. The images are etched into our souls, and form our image of man and of woman, changing the symbol of man and woman by changing the context in which we see them. Instead of pointing us to God, pornography points us back to ourselves, and our need to satisfy our ‘natural’ sexual appetites. If Eastern Orthodox icons instruct us on the lives of the saints and of Christ, what does pornography instruct us of? Remember we are icons of Christ, and if we honor the image (ourselves and our neighbors) we honor God. On the other hand, if we dishonor or disfigure the image, we do so to God as well. This is why Christ says, “What you have done to the least of them, you have done to me”; because we are icons of Christ, and to dishonor the icon is to dishonor the prototype.
 
 To be Christian is to view the world through Christ, and to see things as they are revealed to us by Christ, and by doing so, restoring the world so that it is oriented toward God, the source of all things. In other words, **Christian symbols reveal reality in the eyes of God, as they are in very Truth, for only God is Truth.** The more we affirm the dialectic between symbol and reality, the more is capitulated to the prince of the world, and the more divorced everything becomes from God. Since Christ has revealed himself to us as the true icon of God by His divine condescension, bringing Life to the world, fulfilling and affirming Creation as “very good”, we too affirm it if we are to be Christians. Reality is experienced through symbols and if, one day, there are no more symbols that point to God, will we even remember Him? As Christians living in these times we must hold on to our symbols, and even reclaim those that have been stolen from us, else we further forget that all of life, and of Creation points to Christ.
+
+<figure>
+	<img src="/images/Christ_the_Pantocrator.jpg">
+	<figcaption> Figure 2: Christ Pantocrator in the Hagia Sophia</figcaption>
+</figure>
