@@ -97,19 +97,19 @@ Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Na
 
 <figure>
 	<img src="/images/Eugenics_Network_Finalx2_Nazis.png">
-	<figcaption> Figure 3: Network with Nazis highlighted in green.
+	<figcaption> Figure 4: Network with Nazis highlighted in green.
 </figcaption>
 </figure>
 
 <figure>
 	<img src="/images/Eugenics_Network_Finalx2_ERO.png">
-	<figcaption> Figure 4: Network with ERO highlighted in pink.
+	<figcaption> Figure 5: Network with ERO highlighted in pink.
 </figcaption>
 </figure>
 
 <figure>
 	<img src="/images/Eugenics_Network_Finalx2_Rockefellers.png">
-	<figcaption> Figure 5: Network with Rockefellers highligted in green.
+	<figcaption> Figure 6: Network with Rockefellers highlighted in green.
 </figcaption>
 </figure>
 
