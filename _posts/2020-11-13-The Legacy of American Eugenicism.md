@@ -79,36 +79,36 @@ Margaret Sanger  - Founder of ABCL with Stoddard and Little, and Birth Control R
 Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Nazi and KKK. "The Nazi Party's chief racial theorist Alfred Rosenberg got the racial term Untermensch from the German version of Stoddard's 1922 book The Revolt Against Civilization: The Menace of the Under-man." Met with Heinrich Himmler, Robert Ley and Fritz Sauckel, as well as a brief meeting with Hitler himself.
 
 <figure>
-	<img src="/images/Eugenics_Network_Finalx2.png">
+	<img src="/images/Eugenics_Network_Finalx1.png">
 	<figcaption> Figure 1: Overall network
 </figcaption>
 </figure>
 
 <figure>
-	<img src="/images/Eugenics_Network_Finalx2_AES.png">
+	<img src="/images/Eugenics_Network_Finalx1_AES.png">
 	<figcaption> Figure 2: Network with AES highlighted in teal. Note that AES became The Society of Social Biology later and their journal became Biodemography and Social Biology.
 </figcaption>
 </figure>
 
 <figure>
-	<img src="/images/Eugenics_Network_Finalx2_Sanger.png">
+	<img src="/images/Eugenics_Network_Finalx1_Sanger.png">
 	<figcaption> Figure 3: Network with Sanger highlighted in teal. Note that ABCL was renamed to Planned Parenthood (PP)
 </figure>
 
 <figure>
-	<img src="/images/Eugenics_Network_Finalx2_Nazis.png">
+	<img src="/images/Eugenics_Network_Finalx1_Nazis.png">
 	<figcaption> Figure 4: Network with Nazis highlighted in green.
 </figcaption>
 </figure>
 
 <figure>
-	<img src="/images/Eugenics_Network_Finalx2_ERO.png">
+	<img src="/images/Eugenics_Network_Finalx1_ERO.png">
 	<figcaption> Figure 5: Network with ERO highlighted in pink.
 </figcaption>
 </figure>
 
 <figure>
-	<img src="/images/Eugenics_Network_Finalx2_Rockefellers.png">
+	<img src="/images/Eugenics_Network_Finalx1_Rockefellers.png">
 	<figcaption> Figure 6: Network with Rockefellers highlighted in green.
 </figcaption>
 </figure>
