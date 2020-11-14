@@ -46,51 +46,58 @@ Worship does not necessarily mean the typical means of worship one may accustome
 
 <figure>
 	<img src="/images/1DvsEO.png">
-	<figcaption> Figure 5: Left: Fangirls waiting for boyband One Direction to appear. Right: Painting of an Eastern Orthodox Procession</figcaption>
+	<figcaption> Figure 6: Left: Fangirls waiting for boyband One Direction to appear. Right: Painting of an Eastern Orthodox Procession</figcaption>
 </figure>
 
-Imagine that within every person there is a mountain representing their identity and values as well as their relationships. The people most congruent with their identity and values lie closest to the center while those that are most opposed to them lie outside  at the circumference. This creates in-groups and out-groups, as well as acceptable ideas, and non-acceptable ideas. For example, for someone who is 'spiritual not religious' that principal value would be **'love', 'peace', or 'unity'**, while rejecting **'intolerance', 'hate', and 'divison'**. Or for someone that is a strict athiest who prizes rationality above all else that which lies at the centre would be **'truth' and 'reason'** and opposed to **'lies' and 'faith'**.
+Imagine that within every person there is a mountain representing their identity and values as well as their relationships. The people most congruent with their identity and values lie closest to the center while those that are most opposed to them lie outside  at the circumference. This creates in-groups and out-groups, as well as acceptable ideas, and non-acceptable ideas. For example, for someone who is 'spiritual not religious' that principal value would be **'love', 'peace', or 'unity'**, while rejecting **'intolerance', 'hate', and 'divison'**. Or for someone that is a strict athiest who prizes rationality above all else that which lies at the centre would be **'truth' and 'reason'** and opposed to **'lies' and 'faith'**. There are things they gather into themselves, and things they push away from themselves.
 
-Similar to how the head of a hierarchical organization directs those who are lower, the centre will organize everything outside of it. In other words what you believe (spiritual/ideological) dictates how you act (material). For the atheist, prioritizing a materialist truth above all else, they will rule out the admission of certain ideas they deem to be false from entering into the centre. As a result this may preclude the entrance of people they disagree with into their life, namely deeply spiritual people who hold metaphysical beliefs contrary to those of their own, and will generally exclude the regular attendance of corporate gatherings of people with beliefs different than their own such as the attendance of a mosque, church, etc. If the they do admit religious people into their lives it will be despite those differences rather than because of them. Lastly, the spiritual beliefs may be humored by the atheist in relations with spiritual people but never allowed to displace the fundamental centre. In short, the atheist does not **commune** with the believer because they are not of the same spirit.
+Similar to how the head of a hierarchical organization directs those who are lower, the centre will organize everything outside of it. In other words what you believe (spiritual/ideological) dictates how you act (material). For the atheist, prioritizing a materialist truth above all else, they will rule out the admission of certain ideas they deem to be false from entering into the centre. As a result this may preclude the entrance of people they disagree with into their life, namely deeply spiritual people who hold metaphysical beliefs contrary to those of their own, and will generally exclude the regular attendance of corporate gatherings of people with beliefs different than their own such as the attendance of a mosque, church, etc. If they do admit religious people into their lives it will be despite those differences rather than because of them. Lastly, the spiritual beliefs may be humored by the atheist in relations with spiritual people but never allowed to displace the fundamental centre. In short, the atheist does not **commune** with the believer because they are not of the same spirit.
 
 Atheists, and any other belief system, named or unnamed, have 'priests', 'sacred texts' 'churches', 'dogmas', 'cosmologies', 'ethics', 'processions' 'conversions', etc. Their priests are those who advocate for truth in a convincing manner like Sam Harris, Bertrand Russel or Christopher Hitchens. Their 'sacred texts' are essays like 'Why I Am Not a Christian' or 'The God Delusion'. Their churches are the secular universities.  Their dogma and cosmology: Darwinism, and the Big Bang theory and so on and so forth. Their conversion stories mirror the stories of atheists converting into faiths, of being 'enlightened' of finally being able to see the 'truth'. To hold something to be important, is to have set it apart from the rest, and to place **above** all else as **sacred**. Whether or not the term sacred is used is not important. What is important is that the essential meaning is the same and the patterns of behavior is the same.
 
 <figure>
 	<img src="/images/Atheist Hierarchy_fin.png">
-	<figcaption> Figure 6: Atheist Hierarchy from Top to Bottom: Charles Darwin, Richard Dawkins, Christopher Hitchens, Sam Harris, Daniel Dennett, A-heads (Atheists). Note the quantity as you go down the hierarchy. There will always be only one Darwin, and a couple of advocates of Darwinism, but many believers of Darwinism, similar to Christ, his apostles, and the believers that followed.
+	<figcaption> Figure 7: Atheist Hierarchy from Top to Bottom: Charles Darwin, Richard Dawkins, Christopher Hitchens, Sam Harris, Daniel Dennett, A-heads (Atheists). Note the quantity as you go down the hierarchy. There will always be only one Darwin, and a couple of advocates of Darwinism, but many believers of Darwinism, similar to Christ, his apostles, and the believers that followed.
 </figcaption>
 </figure>
 
 The religious framework can be easily seen in **Figure 8** below, where you can imprint whatever ideology, religion, etc on the top in the hierarchical model and in the centre in the circular model.
 
 <figure>
-	<img src="/images/Religious_Framework.png">
+	<img src="/images/Religious_Framework_final.png">
 	<figcaption> Figure 8: Religious Framework combining both models.
 </figcaption>
 </figure>
 
-Circles are labeled as below with Christian terminology
-1. Those who perfectly ‘embody’ the belief ie the 'saints'.
-2. Those who ‘embody’ the belief ie 'the pious'
-3. Those who ‘embody’ belief and are 'initiated' ie 'believers'
-4. Those who are yet to be 'initiated' into the belief ie 'the catechumens'
-5. Those who are still ‘in the darkness’ and are not initiated ie 'unbelievers'
+Circles are labeled as below with Christian terminology and where they would be placed in OT Temple worship.
+1. Those who perfectly ‘embody’ the belief ie the 'saints', and to a lesser degree people who are part of the clergy. The "high priest" who can enter into the Holy of Holies.
+2. Those who 'embody' the belief and participate in life with Christ ie regular Christian laymen. The "priests" who can enter in the Holy Place.
+3. Those who do not ‘embody’ belief and have yet to be initiated ie non-believers. The people kept in the outer court.
+
+<figure>
+	<img src="/images/Tabernacle_layout.png">
+	<figcaption> Figure 9: A diagram of the Tabernacle as described in the Old Testament. This is another analogy for how hierarchy lays itself out, typically via a tri-partite structure with a singular leader being closest to the center (Holy of Holies), the few initiates further out (The Holy Place), and the multitudes farthest outside (Court).
+</figcaption>
+</figure>
+
 # Forms of Modern Worship
 
 ### 1. Worship of the Self
-Of the three this is probably the most obviously seen one. People subject to this include those on social media who want to become 'influencers' or people whose career depends on their image. Their entire lives revolves around crafting an image of themselves to project into the world. The only value that they can extract from life is from the amount of followers or likes they can procure. This can be caused from narcissism, vanity, or love of fame (or a mix of all three).
+Of the three this is probably the most visible one. People subject to this include those on social media who want to become 'influencers' or people whose career depends on their image. Their entire lives revolves around crafting an image of themselves to project into the world. The only value that they can extract from life is from the amount of followers or likes they can procure. This can be caused from narcissism, vanity, or love of fame (or a mix of all three).
 
-Another form of this can be exemplified in the hedonistic lifestyle as well that revolves around sensual pleasures. The sort of life that Dan Bilzerian or Paris Hilton leads comes to mind. The highest value is the self, or whatever pleasure one can provide to the self. For men it can resemble a teenage boy's wet dream of sleeping with countless amounts of woman, and playing video games day and night with no homework or responsibilities. For woman the perfect life may involve being the most famous and beautiful woman in the world, to be coveted by both men and women alike.
+This can also be exemplified in the hedonistic lifestyle that revolves around sensual pleasures. The sort of life that Dan Bilzerian or Paris Hilton leads comes to mind. The highest value is the self, or whatever pleasure one can provide to the self. For men it can resemble a teenage boy's wet dream of sleeping with countless amounts of woman, and playing video games day and night with no homework or responsibilities. For woman the perfect life may involve being the most famous and beautiful woman in the world, to be coveted by both men and women alike.
 
-But even if the clear narcissistic manifestations of self-worship is ignored, it can be embodied in more subtle ways. Such worship of the self can described simply as removing "God" from the highest and supplanting God with the self as seen in **Figure 8**. This is the meaning of the 3rd chapter of Genesis in which Adam and Eve ate from the knowledge of good and evil and became like God knowing good and evil: that the Adam and Eve forgot their place in the celestial hierarchy and in doing so severed themselves from God. No longer occupying the middle space between heaven and earth, man answers not to God but only to himself, and no longer the mediator between those two spaces he is an autocrat over himself and all of the world.
+But even if clear narcissistic manifestations of self-worship are set aside, it is embodied in more subtle ways. Such worship of the self can described simply as removing "God" from the highest and supplanting God Him with the self as seen in **Figure 8**. This is the meaning of the 3rd chapter of Genesis in which Adam and Eve ate from the knowledge of good and evil and became like God knowing good and evil: that Adam and Eve forgot their place in the celestial hierarchy and in doing so severed themselves from God. No longer occupying the space between heaven and earth, man answers not to God but only to himself, and no longer the mediator between those two spaces he is an autocrat over himself and all of the world. Now in the position of God, he dictates for himself what is right and what is wrong. This was the meaning of the famous quote by Nietzsche ***"God is dead".***
 
 <figure>
 	<img src="/images/TraditionalvsModern.png">
-	<figcaption> Figure 9: Comparing the traditional paradigm to the modern paradigm
+	<figcaption> Figure 10: Comparing the traditional paradigm to the modern paradigm
 </figcaption>
 </figure>
 
 However this modern paradigm overlooks the fact that just as it is nature hates a physical vacuum, so it is the case with spiritual vacuums; something always fills the void. This is somewhat akin to Jordan Peterson has said ***"People don't have ideas. Ideas have people".***
+
+There is not a single person in the world or in history without some sort of religion, worldview, or without some sort of value system upon which they act. When you cast out one "spirit" another comes to take its place. For example, a person may cast off the spirit of Islam, and take on the spirit of atheism, or Hinduism, or any other -ism.
 
 <figure>
 	<img src="/images/TraditionalvsModern2.png">
@@ -98,7 +105,23 @@ However this modern paradigm overlooks the fact that just as it is nature hates 
 </figcaption>
 </figure>
 
-### 2. Worship of the Government
+### 2. Worship of Government (Statolatry)
+
+The worship of the self and of the species will often grow beyond the individual as we are social beings. We like to commune with others and form a body around a common idea or goal. This body then acts in order to expand itself, either by biological means (reproduction) or ideological means (evangelism) and to achieve its goals. Most pertinent to this day and age is the growing movement of socialism in the West. This branch of socialism is superficially different than the ones seen in Maoist China, or Leninist Russia, yet is still fundamentally the same at its heart. It idolizes the state as the paramount means by which some form of utopia or Paradise will be materialized. This statolatry is often interwoven with secularism, **humanism**, social justice, progressivism, and scientism.
+
+It champions justice, equality, and love towards one's neighbor, all of which are good values in the right context. However, how those values are enacted are inevitably contingent on restrictive control of not just the bodies but of the very souls of the poor citizens wherever such governance is established. In an analogy to an individual, a government can never be without a religion, without placing something at the highest. The 20th century saw the rise of dozens of states similar to that of the Soviet Union, in which leaders began to take on traits and powers that could only be comparable to the gods of antiquity. In the case of the Soviet Union which abolished a state religion, the state quickly developed its own form of religion revolving around Stalin as an all-knowing and all-powerful leader. His name and face appeared everywhere, in homes, in public, in books, and in movies. Where people once called EO priests "father", they now called Stalin "father". Where people thanked God for blessings they now thanked Stalin.
+
+<figure>
+	<img src="/images/Stalin_Public_event.jpg">
+	<figcaption> Figure 10: Poster of Stalin at a public event in 1950. This icon of Stalin is akin to holding an icon of Christ or a saint in a procession.
+</figcaption>
+</figure>
+
+In the same way the divine right of kings in Europe or the mandate of heaven of China gave legitimacy to a ruler because he was an image of the heavenly Father, the dictators of the 20th century were considered legitimate because they embodied the "spirit" of communism or fascism. In the former case, that election to the throne was from above and in the latter case, the election is typically 'democratic' and from below (ie from the masses). In both cases however, the seat of power will be overturned if they are not representing the "highest" properly. In the current epoch, we seem to be in the throes of the final revolution. The spirit of the 21st century will be of the same ilk as of the last, a gradual overthrow and replacement of God with man. Perhaps there won't be cult of personalities, but the leaders will be 
+
+
+saw the attempts by two major powers vying for control over the Earth in the Cold War. But what was on the surface a dialectic was really two sides of the same coin.
+
 As in make the government my "god". It's the purest simplification of the secular worldview-- that man can create paradise on earth, if only they are given complete and direct control over everything. It's a tale as old as time, and it always ends in genocide and horror.
 
 The idea is that man can be God. It's a pure distillation of the fundamental satanic doctrine.
