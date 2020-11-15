@@ -1,6 +1,10 @@
 ---
 title: "The inevitability of Idols, Rituals, and Religion"
-description: "An essay on how religion and religious thinking/behavior is embedded into our consciousness, even if we do not call it a religion. "
+description: "An essay on how religion and religious thinking/behavior is embedded into our consciousness, even if we do not call it a religion."
+iconography. "
+date: 2020-11-15
+image:
+        feature: The inevitability of Idols, Rituals, and Religion_background.png
 ---
 
 # Introduction to Epistemological Models
