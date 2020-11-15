@@ -111,10 +111,10 @@ Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Na
 	<img src="/images/Eugenics_Network_Finalx1_Rockefellers.png">
 	<figcaption> Figure 6: Network with Rockefellers highlighted in green.
 </figcaption>
-</figure>
+</figure>  
 
 
-#Links
+# Links
 https://embryo.asu.edu/pages/american-eugenics-society-1926-1972
 
 https://www.liveaction.org/news/black-woman-sterilized-eugenic-planned-parenthood/
