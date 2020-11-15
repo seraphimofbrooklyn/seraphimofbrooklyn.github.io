@@ -4,7 +4,7 @@ description: "An essay on how religion and religious thinking/behavior is embedd
 iconography."
 date: 2020-11-15
 image:
-feature: The inevitability of Idols, Rituals, and Religion_background.png
+        feature: The inevitability of Idols, Rituals, and Religion_background.png
 ---
 
 # Introduction to Epistemological Models
