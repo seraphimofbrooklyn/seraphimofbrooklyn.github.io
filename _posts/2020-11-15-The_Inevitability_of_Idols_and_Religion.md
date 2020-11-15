@@ -6,7 +6,6 @@ date: 2020-11-15
 image:
         feature: The inevitability of Idols, Rituals, and Religion_background.png
 ---
-
 # Introduction to Epistemological Models
 
 In this essay I would like to explore how atheist, and to a lesser extent agnostic and "spiritual and not religious" people hold beliefs that are fundamentally religious. On the macro-level this would explain how 'secular' governments with no state religion end up propagating systems of belief that are also essentially religious.
@@ -156,7 +155,7 @@ By this point I hope that I have properly clarified how religious structures are
 2) That centre organizes everything outside of the centre, ie ourselves, and the world around us.
 3) Self-worship, state-worship, and science-worship are common forms of worship in modernity in the absence of Christian worship in the West.
 
-###Links
+### Links
 
 http://press-files.anu.edu.au/downloads/press/n2129/html/ch03.xhtml?referer=2129&page=9 - Stalin's Cult of personality
 
