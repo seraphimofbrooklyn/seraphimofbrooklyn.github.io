@@ -6,7 +6,7 @@ date: 2020-11-15
 image:
         feature: The inevitability of Idols, Rituals, and Religion_background.png
 ---
-# Introduction to Epistemological Models
+### Introduction to Epistemological Models
 
 In this essay I would like to explore how atheist, and to a lesser extent agnostic and "spiritual and not religious" people hold beliefs that are fundamentally religious. On the macro-level this would explain how 'secular' governments with no state religion end up propagating systems of belief that are also essentially religious.
 
