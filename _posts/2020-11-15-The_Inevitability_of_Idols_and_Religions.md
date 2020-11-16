@@ -1,6 +1,6 @@
 ---
-title: "The Legacy of American Eugenics"
-description: "A short expose on the close relationship between Darwinism, Eugenics, and Planned Parenthood."
+title: "The Inevitability of Idols and Religions"
+description: "An essay on how religion and religious thinking/behavior is embedded into our consciousness, even if we do not call it a religion."
 ---
 ### Introduction to Epistemological Models
 
