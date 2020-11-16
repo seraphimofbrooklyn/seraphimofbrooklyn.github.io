@@ -1,10 +1,6 @@
 ---
-title: "The Inevitability of Idols and Religion"
-description: "An essay on how religion and religious thinking/behavior is embedded into our consciousness, even if we do not call it a religion."
-iconography."
-date: 2020-11-15
-image:
-        feature: The inevitability of Idols, Rituals, and Religion_background.png
+title: "The Inevitability of Idols and Religions"
+description: "A short expose on the close relationship between Darwinism, Eugenics, and Planned Parenthood."
 ---
 ### Introduction to Epistemological Models
 
