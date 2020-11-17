@@ -3,7 +3,7 @@ title: "The Legacy of American Eugenics"
 description: "An expose on the relationship between Darwinism, Eugenics, and Planned Parenthood."
 date: 2020-11-15
 image:
-        feature: /eugenics/11_16_social_darwinism.png
+        feature: /11_16_social_darwinism.png
 ---
 
 ### Short History of Darwinism
@@ -86,7 +86,7 @@ Margaret Sanger is a modern day icon, but much of her legacy is tainted by her b
 The Rockefellers, and especially John D. Rockefeller were particular interested in improving the human condition.
 <figure>
 	<img src="/images/eugenics/11-16-Rockefellers.png">
-	<figcaption> Figure 7: Network with Rockefellers highlighted in red. Notable connections to Negro Project, KWI, and ERO due to funding. 
+	<figcaption> Figure 7: Network with Rockefellers highlighted in red. Notable connections to Negro Project, KWI, and ERO due to funding.
 </figcaption>
 </figure>
 
