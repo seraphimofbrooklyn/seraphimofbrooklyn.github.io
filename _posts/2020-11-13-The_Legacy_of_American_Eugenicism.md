@@ -1,49 +1,105 @@
 ---
 title: "The Legacy of American Eugenics"
-description: "A short expose on the close relationship between Darwinism, Eugenics, and Planned Parenthood."
+description: "An expose on the relationship between Darwinism, Eugenics, and Planned Parenthood."
+date: 2020-11-15
+image:
+        feature: /eugenics/social_darwinism.png
 ---
-### Short History of Darwinism
-Darwinism...
-### Short History of Eugenics
-The theory of Darwinism soon expanded to the other sciences, and eventually to all areas of society, particularly in anthropology, genetics, health, etc. Thus birthed eugenics and social darwinism primarily through the works of Galton.
 
-### American Eugenics Society
-The American Eugenics Society was formed...
-### Eugenics Report office at Cold Spring Harbor Labratory
-The Eugenics
-### Nazis  
-This is obvious but
+### Short History of Darwinism
+**Charles Darwin** was one of the most important figures of modernity along with Friedrich Nietzsche, Karl Marx, and Sigmund Freud. Their ideas formed the intellectual and scientific foundation for many of the political movements that we saw in the 20th century including the many socialist movements (mainly Marx), as well as the reactionary fascist movements (Darwin and Nietzche). While it is common knowledge that **Nazism and racial eugenics were heavily inspired by Darwinian evolution being applied to humans**, it is less widely known that once racial eugenics fell out of fashion post WW2  the same prominent eugenics advocates rebranded themselves as experts in **'genetics'**, and **'family planning'**.
+
+Darwin was supported by **Thomas Henry Huxley**, nicknamed Darwins bulldog, and his close friend Sir Joseph Dalton Hooker. In the historic 1860 Oxford evolution debate, they defended the Darwinian theory of evolution against its detractors. They were also both members of the X-Club which dominated the **Royal Society** in the late 19th century with 3 consecutive presidents (1873-1885) being members of the X-Club. He was also supported by his half-cousin **Francis Galton**. The three families (Galton, Darwin, and Huxley) were extremely important in the eugenics movement in Britain.
+
+In the era before Darwinism universities did not grant biology degrees, and most biologists were self-taught. Through the efforts of Thomas Henry Huxley, and the Royal Society it biology soon established itself with comparative anatomy remaining at the core of biology curriculums until the advent of more specialized fields of biology. Darwinism's influence very quickly expanded to all areas of society, even outside of what we consider science today with significant consequences in philosophy, metaphysics, and theology.
+
+### Short History of Eugenics
+
+The two main works of Darwin are the *On the Origin of Species* written in 1859 and the *Descent of Man* written in 1871. Francis Galton and Ernst Haeckel, both famous eugenicists, were deeply influenced by Darwin and his works, and easily applied the theory of evolution and natural selection to humanity. It was Galton who coined the phrase 'eugenics' in 1883, one year after Charles Darwin's death. Haeckel promoted Darwins work in Germany, paving the way for the atrocities to come. However, even before the popularization of the term the seeds of eugenics had already been planted. As you can see in a paragraph from Chapter 5 of the *Descent of Man* Darwin shows contempt for the weak, the poor, and the mentally unfit and notes that **their genetic pool is *"highly injurious to the race of man"***.
+
+<figure>
+	<img src="/images/eugenics/Descent_of_Man_snippet.png">
+	<figcaption> Figure 1: From Chapter 5 of *Descent of Man* by Charles Darwin</figcaption>
+</figure>
+
+One often hears the white-washed history which seeks to disconnect Darwin from the ugly legacy of eugenics, and to imply that it took seedy figures to twist it into genocidal policy. **But this idea that one could improve the human race by preventing the 'undesirables' from reproducing was already present at least 30 years before the explosion societies promoting eugenics in the early 20th century**. Darwin not only himself believed in the concept of eugenics, he also endorsed Francis Galton, and Haeckel Haus. In personal correspondence to Haeckel he says *"I can clearly see that you are one of the few who clearly understand Natural Selection.".*, and to Galton on *Heriditary Genius* which cited *On the Origin of Species* as a major influence, *"MY DEAR GALTON,--I have only read about 50 pages of your book (to Judges), but I must exhale myself, else something will go wrong in my inside. I do not think I ever in all my life read anything more interesting and original--and how Well and clearly you put every point!"*.
+
+Not to mention that it was promulgated and legitimized by the intellectual elite at the time including Huxley's grandson Julian Huxley, and many of Charles Darwin's sons, and grandsons. Two of Darwin's sons Leonard Darwin, and Sir George Howard Darwin were champions of eugenics. **Leonard Darwin even became chairman of the British Eugenis Society (BES) from 1911 to 1928**, succeeding his relative Francis Galton. One of his grandsons, **Charles Galton Darwin**, was the BES president 1953-1959 and early 60s. All were well respected members of the Royal Society.
+
+How deeply did the theory of evolution penetrate the souls of these well-respected and richly adorned scientists? Galton believed that Darwin's ideas would eventually evolve into a 'eugenic religion', designed to promote a genetically fitter human species, and wrote *Kantsaywhere* based on this. On a parallel track, T. H. Huxley's grandson **Julian Huxley**, a famous eugenicist who was president of the BES from 1959-1962, said this about eugenics.
+
+	"I find myself inevitably driven to use the language of religion, for the fact is that all this does add up to something in the nature of a religion: perhaps one might call it Evolutionary Humanism.  The word “religion” is often used restrictively to mean belief in gods; but I am not using it in this sense….I am using it in a broader sense, to denote an overall relation between man and his destiny, and one involving his deepest feelings, including his sense of what is sacred.  In this broad sense, evolutionary humanism, it seems to me, is capable of becoming the germ of a new religion, not necessarily supplanting existing religions but supplementing them."
+
+
+
+From this point on I am going a network analysis of major eugenics organizations, their funders, and founders. Then I will hone in on major centers and provide brief explanations of their importance.
+
+### Network Overview
+<figure>
+	<img src="/images/eugenics/11-16-Overview.png">
+	<figcaption> Figure 2: Overall network. Major nodes centered around Eugenics Record Office (purple), Nazis (red), Margaret Sanger and American Birth Control League (blue), British Eugenics Society (dark green), Royal Society (light green) and American Eugenics Society (orange).
+</figcaption>
+</figure>
+
+First thing to note is that several organizations have 'rebranded here', including **American Birth Control League** to **Planned Parenthood** in 1942, the **American Eugenics Society** to the **Society for Biodemography and Social Biology** in 1973, and the **British Eugenics Society** to the **Galton Institute** in 1989. Their journals have changed names as well; from the British **The Eugenics Review** to the **Journal of Biosocial Science** in 1969, and the American Eugenical News to **Eugenics Quarterly** in 1954, to Social Biology in 1969 Biodemography and Social Biology in 2008. This of course is a similar tactic that the US Department of War had used when they changed their name to the Department of Defense in 1949.  
+
+The second thing to note is that this network is extremely complicated and I can provide the spreadsheet that I used to import into Gephi in my github/images/eugenics in case anybody wants it. I generally weight connections higher if an individual directly funds, or founds an organization, and if there are indications that an individual inspires another (as in the case of Madison Grant and Hitler). Lets dive into the key organizations and figures.
+
+## Major Organizations of Eugenics
+
+### Eugenics Report office (ERO) at Cold Spring Harbor Labratory (CSHL)
+This was a research institute founded in 1910 within the Cold Spring Harbor Laboratory under the **Carnegie Institute** of Washington Station for Experimental Evolution. It was funded by the **Mrs. Mary Harriman** (wife of railroad magnate E. H. Harriman), the **Rockefeller Foundation**, and the Carnegie Institution of Washington, and founded by **Charles Davenport**, and **Harry Laughlin** (more on them later). It served as the scientific centre for researching eugenics and human heredity in America. Many of the people associated with the ERO were founders or members of groups that promoted eugenics such as John Harvey Kellog (Racial Betterment Foundation) .
+
+<figure>
+	<img src="/images/eugenics/11-16-ERO.png">
+	<figcaption> Figure 3: Network with ERO highlighted in pink.
+</figcaption>
+</figure>
+
+### American Eugenics Society (AES)
+The American Eugenics Society was formed in 1922 after the 2nd International Congress on Eugenics (ICE in orange in the overview) by **Madison Grant, Harry H. Laughlin, Irving Fisher, Henry Fairfield Osborn, and Henry Crampton**.  Other prominent members and sponsors included **Margaret Sanger, John D. Rockefeller, J.P. Morgan, C.C. Little, and Lothrop Stoddard**.  They promoted ideas like racial betterment, birth control, population control, racial hygiene, eugenic health, and eugenic education that led to government-enforced sterilizations (most notably Buck v. Bell) and anti-miscegenation laws. A secondary function was to organize and promote the work of smaller American eugenics organization like the Racial Betterment Foundation and the Galton Society.
+
+Henry F. Perkins, president of AES from 1931-1933, worked with Margaret Sanger and the Birth Control League, the predecessor of Planned Parenthood. Several of their members such as Madison Grant, Lothrop Stoddard, and Davenport had ties to members of the Nazi party. After eugenics fell from favor after WW2 their focus shifted to genetic analysis and human evolution.
+
+<figure>
+	<img src="/images/eugenics/11-16-AES.png">
+	<figcaption> Figure 4: Network with AES highlighted in orange. Connections to ABCL, Galton Society, IEC, RBF.
+</figcaption>
+</figure>
+### National Socialist Party of Germany (Nazis)
+<figure>
+	<img src="/images/eugenics/11-16-Nazi.png">
+	<figcaption> Figure 5: Network with the National Socialist Party highlighted in red.
+</figcaption>
+</figure>
+
+### Margaret Sanger and American Birth Control League/Planned Parenthood (ABCL/PP)
+Margaret Sanger is a modern day icon, but much of her legacy is tainted by her belief in eugenics and her association with many of the most prominent eugenicists of the day.
+
+<figure>
+	<img src="/images/eugenics/11-16-ABCL_Sanger.png">
+	<figcaption> Figure 6: Network with Sanger, and ABCL in blue.
+</figcaption>
+</figure>
+
 ### Rockefellers
 The Rockefellers, and especially John D. Rockefeller were particular interested in improving the human condition.
-### Margaret Sanger
-Margaret Sanger is a modern day icon, but much of her legacy is tainted by her belief in eugenics and her association with many of the most prominent eugenicists of the day.
+<figure>
+	<img src="/images/eugenics/11-16-Rockefellers.png">
+	<figcaption> Figure 5: Network with Rockefellers highlighted in red. Notable connections to Negro Project, KWI, and ERO due to funding.
+</figcaption>
+</figure>
+
+### British Eugenics Society/Eugenics Education Society (BES) and Royal society
+<figure>
+	<img src="/images/eugenics/11-16-BES_Royal_Society.png">
+	<figcaption> Figure 5: Network with BES and Royal Society highlighted in dark green and light green.
+</figcaption>
+</figure>
 ### 21st Century legacy
 
-Initial thoughts - lots of overlap between eugenicists and ways to "improve the race" via euthanasia, abortion, selective breeding, contraception/birth control, family planning to the point that many of Nazi connections.  Weirdly enough a couple are conversationsalists such as Madison Grant, and Henry Fairfield Osborn. This is not surprising given the majority of these eugenicists are scientifically minded and did major study of the natural world and probably loved the environment very much. Many were biologists, zoologists, anthropologists.
-
-In some of the organizations there was a literal transition from eugenics to simply biology by simply changing the name such as the Eugenics Education Society to the Galton Institute, and American Eugenics Society to the Society for Biodemography and Social Biography.
-
-Additional connection between Malthusian League and Eugenics Education Society via Alice Vickery (husband 1st president of Malthusian League). There is also an occult/theosophical twist when you consider that Annie Besant's role  in the founding of Malthusian League. George Bernard Shaw, a prominent member of the Fabian society who recruited Besant into the Fabian society also was an advocate for eugenics.
-
-Sanger met Marie Stopes (eugenicist, and founder of Britains first birth control clinic with Humphrey Verdon Roe her husband) at Fabian Society so throw in socialist mix. Woman's rights (Annie Besant, Alice Vickery, and Marie Stopes) is also overlapping here as it advocates for birth control. So you have theosophical, globalist, socialist, secularist, malthusian types all intertwined even 100+ years ago. Lastly, It seemed that the British eugenicists were much more inclined to be openly secular than the American counterparts.
-
-Journals - Eugenics Quarterly -> Social Biology
-Eugenics Review (British) -> Journal of Biosocial Science
-Birth Control review
-
-Key Institutions:
-Carnegie Institutions - Carnegie Institution of Washington (CIW) in 1904 created the Station for Experimental Evolution at the Cold Spring Harbor Laboratory in Cold Spring Harbor, New York
 
 Rockefeller Foundation - Funded Negro Project, ERO.
-
-Eugenics Records Office (ERO) @ Cold Spring Harbor Lab (CSHL) - "With a grant from Mary Harriman, the widow of railroad magnate Edward Henry Harriman, Davenport founded the Eugenics Record Office in 1910. In 1917, the Carnegie Institution began funding the ERO, and continued to provide its primary funding source until the ERO closed in 1939. John D. Rockefeller, John H. Kellogg, and other private wealthy philanthropists also provided funding for the organization.""
-
-Race Betterment Foundation (RBF) - Found in 1911 by Kellog and Davenport.
-
-Galton Society
-British Eugenics Society/Eugenics Education Society (now named Galton Institute)
-American Birth Control League (ABCL) founded in 1921 and became Planned parenthood Federation of America (PP) in 1942.
-Am. Eugenics Society (AES)-> The Society of Social Biology or Society for Biodemography and Social Biology
 Human Betterment League (1947)
 
 
@@ -78,11 +134,7 @@ Margaret Sanger  - Founder of ABCL with Stoddard and Little, and Birth Control R
 
 Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Nazi and KKK. "The Nazi Party's chief racial theorist Alfred Rosenberg got the racial term Untermensch from the German version of Stoddard's 1922 book The Revolt Against Civilization: The Menace of the Under-man." Met with Heinrich Himmler, Robert Ley and Fritz Sauckel, as well as a brief meeting with Hitler himself.
 
-<figure>
-	<img src="/images/Eugenics_Network_Finalx1.png">
-	<figcaption> Figure 1: Overall network
-</figcaption>
-</figure>
+
 
 <figure>
 	<img src="/images/Eugenics_Network_Finalx1_AES.png">
@@ -101,11 +153,7 @@ Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Na
 </figcaption>
 </figure>
 
-<figure>
-	<img src="/images/Eugenics_Network_Finalx1_ERO.png">
-	<figcaption> Figure 5: Network with ERO highlighted in pink.
-</figcaption>
-</figure>
+
 
 <figure>
 	<img src="/images/Eugenics_Network_Finalx1_Rockefellers.png">
@@ -115,13 +163,22 @@ Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Na
 
 
 # Links
-https://embryo.asu.edu/pages/american-eugenics-society-1926-1972
+
+https://www.darwinproject.ac.uk/letter/DCP-LETT-4422.xml - Darwin's letter to Haeckel
+
+http://galton.org/books/memories/chapter-XX.html - Darwin's review of Hereditary Genius
+
+https://embryo.asu.edu/pages/american-eugenics-society-1926-1972 - American Eugenics Society
+
+http://eugenicsarchive.ca/discover/connections/5233cfa15c2ec500000000ad - Cold Springs Harbor Labratory connections
+
+http://eugenicsarchive.ca/discover/connections/5233cf7b5c2ec500000000ac - Eugenics Office Record connections
 
 https://www.liveaction.org/news/black-woman-sterilized-eugenic-planned-parenthood/
 
 https://concernedwomen.org/the-negro-project-margaret-sangers-eugenic-plan-for-black-americans/
 
-http://eugenicsarchive.ca/discover/connections/5233cfa15c2ec500000000ad
+
 
 https://mediachecker.wordpress.com/2013/11/10/bill-gates-its-gods-work-monsanto-vaccines-eugenics/
 
@@ -139,8 +196,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2986354/?page=1
 
 https://eraoflight.com/2019/12/08/rockefellers-funded-eugenics-initiative-to-sterilize-15-million-americans/
 
-https://historynewsnetwork.org/article/1796
+https://historynewsnetwork.org/article/1796 - The Horrifying American Roots of Nazi Eugenics
 
 https://www.catholicleague.org/eugenics-rockefeller-and-roe-v-wade-2/
 
-https://dl.tufts.edu/concern/pdfs/fj236d30d
+https://dl.tufts.edu/concern/pdfs/fj236d30d - The Link between the Rockefeller Foundation and Racial Hygiene in Nazi Germany.
+
+https://zthoughtcriminal.blogspot.com/2012/08/another-note-on-george-darwins-1870s.html - George darwin eugenics
+
+https://nationalvanguard.org/2015/12/charles-galton-darwin-eugenics-advocate/ - Sir Charlges Galton Darwin eugenics
