@@ -3,7 +3,7 @@ title: "The Legacy of American Eugenics"
 description: "An expose on the relationship between Darwinism, Eugenics, and Planned Parenthood."
 date: 2020-11-15
 image:
-        feature: /11_16_social_darwinism.png
+        feature: /11-16_social_darwinism.png
 ---
 
 ### Short History of Darwinism
