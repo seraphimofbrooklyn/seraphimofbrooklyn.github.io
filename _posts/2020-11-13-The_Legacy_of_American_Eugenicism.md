@@ -18,7 +18,7 @@ In the era before Darwinism universities did not grant biology degrees, and most
 The two main works of Darwin are the *On the Origin of Species* written in 1859 and the *Descent of Man* written in 1871. Francis Galton and Ernst Haeckel, both famous eugenicists, were deeply influenced by Darwin and his works, and easily applied the theory of evolution and natural selection to humanity. It was Galton who coined the phrase 'eugenics' in 1883, one year after Charles Darwin's death. Haeckel promoted Darwins work in Germany, paving the way for the atrocities to come. However, even before the popularization of the term the seeds of eugenics had already been planted. As you can see in a paragraph from Chapter 5 of the *Descent of Man* Darwin shows contempt for the weak, the poor, and the mentally unfit and notes that **their genetic pool is *"highly injurious to the race of man"***.
 
 <figure>
-	<img src="/images/11-16_Descent_of_Man_snippet.png">
+	<img src="images/11-16_Descent_of_Man_snippet.png">
 	<figcaption> Figure 1: From Chapter 5 of *Descent of Man* by Charles Darwin</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ From this point on I am going a network analysis of major eugenics organizations
 
 ### Network Overview
 <figure>
-	<img src="/images/11-16-Overview.png">
+	<img src="images/11-16-Overview.png">
 	<figcaption> Figure 2: Overall network. Major nodes centered around Eugenics Record Office (purple), Nazis (red), Margaret Sanger and American Birth Control League (blue), British Eugenics Society (dark green), Royal Society (light green) and American Eugenics Society (orange).
 </figcaption>
 </figure>
@@ -49,7 +49,7 @@ The second thing to note is that this network is extremely complicated and I can
 This was a research institute founded in 1910 within the Cold Spring Harbor Laboratory under the **Carnegie Institute** of Washington Station for Experimental Evolution. It was funded by the **Mrs. Mary Harriman** (wife of railroad magnate E. H. Harriman), the **Rockefeller Foundation**, and the Carnegie Institution of Washington, and founded by **Charles Davenport**, and **Harry Laughlin** (more on them later). It served as the scientific centre for researching eugenics and human heredity in America. Many of the people associated with the ERO were founders or members of groups that promoted eugenics such as John Harvey Kellog (Racial Betterment Foundation) .
 
 <figure>
-	<img src="/images/11-16-ERO.png">
+	<img src="images/11-16-ERO.png">
 	<figcaption> Figure 3: Network with ERO highlighted in pink.
 </figcaption>
 </figure>
@@ -60,7 +60,7 @@ The American Eugenics Society was formed in 1922 after the 2nd International Con
 Henry F. Perkins, president of AES from 1931-1933, worked with Margaret Sanger and the Birth Control League, the predecessor of Planned Parenthood. Several of their members such as Madison Grant, Lothrop Stoddard, and Davenport had ties to members of the Nazi party. After eugenics fell from favor after WW2 their focus shifted to genetic analysis and human evolution.
 
 <figure>
-	<img src="/images/11-16-AES.png">
+	<img src="images/11-16-AES.png">
 	<figcaption> Figure 4: Network with AES highlighted in orange. Connections to ABCL, Galton Society, IEC, RBF.
 </figcaption>
 </figure>
@@ -75,7 +75,7 @@ Henry F. Perkins, president of AES from 1931-1933, worked with Margaret Sanger a
 Margaret Sanger is a modern day icon, but much of her legacy is tainted by her belief in eugenics and her association with many of the most prominent eugenicists of the day.
 
 <figure>
-	<img src="/images/11-16-ABCL_Sanger.png">
+	<img src="images/11-16-ABCL_Sanger.png">
 	<figcaption> Figure 6: Network with Sanger, and ABCL in blue.
 </figcaption>
 </figure>
@@ -83,14 +83,14 @@ Margaret Sanger is a modern day icon, but much of her legacy is tainted by her b
 ### Rockefellers
 The Rockefellers, and especially John D. Rockefeller were particular interested in improving the human condition.
 <figure>
-	<img src="/images/11-16-Rockefellers.png">
+	<img src="images/11-16-Rockefellers.png">
 	<figcaption> Figure 5: Network with Rockefellers highlighted in red. Notable connections to Negro Project, KWI, and ERO due to funding.
 </figcaption>
 </figure>
 
 ### British Eugenics Society Education Society (BES) and Royal society
 <figure>
-	<img src="/images/11-16-BES_Royal_Society.png">
+	<img src="images/11-16-BES_Royal_Society.png">
 	<figcaption> Figure 5: Network with BES and Royal Society highlighted in dark green and light green.
 </figcaption>
 </figure>
