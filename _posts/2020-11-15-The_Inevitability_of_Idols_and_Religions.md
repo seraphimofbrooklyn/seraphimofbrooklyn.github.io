@@ -78,7 +78,7 @@ Circles are labeled as below with Christian terminology and where they would be 
 3. Those who do not ‘embody’ belief and have yet to be initiated ie non-believers. The people kept in the **outer court**.
 
 <figure>
-	<img src="/images/Tabernacle_layout.png">
+	<img src="/images/Tabernacle_Layout.png">
 	<figcaption> Figure 9: A diagram of the Tabernacle as described in the Old Testament. This is another analogy for how hierarchy lays itself out, typically via a tri-partite structure with a singular leader being closest to the center (Holy of Holies), the few initiates further out (The Holy Place), and the multitudes farthest outside (Court).
 </figcaption>
 </figure>

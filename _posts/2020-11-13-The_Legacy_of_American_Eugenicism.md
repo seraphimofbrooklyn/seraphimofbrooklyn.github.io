@@ -22,13 +22,15 @@ The two main works of Darwin are the *On the Origin of Species* written in 1859 
 	<figcaption> Figure 1: From Chapter 5 of *Descent of Man* by Charles Darwin</figcaption>
 </figure>
 
-One often hears the white-washed history which seeks to disconnect Darwin from the ugly legacy of eugenics, and to imply that it took seedy figures to twist it into genocidal policy. **But this idea that one could improve the human race by preventing the 'undesirables' from reproducing was already present at least 30 years before the explosion societies promoting eugenics in the early 20th century**. Darwin not only himself believed in the concept of eugenics, he also endorsed Francis Galton, and Haeckel Haus. In personal correspondence to Haeckel he says *"I can clearly see that you are one of the few who clearly understand Natural Selection.".*, and to Galton on *Heriditary Genius* which cited *On the Origin of Species* as a major influence, *"MY DEAR GALTON,--I have only read about 50 pages of your book (to Judges), but I must exhale myself, else something will go wrong in my inside. I do not think I ever in all my life read anything more interesting and original--and how Well and clearly you put every point!"*.
+One often hears the white-washed history which seeks to disconnect Darwin from the ugly legacy of eugenics, and to imply that it took seedy figures to twist it into genocidal policy. **But this idea that one could improve the human race by preventing the 'undesirables' from reproducing was already present at least 30 years before the explosion societies promoting eugenics in the early 20th century**. Darwin not only himself believed in the concept of eugenics, he also endorsed Francis Galton, and Haeckel Haus. In personal correspondence to Haeckel he says *"I can clearly see that you are one of the few who clearly understand Natural Selection.".*, and to Galton on *Heriditary Genius* which cited *On the Origin of Species* as a major influence...
+
+  > *"MY DEAR GALTON,--I have only read about 50 pages of your book (to Judges), but I must exhale myself, else something will go wrong in my inside. I do not think I ever in all my life read anything more interesting and original--and how Well and clearly you put every point!"*.
 
 Not to mention that it was promulgated and legitimized by the intellectual elite at the time including Huxley's grandson Julian Huxley, and many of Charles Darwin's sons, and grandsons. Two of Darwin's sons Leonard Darwin, and Sir George Howard Darwin were champions of eugenics. **Leonard Darwin even became chairman of the British Eugenis Society (BES) from 1911 to 1928**, succeeding his relative Francis Galton. One of his grandsons, **Charles Galton Darwin**, was the BES president 1953-1959 and early 60s. All were well respected members of the Royal Society.
 
 How deeply did the theory of evolution penetrate the souls of these well-respected and richly adorned scientists? Galton believed that Darwin's ideas would eventually evolve into a 'eugenic religion', designed to promote a genetically fitter human species, and wrote *Kantsaywhere* based on this. On a parallel track, T. H. Huxley's grandson **Julian Huxley**, a famous eugenicist who was president of the BES from 1959-1962, said this about eugenics.
 
-	"I find myself inevitably driven to use the language of religion, for the fact is that all this does add up to something in the nature of a religion: perhaps one might call it Evolutionary Humanism.  The word “religion” is often used restrictively to mean belief in gods; but I am not using it in this sense….I am using it in a broader sense, to denote an overall relation between man and his destiny, and one involving his deepest feelings, including his sense of what is sacred.  In this broad sense, evolutionary humanism, it seems to me, is capable of becoming the germ of a new religion, not necessarily supplanting existing religions but supplementing them."
+> "I find myself inevitably driven to use the language of religion, for the fact is that all this does add up to something in the nature of a religion: perhaps one might call it Evolutionary Humanism.  The word “religion” is often used restrictively to mean belief in gods; but I am not using it in this sense….I am using it in a broader sense, to denote an overall relation between man and his destiny, and one involving his deepest feelings, including his sense of what is sacred.  In this broad sense, evolutionary humanism, it seems to me, is capable of becoming the germ of a new religion, not necessarily supplanting existing religions but supplementing them."
 
 
 
@@ -66,7 +68,9 @@ Henry F. Perkins, president of AES from 1931-1933, worked with Margaret Sanger a
 	<figcaption> Figure 4: Network with AES highlighted in orange. Connections to ABCL, Galton Society, IEC, RBF.
 </figcaption>
 </figure>
+
 ### National Socialist Party of Germany (Nazis)
+Obviously this group needs no introduction. Despite one's familiarity it must be noted there are many American connections, and one can even say that at one point the Nazis looked to America for scientific and ideological guidance due to how highly developed eugenics research and thought was in America. 
 <figure>
 	<img src="/images/eugenics/11-16-Nazi.png">
 	<figcaption> Figure 5: Network with the National Socialist Party highlighted in red.
@@ -167,7 +171,7 @@ https://embryo.asu.edu/pages/harry-hamilton-laughlin-1880-1943
 
 https://www.theguardian.com/politics/from-the-archive-blog/2019/may/01/eugenics-founding-fathers-british-socialism-archive-1997
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2986354/?page=1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2986354/?page=1 - Binnie Dunlop on Eugenics Review obituary
 
 https://eraoflight.com/2019/12/08/rockefellers-funded-eugenics-initiative-to-sterilize-15-million-americans/
 
@@ -180,3 +184,5 @@ https://dl.tufts.edu/concern/pdfs/fj236d30d - The Link between the Rockefeller F
 https://zthoughtcriminal.blogspot.com/2012/08/another-note-on-george-darwins-1870s.html - George darwin eugenics
 
 https://nationalvanguard.org/2015/12/charles-galton-darwin-eugenics-advocate/ - Sir Charlges Galton Darwin eugenics
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4366572/- Huxley
