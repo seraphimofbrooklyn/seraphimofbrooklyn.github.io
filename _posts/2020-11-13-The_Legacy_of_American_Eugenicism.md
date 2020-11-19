@@ -30,7 +30,7 @@ Not to mention that it was promulgated and legitimized by the intellectual elite
 
 How deeply did the theory of evolution penetrate the souls of these well-respected and richly adorned scientists? Galton believed that Darwin's ideas would eventually evolve into a 'eugenic religion', designed to promote a genetically fitter human species, and wrote *Kantsaywhere* based on this. On a parallel track, T. H. Huxley's grandson **Julian Huxley**, a famous eugenicist who was president of the BES from 1959-1962, said this about eugenics.
 
-> "I find myself inevitably driven to use the language of religion, for the fact is that all this does add up to something in the nature of a religion: perhaps one might call it Evolutionary Humanism.  The word “religion” is often used restrictively to mean belief in gods; but I am not using it in this sense….I am using it in a broader sense, to denote an overall relation between man and his destiny, and one involving his deepest feelings, including his sense of what is sacred.  In this broad sense, evolutionary humanism, it seems to me, is capable of becoming the germ of a new religion, not necessarily supplanting existing religions but supplementing them."
+	> *"I find myself inevitably driven to use the language of religion, for the fact is that all this does add up to something in the nature of a religion: perhaps one might call it Evolutionary Humanism.  The word “religion” is often used restrictively to mean belief in gods; but I am not using it in this sense….I am using it in a broader sense, to denote an overall relation between man and his destiny, and one involving his deepest feelings, including his sense of what is sacred.  In this broad sense, evolutionary humanism, it seems to me, is capable of becoming the germ of a new religion, not necessarily supplanting existing religions but supplementing them."*
 
 
 
@@ -70,7 +70,7 @@ Henry F. Perkins, president of AES from 1931-1933, worked with Margaret Sanger a
 </figure>
 
 ### National Socialist Party of Germany (Nazis)
-Obviously this group needs no introduction. Despite one's familiarity it must be noted there are many American connections, and one can even say that at one point the Nazis looked to America for scientific and ideological guidance due to how highly developed eugenics research and thought was in America. 
+Obviously this group needs no introduction. Despite one's familiarity it must be noted there are many American connections, and one can even say that at one point the Nazis looked to America for scientific and ideological guidance due to how highly developed eugenics research and thought was in America.
 <figure>
 	<img src="/images/eugenics/11-16-Nazi.png">
 	<figcaption> Figure 5: Network with the National Socialist Party highlighted in red.
