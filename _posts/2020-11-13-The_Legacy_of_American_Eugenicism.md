@@ -7,6 +7,11 @@ image:
 ---
 
 ### Short History of Darwinism
+
+*italics check* with *
+
+_italics check2_ with _
+
 **Charles Darwin** was one of the most important figures of modernity along with Friedrich Nietzsche, Karl Marx, and Sigmund Freud. Their ideas formed the intellectual and scientific foundation for many of the political movements that we saw in the 20th century including the many socialist movements (mainly Marx), as well as the reactionary fascist movements (Darwin and Nietzche). While it is common knowledge that **Nazism and racial eugenics were heavily inspired by Darwinian evolution being applied to humans**, it is less widely known that once racial eugenics fell out of fashion post WW2  the same prominent eugenics advocates rebranded themselves as experts in **'genetics'**, and **'family planning'**.
 
 Darwin was supported by **Thomas Henry Huxley**, nicknamed Darwins bulldog, and his close friend Sir Joseph Dalton Hooker. In the historic 1860 Oxford evolution debate, they defended the Darwinian theory of evolution against its detractors. They were also both members of the X-Club which dominated the **Royal Society** in the late 19th century with 3 consecutive presidents (1873-1885) being members of the X-Club. He was also supported by his half-cousin **Francis Galton**. The three families (Galton, Darwin, and Huxley) were extremely important in the eugenics movement in Britain.
