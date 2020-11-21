@@ -54,8 +54,8 @@ sup {
     background: $hilite;
 }
 
-blockquote {
-    font-size:  15px;
+blockquote, blockquote p {
+    font-size: 1.5em;
     font-style: italic;
     line-height: 1.0em;
     text-align: center;
@@ -719,7 +719,7 @@ h1 {
 }
 
 blockquote, blockquote p {
-    font-size: 10px;
+    font-size: $fs5;
 }
 
 footer {
