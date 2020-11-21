@@ -54,11 +54,11 @@ sup {
     background: $hilite;
 }
 
-blockquote, blockquote p {
-    font-size: 10px;
+blockquote {
+    font-size:  15px;
     font-style: italic;
     line-height: 1.0em;
-    text-align: right;
+    text-align: center;
     color: lighten($black, .2);
     margin-bottom: $lh;
 }
