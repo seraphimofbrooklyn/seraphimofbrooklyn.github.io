@@ -53,16 +53,9 @@ sup {
     @include br(4px);
     background: $hilite;
 }
+
 blockquote {
-  font-size:  150px;
-  font-style: italic;
-  line-height: 1.0em;
-  text-align: center;
-  color: lighten($black, .2);
-  margin-bottom: $lh;
-}
-blockquote p {
-    font-size:  150px;
+    font-size:  15px;
     font-style: italic;
     line-height: 1.0em;
     text-align: center;
