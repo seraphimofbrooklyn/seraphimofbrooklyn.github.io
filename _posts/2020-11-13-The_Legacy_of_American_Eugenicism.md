@@ -52,7 +52,7 @@ The second thing to note is that this network is extremely complicated and I hav
 The Eugenics Reports Office was a research institute founded in 1910 within the Cold Spring Harbor Laboratory under the **Carnegie Institute** of Washington Station for Experimental Evolution [7][8]. It was first funded by the **Mrs. Mary Harriman** (wife of railroad magnate E. H. Harriman), then by the Carnegie Institution in 1917, and later by **John D. Rockefeller, John H. Kellogg**, and other private wealthy philanthropists. Many of the people associated with the ERO were also founders or members of groups that promoted eugenics such as John Harvey Kellog (founding the Racial Betterment Foundation), and Harry Laughlin (founding the Pioneer Fund). It Harry Laughin and the people financing him individuals that called 15 million Americans "defective".
 
 <figure>
-	<img src="/images/eugenics/11-16-15-Washington_Herald_15-million-defective.png">
+	<img src="/images/eugenics/11-16-15-Washington_Herald_15-million-defective.PNG">
 	<figcaption> Figure 3: Washington Herald on September 3rd, 1915 clipping with headline :15,000,000 Americans Defective, They Say.
 </figcaption>
 </figure>
