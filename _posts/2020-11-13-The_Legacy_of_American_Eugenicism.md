@@ -8,7 +8,7 @@ image:
 
 ### Short History of Darwinism
 
-**Charles Darwin** was one of the most important figures of modernity along with Friedrich Nietzsche, Karl Marx, and Sigmund Freud. Their ideas formed the intellectual and scientific foundation for many of the 20th century political movements including the many socialist movements (mainly Marx), as well as the reactionary fascist movements (Darwin and Nietzche). While it likely common knowledge that **Nazism and racial eugenics were heavily inspired by Darwinian evolution being applied to humans**, it is less widely known that once racial eugenics fell out of fashion post WW2  the same prominent eugenics advocates rebranded themselves as experts in **'genetics'**, **genomics**, or **population genetics**. 
+**Charles Darwin** was one of the most important figures of modernity along with Friedrich Nietzsche, Karl Marx, and Sigmund Freud. Their ideas formed the intellectual and scientific foundation for many of the 20th century political movements including the many socialist movements (mainly Marx), as well as the reactionary fascist movements (Darwin and Nietzche). While it likely common knowledge that **Nazism and racial eugenics were heavily inspired by Darwinian evolution being applied to humans**, it is less widely known that once racial eugenics fell out of fashion post WW2  the same prominent eugenics advocates rebranded themselves as experts in **'genetics'**, **genomics**, or **population genetics**.
 
 Darwin was supported by **Thomas Henry Huxley**, nicknamed Darwins Bulldog, and his close friend Sir Joseph Dalton Hooker. In the historic 1860 Oxford evolution debate, they defended the Darwinian theory of evolution against its detractors. They were also both members of the X-Club which dominated the **Royal Society** in the late 19th century with 3 consecutive presidents (Hooker, Spottiswoode, and Huxley from 1873-1885) being members of the X-Club. He was also supported by his half-cousin **Francis Galton**. The three names (Galton, Darwin, and Huxley) were extremely important in the eugenics movement in Britain. 	
 
@@ -16,22 +16,22 @@ In the era before Darwinism universities did not grant biology degrees, and most
 
 ### Short History of Eugenics
 
-The two main works of Darwin are the *On the Origin of Species* written in 1859 and the *Descent of Man* written in 1871. Francis Galton and Ernst Haeckel, both famous eugenicists, were deeply influenced by Darwin and his works, and applied the theory of evolution and natural selection to the human race. It was Galton who coined the phrase 'eugenics' in 1883, one year after Charles Darwin's death. Haeckel promoted Darwins work in Germany, paving the way for the atrocities to come. However, even before the popularization of the term, the seeds of eugenics had already been planted. As you can see in a paragraph from Chapter 5 of the *Descent of Man* Darwin shows contempt for the weak, the poor, and the mentally unfit and notes that **their genetic pool is *"highly injurious to the race of man"***[].
+The two main works of Darwin are the *On the Origin of Species* written in 1859 and the *Descent of Man* written in 1871. Francis Galton and Ernst Haeckel, both famous eugenicists, were deeply influenced by Darwin and his works, and applied the theory of evolution and natural selection to the human race. It was Galton who coined the phrase 'eugenics' in 1883, one year after Charles Darwin's death. Haeckel promoted Darwins work in Germany, paving the way for the atrocities to come. However, even before the popularization of the term, the seeds of eugenics had already been planted. As you can see in a paragraph from Chapter 5 of the *Descent of Man* Darwin shows contempt for the weak, the poor, and the mentally unfit and notes that **their genetic pool is *"highly injurious to the race of man"***[1].
 
 <figure>
 	<img src="/images/eugenics/11-16_Descent_of_Man_snippet.png">
 	<figcaption> Figure 1: From Chapter 5 of *Descent of Man* by Charles Darwin</figcaption>
 </figure>
 
-One often hears a white-washed biography which seeks to disconnect Darwin from the ugly legacy of eugenics, and to imply that it took seedy figures to twist it into genocidal policy. **But this idea that one could improve the human race by preventing the 'undesirables' from reproducing was already present at least 30 years before the explosion societies promoting eugenics in the early 20th century**. Darwin not only himself believed in some form of eugenics, he also endorsed Galton and Haeckel. In personal correspondence to Haeckel he says *"I can clearly see that you are one of the few who clearly understand Natural Selection.".*[]. Upon reading Galton's *Heriditary Genius*, which formed the basis of Galton's later eugenic work and thought and cited *On the Origin of Species* as a major influence, Darwin writes enthusiastically to his cousin...
+One often hears a white-washed biography which seeks to disconnect Darwin from the ugly legacy of eugenics, and to imply that it took seedy figures to twist it into genocidal policy. **But this idea that one could improve the human race by preventing the 'undesirables' from reproducing was already present at least 30 years before the explosion societies promoting eugenics in the early 20th century**. Darwin not only himself believed in some form of eugenics, he also endorsed Galton and Haeckel. In personal correspondence to Haeckel he says *"I can clearly see that you are one of the few who clearly understand Natural Selection.".*[2]. Darwin writes enthusiastically to his cousin after reading Galton's *Heriditary Genius*, which formed the basis of Galton's later eugenic work and cited *On the Origin of Species* as a major influence the following.
 
-  >"MY DEAR GALTON,--I have only read about 50 pages of your book (to Judges), but I must exhale myself, else something will go wrong in my inside. I do not think I ever in all my life read anything more interesting and original--and how Well and clearly you put every point!". []
+  >"MY DEAR GALTON,--I have only read about 50 pages of your book (to Judges), but I must exhale myself, else something will go wrong in my inside. I do not think I ever in all my life read anything more interesting and original--and how Well and clearly you put every point!". [3]
 
-Not to mention that eugenics was promulgated and legitimized by their descendants who made up the intellectual elite in the early 20th century including Huxley's grandson Julian Huxley, and many of Charles Darwin's sons, and grandsons. Two of Darwin's sons Leonard Darwin, and Sir George Howard Darwin [] were champions of eugenics. **Leonard Darwin even became chairman of the British Eugenis Society (BES) from 1911 to 1928**, succeeding his relative Francis Galton. One of his grandsons, **Charles Galton Darwin**, was the BES president 1953-1959 and early 60s. All were well respected members of the Royal Society.
+Not to mention that eugenics was propogated and legitimized by their descendants who made up the intellectual elite of the 20th century including Huxley's grandson Julian Huxley, and many of Charles Darwin's sons, and grandsons. Two of Darwin's sons Leonard Darwin, and Sir George Howard Darwin [4] were champions of eugenics. **Leonard Darwin even became chairman of the British Eugenis Society (BES) from 1911 to 1928**, succeeding his relative Francis Galton. One of his grandsons, **Charles Galton Darwin**, was the BES president 1953-1959 and early 60s [5]. All were well respected members of the Royal Society.
 
-How deeply did the theory of evolution penetrate the souls of these well-respected and richly adorned scientists? Galton believed that Darwin's ideas would eventually evolve into a 'eugenic religion', designed to promote a genetically fitter human species, and wrote *Kantsaywhere* based on this. On a parallel track **Julian Huxley**, a famous eugenicist, who was president of the BES from 1959-1962, said this about eugenics[].
+How deeply did the theory of evolution penetrate the souls of these well-respected and richly adorned scientists? Galton believed that Darwin's ideas would eventually evolve into a 'eugenic religion', designed to promote a genetically fitter human species, and wrote *Kantsaywhere* based on this. On a parallel track **Julian Huxley**, a famous eugenicist, who was president of the BES from 1959-1962, said this about eugenics [6].
 
-> "I find myself inevitably driven to use the language of religion, for the fact is that all this does add up to something in the nature of a religion: perhaps one might call it Evolutionary Humanism.  The word “religion” is often used restrictively to mean belief in gods; but I am not using it in this sense….I am using it in a broader sense, to denote an overall relation between man and his destiny, and one involving his deepest feelings, including his sense of what is sacred.  In this broad sense, evolutionary humanism, it seems to me, is capable of becoming the germ of a new religion, not necessarily supplanting existing religions but supplementing them."
+> "I find myself inevitably driven to use the language of religion, for the fact is that all this does add up to something in the nature of a religion: perhaps one might call it Evolutionary Humanism.  The word “religion” is often used restrictively to mean belief in gods; but I am not using it in this sense….I am using it in a broader sense, to denote an overall relation between man and his destiny, and one involving his deepest feelings, including his sense of what is sacred.  In this broad sense,**evolutionary humanism, it seems to me, is capable of becoming the germ of a new religion**, not necessarily supplanting existing religions but supplementing them."
 
 From this point on I am going a network analysis of major eugenics organizations, their funders, and founders. Then I will hone in on major centers and provide brief explanations of their importance.
 
@@ -75,13 +75,11 @@ There are several interesting connections... **Henry F. Perkins**, president of 
 
 The British counterpart of the AES was the **British Eugenics Society**, also called the **Eugenics Education Society**. Prominent members included **Marie Stopes, Julian Huxley, Charles Galton Darwin, Leonard Darwin, Francis Galton, Alice Vickery, John Maynard Keynes, Winston Churchill**, and familiar American names like **Margaret Sanger, Henry Fairfield Osborn, and John Harvey Kellog**. The BES had its own publication called the **Eugenics Review**, and like the AES engaged in advocacy of eugenics through lobbying the Parliament, and "educating" the public through its publications and lectures.
 
-BES membership had a significant overlap with the **Royal Society** of the UK, the central hub of scientific research. As stated in the section on the history of eugenics, the scientific milieu of the time saw eugenics as not only an attractive, but something that had to be put into practice for the improvement of the human race. There was a "greater good" that grounded the ideology of many of the members of the BES and the Royal Society.
-
-The BES changed their publication name to the **Journal of Biosocial Science** in 1969 and their organization's name to the **Galton Institute** in 1989.
+BES membership had a significant overlap with the **Royal Society** of the UK, the central hub of scientific research. Julian Huxley was a prominent member in both, and often used an agricultural analogy when describing eugenics ***"no one doubts the wisdom of managing the germ plasm of agricultural stocks, so why not apply the same concept to human stocks?"***[]. As stated in the section on the history of eugenics, the scientific milieu of the time saw eugenics as not only an attractive, but something that had to be put into practice for the improvement of the human race. There was a "greater good" that grounded the ideology of many of the members of the BES and the Royal Society. After eugenics as a term fell out of favor, the BES changed their publication name to the **Journal of Biosocial Science** in 1969 and their organization's name to the **Galton Institute** in 1989.
 
 <figure>
 	<img src="/images/eugenics/11-16-BES_Royal_Society.png">
-	<figcaption> Figure 5: Network with Rockefellers highlighted in red. Notable connections to Negro Project, KWI, and ERO due to funding.
+	<figcaption> Figure 5: Network with BES and Royal Society selected.
 </figcaption>
 </figure>
 
@@ -175,7 +173,14 @@ Julian Huxley - Royal Society biologist, and president of BES from 1959-1962, fo
 
 Clarence James Gamble - Grandson of founder of Proctor and Gamble. Director of ABCL (PP), President of Pennsylvania Birth Control Fedaration, state delegate, one of five vice-presidents, and member of the Executive Committee of the Board of the American Birth Control League; medical field director of Margaret Sanger's Birth Control Clinical Research Bureau, partnered with Sanger for Negro Project, founder of Pathfinder Fund, and founding member of Human Betterment League of NC in 1947. He got a letter from Sanger “We do not want the word to go out that we want to exterminate the Negro population, and the minister is the man who can straighten that idea out if it ever occurs to any of their more rebellious members.”
 
-Leonard Darwin & Charles Darwin - Son and Father combo. Darwinism and social Darwinism set the intellectual backdrop. His son Leonard picked up the ball becoming chairman of BEC from 1911 to 1928, succeding his half-cousin once removed Francis Galton. Leonard held the 1st Int. Congress of Eugenics. Both Royal Society members.
+
+Charles Darwin - Founder of Darwinism and evolutionary biology. He had two sons who were eugenicists Leonard Darwin and George Darwin.
+
+Sir George Howard Darwin - English barrister and astronomer. Royal society fellow. Advocated for eugenics.
+
+Leonard Darwin -  English politician, economist and eugenicist who mentored Ronald Fischer, an evolutionary biologist, statistician and eugenicist. Chairman of BEC from 1911 to 1928, succeeding his half-cousin once removed Francis Galton. Leonard held the 1st Int. Congress of Eugenics. Royal Society fellow.
+
+Charles Galton Darwin -  Son of Sir George Howard Darwin and grandson of Charles Darwin and president of the Eugenics Society from 1953 to 1959, and, near the end of his life in the early 1960s, Advisory Editor of the still-published Mankind Quarterly. Royal Society Fellow.
 
 Francis Galton - Coined the term eugenics, president from 1907-1911. He was inspired by his cousin Charles Darwin's work. "In an effort to reach a wider audience, Galton worked on a novel entitled Kantsaywhere from May until December 1910. The novel described a utopia organised by a eugenic religion, designed to breed fitter and smarter humans."
 
@@ -202,20 +207,25 @@ Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Na
 
 
 # Links and Further Reading
+[1] http://bibliotecadigital.puc-campinas.edu.br/services/e-books/Charles%20Darwin-1.pdf - Descent of Man page 76
 
-[1] https://www.darwinproject.ac.uk/letter/DCP-LETT-4422.xml - Darwin's letter to Haeckel
+[2] https://www.darwinproject.ac.uk/letter/DCP-LETT-4422.xml - Darwin's letter to Haeckel
 
-[2] http://galton.org/books/memories/chapter-XX.html - Darwin's review of Hereditary Genius
+[3] http://galton.org/books/memories/chapter-XX.html - Darwin's review of Hereditary Genius
 
-http://bibliotecadigital.puc-campinas.edu.br/services/e-books/Charles%20Darwin-1.pdf - Descent of Man page 76
+[4] http://www.gutenberg.org/files/35588/35588-pdf.pdf - Memoir of Sir George Howard Darwin by his brother Francis Darwin. Page 19 of the pdf states that he wrote a "eugenic" article.
 
-[] Evolution in Action by Julian Huxley.  New York City: Signet, 1957, page 132.
+[5] https://nationalvanguard.org/2015/12/charles-galton-darwin-eugenics-advocate/ - Sir Charles Galton Darwin connections to eugenics
+
+[6] [Evolution in Action](https://archive.org/details/evolutioninactio00huxl) by Julian Huxley. Pages 171-172. See [screenshot](https://github.com/seraphimofbrooklyn/seraphimofbrooklyn.github.io/blob/master/images/eugenics/Evolution_in_Action_eugenic_religion.png)
 
 https://embryo.asu.edu/pages/american-eugenics-society-1926-1972 - American Eugenics Society
 
 http://eugenicsarchive.ca/discover/connections/5233cfa15c2ec500000000ad - Cold Springs Harbor Labratory connections
 
 http://eugenicsarchive.ca/discover/connections/5233cf7b5c2ec500000000ac - Eugenics Office Record connections
+
+http://self.gutenberg.org/articles/Julian_Huxley  - Huxleys biography on Gutenberg
 
 https://www.liveaction.org/news/black-woman-sterilized-eugenic-planned-parenthood/
 
@@ -227,13 +237,11 @@ https://northcarolinahistory.org/encyclopedia/human-betterment-league-of-north-c
 
 https://www.icl-fi.org/english/wv/994/sterilization.html - Second article on NC Sterilizations
 
-http://www.gutenberg.org/files/35588/35588-pdf.pdf - Memoir of Sir George Howard Darwin by his brother Francis Darwin. Page 19 of the pdf states that he wrote a "eugenic" article.
+
 
 https://mediachecker.wordpress.com/2013/11/10/bill-gates-its-gods-work-monsanto-vaccines-eugenics/
 
 https://vocal.media/theSwamp/covid-ops-history-of-eugenics-and-sterilization
-
-https://linkurio.us/blog/graph-viz-101-visual-language-node-link-diagrams/
 
 https://embryo.asu.edu/pages/eugenics-record-office-cold-spring-harbor-laboratory-1910-1939
 
@@ -250,8 +258,6 @@ https://historynewsnetwork.org/article/1796 - The Horrifying American Roots of N
 https://www.catholicleague.org/eugenics-rockefeller-and-roe-v-wade-2/
 
 https://dl.tufts.edu/concern/pdfs/fj236d30d - The Link between the Rockefeller Foundation and Racial Hygiene in Nazi Germany.
-
-https://nationalvanguard.org/2015/12/charles-galton-darwin-eugenics-advocate/ - Sir Charles Galton Darwin eugenics
 
 https://groups.csail.mit.edu/mac/users/rauch/abortion_eugenics/sanger/sanger_04.html - The Pivot of Civilization by Margaret Sanger
 
