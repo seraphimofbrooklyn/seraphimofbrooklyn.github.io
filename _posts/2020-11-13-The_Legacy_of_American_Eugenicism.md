@@ -67,7 +67,7 @@ It was founded by and led by **Charles Davenport**, and **Harry Laughlin** two v
 
 ### American Eugenics Society (AES)
 
-The American Eugenics Society was formed in 1922 after the 2nd International Eugenics Congress (IEC in orange in the overview) by **Madison Grant, Harry H. Laughlin, Irving Fisher, Henry Fairfield Osborn, Frederick Osborn, and Henry Crampton** [10].  Other prominent members and sponsors included **Margaret Sanger, John D. Rockefeller, J.P. Morgan, C.C. Little, and Lothrop Stoddard**. They promoted racial betterment, birth control, population control, racial hygiene, eugenic health, and eugenic education that led to government-enforced sterilizations (most notably Buck v. Bell) and anti-miscegenation laws. A secondary function was to organize and promote the work of smaller American eugenics organization like the Racial Betterment Foundation (RBF) and the Galton Society (GS).
+The American Eugenics Society was formed in 1922 after the 2nd International Eugenics Congress (IEC in orange in the overview) by **Madison Grant, Harry H. Laughlin, Irving Fisher, Henry Fairfield Osborn, and Henry Crampton** [10].  Other prominent members and sponsors included **Margaret Sanger, John D. Rockefeller, J.P. Morgan, C.C. Little, and Lothrop Stoddard**. They promoted racial betterment, birth control, population control, racial hygiene, eugenic health, and eugenic education that led to government-enforced sterilizations (most notably Buck v. Bell) and anti-miscegenation laws. A secondary function was to organize and promote the work of smaller American eugenics organization like the Racial Betterment Foundation (RBF) and the Galton Society (GS).
 
 There are several interesting connections... **Henry F. Perkins**, president of AES from 1931-1933, worked with Margaret Sanger and the American Birth Control League, the predecessor of Planned Parenthood. Several of their members such as Madison Grant, Lothrop Stoddard, and Davenport had ties to members of the Nazi party. The AES and the ERO paved the way for the eventual state enforce sterilizations of Native Americans[11], Puero-Ricans [12], African-Americans, all of whom constituted the lower classes of society. After eugenics fell from favor after WW2 their focus shifted to genetic analysis and human evolution. As stated in Network Overview the **American Eugenics Society** to the **Society for Biodemography and Social Biology** in 1973, though at their own admittance “The change of name of the Society does not coincide with any change of its interests or policies.”.
 
@@ -166,18 +166,19 @@ To use an example from my own life, I remember watching the opening scene of [Id
 
 > Surely it is an amazing and discouraging phenomenon that the very governments that have seen fit to interfere in practically every phase of the normal citizen's life, dare not attempt to restrain, either by force or persuasion, the moron and the imbecile from producing his large family of feeble-minded offspring.
 
-I was only a teenager in high school at the time, but I had such developed views on how a society should be run, and who should and should not be passing on their genetics. Where did such ideas come from? The education system and the culture. **By default Westerners are initiated into a culture that is neutral if not outright supportive of euthanasia, designer babies (CRISPR), abortion, birth control etc. because the "eugenic religion" of Julian Huxley and Galton has become the foundation of our ethics**. What is "good" for American society and, to a larger extent, the world is if poor people were to have smaller children! **Frederick Osborn** writes positively on the prospect of reducing birth rates in Issue 2 of the 1963 Eugenics Quarterly *"The reduction [birth rates] would be greatest among those at the lowest educational level... The reduction would also be greatest among the large families at the lowest economic levels."*[]. It is also good to stop having genetically defective children. If the fetus has genetic problems like Down Syndrome... you are better off aborting it. And isn't it great that not only do we have technology that allows us to avoid genetic defects, we will soon be able to selectively choose which genes to include and to exclude in our children?
+I was only a teenager in high school at the time, but I had such developed views on how a society should be run, and who should and should not be passing on their genetics. Where did such ideas come from? The education system and the culture. **By default Westerners are initiated into a culture that is neutral if not outright supportive of euthanasia, designer babies (CRISPR), abortion, birth control etc. because the "eugenic religion" of Julian Huxley and Galton has become the foundation of our ethics**. What is "good" for American society and, to a larger extent, the world is if poor people were to have smaller children! **Frederick Osborn** writes positively on the prospect of reducing birth rates in Issue 2 of the 1963 Eugenics Quarterly *"The reduction [birth rates] would be greatest among those at the lowest educational level... The reduction would also be greatest among the large families at the lowest economic levels."*[26]. He also writes in **The Future of Human Heredity** that *"Eugenic goals are most likely to be attained under a name other than eugenics.”* [27], namely through voluntary means via birth control, contraceptives, and the like. It would also be good to stop having genetically defective children. If the fetus has genetic problems like Down Syndrome... you are better off aborting it. And isn't it great that not only do we have technology that allows us to avoid genetic defects, we will soon be able to selectively choose which genes to include and to exclude in our children?
 
 This biological and genetic telos is implicit in Western society. **What is "good" is what will "progress" the human race to a more "evolved" state** perhaps even to the point where we cease to be humans. This is the basic thesis of **transhumanism**, a philosophical movement that Julian Huxley also founded. The desire to achieve more "evolved" state or higher lifeform is nothing other than man's desire to become perfect, and become god-like. This inverted form of theosis, the belief that man can become god-like through participation in God's energies, in which perfection is achieved through matter rather than from spirit is the religion of modernity.
 
-The legacy of Darwinism and of its offspring, eugenics, is on that is profound and runs deep in the heart of the spirit of the West. The children that are fed this propaganda (a term Pyke to describe the very beliefs she holds) will have their beliefs shaped in a way that they will see the world in a eugenic lens, casting condescending judgement on the poor and unproductive members of society and wishing that they would just stop having babies. With each passing generation, more and more of society will have been initiated into this "eugenic religion". My only hope is that we reject it.
+The legacy of Darwinism and of its offspring, eugenics, is on that is profound and runs deep in the heart of the spirit of the West. The children that are fed this propaganda (a term Pyke to describe the very beliefs she holds) will have their beliefs shaped in a way that they will see the world in a **eugenic lens, painting large swathes of the society as "defective" or "inferior"** and wishing that they would either have less children or none at all, as if they were livestock to be culled. With each passing generation, more and more of society will have been initiated into this "eugenic religion". My only hope is that we reject it.
 
-### Short notes on People/Organization (non-exhaustive)
+#### Short notes on People/Organization (non-exhaustive and doesn't include all the figures and organizations)
+
 Rockefeller Foundation - Funded Negro Project, ERO, Human Betterment League (1947), KWI.
 
 Thomas Henry Huxley ie Darwin's Bulldog - X-Club, Royal Society, . Grandfather of Julian and Aldous Huxley.
-Julian Huxley - Royal Society biologist, and president of BES from 1959-1962, founding member of WWF and UNESCO.
 
+Julian Huxley - Royal Society biologist, and president of BES from 1959-1962, founding member of WWF and UNESCO.
 
 Clarence James Gamble - Grandson of founder of Proctor and Gamble. Director of ABCL (PP), President of Pennsylvania Birth Control Fedaration, state delegate, one of five vice-presidents, and member of the Executive Committee of the Board of the American Birth Control League; medical field director of Margaret Sanger's Birth Control Clinical Research Bureau, partnered with Sanger for Negro Project, founder of Pathfinder Fund, and founding member of Human Betterment League of NC in 1947. He got a letter from Sanger “We do not want the word to go out that we want to exterminate the Negro population, and the minister is the man who can straighten that idea out if it ever occurs to any of their more rebellious members.”
 
@@ -199,7 +200,7 @@ Madison Grant - Author of The Passing of the Great Race. Founded AES with Laughl
 
 John Harvey Kellog - Founded RBF based in Battle Creek MI with Davenport and Fisher. Helped fund ERO. Member of AES and BES.
 
-Ernest Rudin - Wrote in Sangers book. Prominent Swiss-born German psychiatrist, geneticist, eugenicist and Nazi. He also argued for, designed, justified and funded the mass sterilization and clinical killing of adults and children.
+Ernest Rudin - Wrote in [Sangers Birth Control Review](https://lifedynamics.com/app/uploads/2015/09/1933-04-April.pdf). Prominent Swiss-born German psychiatrist, geneticist, eugenicist and Nazi. He also argued for, designed, justified and funded the mass sterilization and clinical killing of adults and children.
 
 Henry Farnham Perkins - AES President from 1931-1934 and worked with the ABCL.
 
@@ -211,9 +212,14 @@ Margaret Sanger  - Founder of ABCL with Stoddard and Little, and Birth Control R
 
 Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Nazi and KKK. "The Nazi Party's chief racial theorist Alfred Rosenberg got the racial term Untermensch from the German version of Stoddard's 1922 book The Revolt Against Civilization: The Menace of the Under-man." Met with Heinrich Himmler, Robert Ley and Fritz Sauckel, as well as a brief meeting with Hitler himself.
 
+Frederick Osborne - Nephew of fellow eugenicist Henry Fairfield Osborne, and cousin of Henry Fairfield Osborn Jr. American philanthropist, military leader, and eugenicist who played an important role in rehabilitating eugenics post WW2. The American Philosophical Society said this about him in 1983 "the respectable face of eugenic research in the post-war period." President of AES from 1946-1951 but was called to serve in the State Department.
 
+Henry Fairfield Osborne - American paleontologist, geologist and eugenics advocate. President of American Museum of Natural History for 25 years. President of the Second International Congress of Eugenics which was held in New York in 1921, sponsored by the Eugenics Record Office and the American Museum of Natural History.
 
-### Bibliography
+Alfred Rosenburg - Chief Nazi theorist and ideologue via his seminal work The Myth of the Twentieth Century, which took inspiration from Madison Grant, Lothrop Stoddard, Houston Stewart ChamberlainArthur de Gobineau. Known for his hatred of Christianity.
+
+Annie Besant - Socialist, theosophist, women's right activist, freemason, and secularist. Was involved in the founding of many anti-clerical and secular organizations like National Secular Society (NSS), Malthusian League, Fabian League. Close associates include Charles Bradlaugh (founder of NSS), Helen Blavatsky (founder of Theosophy) and George Bernard Shaw (Fabian Society member and writer).
+## Bibliography
 
 [1] [Descent of Man page 76](http://bibliotecadigital.puc-campinas.edu.br/services/e-books/Charles%20Darwin-1.pdf)
 
@@ -227,9 +233,9 @@ Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Na
 
 [6] [Evolution in Action](https://archive.org/details/evolutioninactio00huxl) by Julian Huxley. Pages 171-172. See [screenshot](https://github.com/seraphimofbrooklyn/seraphimofbrooklyn.github.io/blob/master/images/eugenics/Evolution_in_Action_eugenic_religion.png)
 
-[7] [Cold Springs Harbor Labratory entry at eugenics archive](http://eugenicsarchive.ca/discover/connections/5233cfa15c2ec500000000ad)
+[7] [Cold Springs Harbor Labratory entry at Eugenics archive](http://eugenicsarchive.ca/discover/connections/5233cfa15c2ec500000000ad)
 
-[8] [Eugenics Office Record entry at eugenics archive](http://eugenicsarchive.ca/discover/connections/5233cf7b5c2ec500000000ac)
+[8] [Eugenics Office Record entry at Eugenics archive](http://eugenicsarchive.ca/discover/connections/5233cf7b5c2ec500000000ac)
 
 [9] [The ERO entry @ The Embryo Project Encyclopedia](https://embryo.asu.edu/pages/eugenics-record-office-cold-spring-harbor-laboratory-1910-1939)
 
@@ -267,6 +273,8 @@ Lothrop Stoddard - Founder of ABCL with Sanger and Little, and member of AES. Na
 
 [26] [Excess and unwanted fertility - Frederick Osborn in Eugenics Quarterly Volume 10, 1963 - Issue 2](https://www.tandfonline.com/doi/abs/10.1080/19485565.1963.9987545)  
 
+[27] [The Future of Human Heredity](https://dlcs.io/pdf/wellcome/pdf-item/b18028901/0)
+
 ### Additional Reading
 
 https://www.liveaction.org/news/black-woman-sterilized-eugenic-planned-parenthood/
@@ -282,3 +290,5 @@ https://www.usatoday.com/story/news/nation-now/2014/06/20/california-female-inma
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1682156/pdf/ajhg00061-0198.pdf - The Survival of Eugenics in 20th-Century Germany by Paul Weindling
 
 [Washington Herald Article](https://www.loc.gov/resource/sn83045433/1915-09-03/ed-1/?sp=1) An image of this is also available in the repository
+
+[History of AES](https://www.tandfonline.com/doi/abs/10.1080/19485565.1974.9988099)
