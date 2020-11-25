@@ -116,7 +116,7 @@ The worship of the self and of the species will grow beyond the confines of the 
 It champions justice, equality, and love towards one's neighbor, all of which are good values in the right context. However, it is  inevitably contingent on restrictive control of not just the bodies but of the very souls of the poor citizens wherever such governance is established. **In an analogy to an individual, a government can never be without a religion as it cannot help but to designate something as the highest** (like in **Figure 12**). The 20th century saw the rise of dozens of states similar to that of the Soviet Union, in which leaders began to take on traits and powers that could only be comparable to the Roman emperors or Babylonian kings of old. In the case of the Soviet Union which abolished Christianity as the official state religion, the state quickly developed its own form of religion revolving around Stalin as an all-knowing and all-powerful leader. His name and face appeared everywhere, in homes, in public, in books, and in movies. **Where people once called EO priests "father", they now called Stalin "father". Where people once thanked God for blessings they now thanked Stalin.**
 
 <figure>
-	<img src="/images/Stalin_Public_event.jpg">
+	<img src="/images/Stalin_Public_Event.jpg">
 	<figcaption> Figure 12: Poster of Stalin at a public event in 1950. This icon of Stalin is akin to holding an icon of Christ or a saint in a procession.
 </figcaption>
 </figure>
