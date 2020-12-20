@@ -140,7 +140,7 @@ The first and last red underlined phrases recognize that science destroyed his f
 I have taken a short snippet from that video below. "It's like the universe screams in your face. You know what I am, how grand I am, how  old I am, how do you even comprehend what I am? What are you compared to me? And when you enough science you can just smile at the universe and reply dude I am you." The only thing that came into mind when he personified the universe was the conversation that Job had with God in which God lectures Job saying “Where were you when I laid the earth’s foundation? Tell me, if you understand. Who marked off its dimensions? Surely you know! Who stretched a measuring line across it?" (Job 38:3-6). Even when atheists cast off the yoke of one religion they can't help but to use religious language and embody the religious framework and use some unifying principle to organize their worldview. **They have replaced the God and the mystery of God with the universe and the mysteries of the universe and theology with science.**
 
 <figure>
-	<img src="/images/Science_Hierarchy_2.png">
+	<img src="/images/Science_Hierarchy_2_fin.png">
 	<figcaption> Figure 14: Just like in organizational hierarchy, the theories provided by science organize how to interpret the physical world. Man still serves as a mediator between heaven and earth, except the seat of heaven has been usurped by something else.
 </figcaption>
 </figure>
