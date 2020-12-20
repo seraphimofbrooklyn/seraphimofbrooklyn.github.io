@@ -1,5 +1,5 @@
 ---
-title: "Genesis as a Description of Epistemology"
+title: "Genesis as a Description of Phenomenology"
 description: "An essay on how Genesis describes the way in which the world reveals itself to humanity. This interpretation does not preclude other interpretation, as I do not subscribe to the opposition between a literal and non-literal meanings."
 date: 2020-12-20
 image:
@@ -82,7 +82,11 @@ The portion of Genesis quoted above describes Adam's role in the naming of the a
 
 >"And they were both naked, the man and his wife, and were not ashamed." Genesis 2:25
 
+And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
 
+7And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.
+
+Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.
 
 
 #Links and Footnotes
