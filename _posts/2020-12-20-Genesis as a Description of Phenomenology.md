@@ -3,7 +3,7 @@ title: "Genesis as a Description of Phenomenology"
 description: "An essay on how Genesis describes the way in which the world reveals itself to humanity. This interpretation does not preclude other interpretation, as I do not subscribe to the opposition between a literal and non-literal meanings."
 date: 2020-12-20
 image:
-        feature: Genesis/sun_background.jfif
+        feature: Genesis/sun_background.png
 ---
 
 ### Introduction to Phenomenology
