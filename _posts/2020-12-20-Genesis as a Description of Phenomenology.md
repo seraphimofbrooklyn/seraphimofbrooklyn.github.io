@@ -105,7 +105,7 @@ Nakedness is also related to names. One can be made naked if things that we proj
 
 The phenomenological interpretation of Genesis as something that no matter the time period will always be true as long as what it means to be human is true. Of course, this does not discount the possibility of changing the fundamental nature of language and meaning. When darkness becomes associated with knowledge and enlightenment, and light becomes associated with ignorance and blindness, perhaps Genesis will cease to be relevant. But until that point, it remains a foundational text to understanding ourselves, and our place in the universe.
 
-#Links and Footnotes
+# Links and Footnotes
 [1] Translations will be using KJV
 
 [2] Linguistics term where pairs of words, or parts of a word are repeated through a repetition of one word or parts of one word. Examples in English include "razzle-dazzle", "bye-bye", "flip-flop".

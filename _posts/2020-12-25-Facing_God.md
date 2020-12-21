@@ -1,7 +1,7 @@
 ---
 title: "Facing God"
-description: "Short story based off of Dostoevsky's short story "The Grand Inquisitor""
-date: 2020-12-20
+description: "Short story based off of Dostoevsky's short story 'The Grand Inquisitor' nested within his novel The Brothers Karamazov"
+date: 2020-12-25
 image:
         feature: candle.png
 ---
