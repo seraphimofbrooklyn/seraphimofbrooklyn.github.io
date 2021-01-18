@@ -90,4 +90,4 @@ I don't know if Benjamin Boyce will see this essay but I hope that he finds what
 
 ###Endnotes
 
-[1] I mention the other communions that claim apostolic succession so that the reader is clear that all historic forms of Christianity will answer in this manner... They would place centrality on the Church rather than scripture. 
+[1] I mention the other communions that claim apostolic succession so that the reader is clear that all historic forms of Christianity will answer in this manner... They would place centrality on the Church rather than scripture.
