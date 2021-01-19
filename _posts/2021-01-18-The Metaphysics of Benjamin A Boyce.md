@@ -90,6 +90,6 @@ It is also apt that Paul says that there is a "great cloud of witnesses" because
 
 I don't know if Benjamin Boyce will see this essay but I hope that he finds what he is looking for in the end. There is a place for him and all those like him looking for an authentic tradition, a tried and true way towards God. This place is the Orthodox Church.   
 
-###Endnotes
+### Endnotes
 
-[1] I mention the other communions that claim apostolic succession so that the reader is clear that all historic forms of Christianity will answer in this manner... They would place centrality on the Church rather than scripture.
+[1] I mention the other communions that claim apostolic succession so that the reader is clear that all historic forms of Christianity will answer in this manner... They would place centrality on the Church rather than Scripture which though are extremely important serve as witness to the Church and to the ministry of Christ and the apostles.
