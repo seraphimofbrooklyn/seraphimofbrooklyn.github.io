@@ -5,7 +5,7 @@ date: 2021-01-16
 image:
         feature: boyce_header.PNG
 ---
-###Introduction
+### Introduction
 
 Benjamin Boyce is a YouTube commentator best known for his documentation of Evergreen State College's state of affairs since the infamous campus protests of 2017. It most notably involved the confrontation between Professor Bret Weinstein and his wife Professor Heather Heying, and students that eventually led to both of their resignations. In short, Weinstein opposed the student's insistence that the white people of campus do not go on campus. This was a change in the college's tradition of having minority students and faculty voluntarily stay off campus for a "Day of Absence". Boyce is an alumni of Evergreen and in opposition to the extremely liberal (or anti-liberal) direction that his alma mater is taking and has been documenting Evergreen affairs since 2017.  He has over 100+ videos on Evergreen and is meticulous in his documentation so if anyone is interested in that topic I highly recommend it. Boyce also does interviews with people he finds interesting on topics as far ranging as trans issues, feminism, anti-racism, etc.
 
@@ -13,7 +13,7 @@ I watched Boyce's [video](https://www.youtube.com/watch?v=7G8gF85ZA-E&t=4271s) w
 
 This will be the first time that I'll be doing an essay on a video but likely won't be the last given the popularity and breadth of content available in video format so I will adopt a format that hopefully works by quoting the content and writing a timestamp in the following format HH:MM:SS.
 
-###Video Analysis
+### Video Analysis
 
 The first thing to hone in on is Boyce's response to O'Reilly's explanation of her belief in Christianity in which she describes the historicity of the New Testament and its witness to Christ manifestation in space and time. He says this...
 
@@ -77,7 +77,7 @@ The last two things that I will discuss are **repentance** and **thankfulness** 
 
 Boyce is skeptical about how figure of Christ maintains its RELEVANCE since it happened almost 2000 years ago. Even if Christ was who He said we was, that is God in the flesh, how does that affect me today?  How can I enter into relationship with God? O'Reilly later makes a video comment further explaining that *"every Sunday, I participate in a liturgical cycle of prayer that offers thanks to God, acknowledges His worthiness, confesses sin, and asks for strength and guidance in my daily life. This service also includes receiving the Sacrament, which I view as a vehicle of grace (though I don't have a Catholic view of this)."* This is definitely more relevant to Boyce's inquiries as it places emphasis on the **Church** and even mentions receiving **sacraments**.
 
-###Conclusion
+### Conclusion
 
 The proper response to this question of how one unites to God that every historical church that claims apostolic succession, including the Catholic Church, the Eastern Orthodox Church, and the Oriental Orthodox Churches (Armenian, Ethiopian, Coptic, etc)[1] would give is that Christ did not leave a book behind when He died. He left behind a **body** of believers and the **Holy Spirit** abiding within them that constituted the Church that eventually and organically compiled the New Testament. It is by entering the Church founded by Christ and His apostles that we are able to enter into communion with Him, the heavenly hosts, and the saints, and by God's grace be permitted to see him as He is. Such vision of God is exclusive to the saints who have become truly living temples of the Holy Spirit. However exclusive it may, the possibility of becoming a saint, a person not just in the image of God but through spiritual labors became in the likeness of God as well, **is open to all**.
 
