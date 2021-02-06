@@ -1,20 +1,20 @@
 ---
 title: "Collection of New Testament Quotes about Vigilance"
-description: ""
+description: "A collection of NT verses on the need to be watchful and vigilant"
 date: 2021-02-16
 image:
-        feature: boyce_header.PNG
+        feature: vigil_candle.png
 ---
 
-# Introduction to Vigilance
+# Introduction to Nepsis and Hesychia
 
 Nepsis (νῆψις in Greek) and Hesychia (ἡσυχία in Greek) are two Greek terms used to describe fundamental aspects about Christian spiritual life. Nepsis means vigilance, and hesychia is silence or stillness. Only through the former is the latter achieved and maintained. This stillness is the **peace** that Christ so often mentioned by the Apostles (Colossians 3:15, 2 Thessalonians 3:16), and by Christ himself (John 14:27). Hesychia opens the door of the soul only to the Holy Spirit, while rejecting everything that seeks to take His place else through nepsis. Through the grace of the Holy Spirit, one is purified, illumined and perfected. This in short, is **theosis**.
 
-Though it may appear that such a rigorous practice is only applicable to those living in monastic communities, the Orthodox do categorically distinguish those who are laymen and those who are monks. The ascetic practices of monks are practiced by Orthodox laymen to varying degrees. Fasting and prayer are a routine and form the most important part of an Orthodox Christian life outside of participation in the Holy Mysteries. The most treasured gift of the Church is the **Jesus Prayer** (Lord Jesus Christ have mercy upon me a sinner) which exemplifies the watchfulness and sobriety demanded by Christ. This approach to faith and spirituality is foreign to the modern world, and even to other Christians. Here I would like to assemble quotes from the NT on this topic to demonstrate the biblical basis for this practice.
+Though it may appear that such a rigorous practice is only applicable to those living in monastic communities, the Orthodox do not categorically distinguish those who are laymen and those who are monks. The ascetic practices of monks are practiced by Orthodox laymen to varying degrees. Fasting and prayer are a routine and form the most important part of an Orthodox Christian life outside of participation in the Holy Mysteries. The most treasured gift of the Church is the **Jesus Prayer** (Lord Jesus Christ have mercy upon me a sinner) which exemplifies the watchfulness and sobriety demanded by Christ. This approach to faith and spirituality is foreign to the modern world, and even to other Christians. Here I would like to assemble quotes from the NT on this topic to demonstrate the biblical basis for this practice.
 
-As a note I have also selected quotes that reference the **heart** which is directly related to vigilance as it is believed that the heart houses the soul. **In short, to guard one's heart is to guard one's soul** from idols that may compete for our attention and worship. The eyes are also cardinal to understanding vigilance so this too I have included in this collection of verses. As people often say... the eyes are the mirror to the soul, and to **look** to something is to be attentive to it. If we find ourselves obsessively looking at something or paying attention to something, this is a distraction and perhaps even an idol. For example, a person who is constantly checking his back account balance is doing so out of attention to his finances. Taken to an extreme, this attention to one's financial situation can become idolatrous.
+As a note I have also selected quotes that reference the **heart** which is directly related to vigilance as it is believed that the heart houses the soul. **In short, to guard one's heart is to guard one's soul** from idols that may compete for our attention and worship. The eyes are also cardinal to understanding vigilance so this too I have included in this collection of verses. As people often say... the eyes are the mirror to the soul, and to **look** to something is to be attentive to it. If we find ourselves obsessively looking at something or paying attention to something, this is a distraction and perhaps may even be an idol. For example, a person who is constantly checking his back account balance is doing so out of attention to his finances. Taken to an extreme, this attention to one's financial situation can become idolatrous.
 
-To Christ, to lack attention to prayer and to God is to fall asleep, to have ones eyes closed, and effectively to be blind. To not be watchful is to let the thief break into the temple of the Holy Spirit (ie our souls). He warns about this most explicitly in the parable of the watchful servant, but this theme of blindness is scattered throughout all of the New Testament.
+To Christ, to lack attention to prayer and to God is to fall asleep, to have ones eyes closed, and effectively to be blind and in the darkness. To not be watchful is to let the thief break into the temple of the Holy Spirit (ie our souls). He warns about this most explicitly in the parable of the watchful servant, but this theme of blindness is scattered throughout all of the New Testament.
 
 # The Synoptic Gospels
 
