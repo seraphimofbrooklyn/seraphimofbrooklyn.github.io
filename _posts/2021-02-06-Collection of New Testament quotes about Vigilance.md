@@ -128,7 +128,7 @@ This parable is about Christ and the Church, or Christ and the world. Those wise
 42 Again, a second time, He went away and prayed, saying, “O My Father, if this cup cannot pass away from Me unless I drink it, Your will be done.” 43 And **He came and found them asleep again, for their eyes were heavy.**
 44 So He left them, went away again, and prayed the third time, saying the same words. 45 Then He came to His disciples and said to them, **“Are you still sleeping and resting?** Behold, the hour is at hand, and the Son of Man is being betrayed into the hands of sinners. 46 Rise, let us be going. See, My betrayer is at hand.”
 
-The cyclical nature of the Apostles behavior is an apt description of our own behavior towards God. While God tries to rouse us to be united to Him through prayer, we fall back asleep, and if we awake it is only for a short while before we fall asleep again.
+The cyclical nature of the Apostles behavior is an apt description of our own behavior towards God. While God constantly tries to rouse us to be united to Him through prayer, we inevitably fall back asleep, and if we awake it is only for a short while before we fall asleep again.
 
 ### Martha and Mary Luke 10:38-42
 
