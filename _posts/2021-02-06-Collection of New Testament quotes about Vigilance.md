@@ -18,7 +18,7 @@ To Christ, to lack attention to prayer and to God is to fall asleep, to have one
 
 # The Synoptic Gospels
 
-### **Temptation of Christ in the Wilderness** Matthew 4: 1-11, Mark 1:12-13, Luke 4:1-13 (Only Matthew 4:1-4 shown here)
+### Temptation of Christ in the Wilderness in Matthew 4: 1-11, Mark 1:12-13 and Luke 4:1-13 (Only Matthew 4:1-4 shown here)
 
 > Then Jesus was led by the Spirit into the wilderness to be tempted by the devil. After fasting forty days and forty nights, he was hungry. 3 The tempter came to him and said, “If you are the Son of God, tell these stones to become bread.” 4 Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’”
 
@@ -29,35 +29,35 @@ I start here because this is a synopsis of spiritual warfare. When we take up ou
 
 Without purifying our hearts we shall not see God. Such purity can only be achieved by guarding our hearts from temptation, and through the purifying grace of the Holy Trinity. It is even possible in this life to see God and to have true knowledge of Him through experiencing His light.
 
-### **Matthew 5: 27-31, Matthew 18:9, Mark 9:47**
+### Matthew 5: 27-31, Matthew 18:9, Mark 9:47
 
 > 27 You have heard that it was said to those of old, ‘You shall not commit adultery.’ 28 **But I say to you that whoever looks at a woman to lust for her has already committed adultery with her in his heart.** 29 **If your right eye causes you to sin, pluck it out and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell.** 30 And if your right hand causes you to sin, cut it off and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell.
 
 Christ emphasizes the eyes as attention is indicative of the state of our heart. At times, the eyes of the soul (as in the case of lusting after a woman) is looking at the very same thing our physical eyes are looking at. To covet with ones eyes, is to covet with ones heart. Such covetousness can become idolatry and a separation or movement from God. Thus, Christ warns against this.
 
-### **Parable of Treasure in Heaven and the Lamp of the Body**  Matthew 6:19-23, Luke 11:33-36
+### Parable of Treasure in Heaven and the Lamp of the Body in  Matthew 6:19-23 and Luke 11:33-36
 
 > 19 Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal; 20 but lay up for yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal. 21 **For where your treasure is, there your heart will be also**. The lamp of the body is the eye. If therefore your eye is good, your whole body will be full of light. 23 But if your eye is bad, your whole body will be full of darkness. If therefore the light that is in you is darkness, how great is that darkness!
 
 This holds a similar theme to the last verses. To lay treasures on earth is to love the things of this world too much, even good things like family and friends. If our heart is with the things of this earth, we have not been watchful and have closed our eyes. To Christ, a "good" eye is one that is affixed to the things of heaven, and principally to God, placing His Kingdom first. There is a theme of light, watchfulness, wakefulness, sobriety juxtaposed with darkness, distractedness, slumber, and stupor.
 
-### **Matthew 7:1-5**
+### Matthew 7:1-5
 
 > 7 Judge not, that you be not judged. 2 For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you. 3 And why do you look at the speck in your brother’s eye, but do not consider the plank in your own eye? 4 Or how can you say to your brother, ‘Let me remove the speck from your eye’; and look, a plank is in your own eye? **5 Hypocrite! First remove the plank from your own eye, and then you will see clearly to remove the speck from your brother’s eye.**
 
 Again, Christ calls us to be attentive to the state of our own souls and be watchful. In light of the previous passage the "good" eye is one that is principally judging oneself rather than others. In most cases it is a distraction to be attentive to the state of others souls.
 
-### **Matthew 10:28**
+### Matthew 10:28
 
 > And do not fear those who kill the body but cannot kill the soul. But rather fear Him who is able to destroy both soul and body in hell.
 
 Christ prophetically alludes to the persecution and martyrs of Christians to come and tells them not fear those who will come and destroy the body so long as they safeguard the soul with faith in Christ. He also reminds us that fear of God is warranted, and to avoid the destruction of our souls and bodies in the next life, we must guard our hearts in this life.
 
-### **Matthew 12:35-27, Luke 6:45**
+### Matthew 12:35-27 and Luke 6:45
 
 > **35 A good man out of the good treasure of his heart brings forth good things, and an evil man out of the evil treasure brings forth evil things.** 36 But I say to you that for every idle word men may speak, they will give account of it in the day of judgment. 37 For by your words you will be justified, and by your words you will be condemned.
 
-### **Matthew 15:8-9, Mark 7:6-7**
+### Matthew 15:8-9 and Mark 7:6-7
 
 > 8 These people draw near to Me with their mouth,
 And honor Me with their lips,
@@ -67,19 +67,19 @@ Teaching as doctrines the commandments of men.
 
 This is in reference to the Pharisees and the religious leaders at the time who payed strict attention to the letter of the law but not to the spirit. However, this is still applicable to Christians today as it is a warning that our prayers are "vain" if we honor God with our lips yet our hearts are not with Him in Spirit.
 
-### **Matthew 15:17-20, Mark 7:18-23**
+### Matthew 15:17-20 and Mark 7:18-23
 
 > 17 Do you not yet understand that whatever enters the mouth goes into the stomach and is eliminated? **18 But those things which proceed out of the mouth come from the heart, and they defile a man. 19 For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies.** 20 These are the things which defile a man, but to eat with unwashed hands does not defile a man.
 
 If we not do not have Christ in our hearts but something else, then evil thoughts will proceed, as well as all other forms of sin. This is in accordance with what we have already established in prior verses.
 
-### **Matthew 16:6, Mark 8:15, Luke 12:1**
+### Matthew 16:6, Mark 8:15, and Luke 12:1
 
 > 6 Then Jesus said to them, “Take heed and beware of the leaven of the Pharisees and the Sadducees.”
 
 The leaven of the Pharisees and the Sadducees is that of hypocrisy and of following the letter of the Law and not of the Spirit, of being externally righteous but internally depraved. Hypocrisy can only be combatted through humility, meekness, and vigilance.
 
-### **Matthew 16:23-27, Mark 8:33-38**
+### Matthew 16:23-27 and Mark 8:33-38
 
 >23 But He turned and said to Peter, “Get behind Me, Satan! You are an offense to Me, for **you are not mindful of the things of God, but the things of men.”**
 
@@ -87,13 +87,13 @@ The leaven of the Pharisees and the Sadducees is that of hypocrisy and of follow
 
 Here Christ rebukes Peter for being **mindful** of the things of men rather than the things of God. He even goes so far as to call him Satan as if Peter were Satan himself, or possessed by Satan. In the next few verses he calls them to a life of self-denial and again to guard their souls.
 
-### **Matthew 23:26-28**
+### Matthew 23:26-28
 
 > 27 Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs which indeed appear beautiful outwardly, but **inside are full of dead men’s bones and all uncleanness**. 28 Even so you also outwardly appear righteous to men, but **inside you are full of hypocrisy and lawlessness.**
 
 Related to the leaven of the Pharisees. Again, although this is addressed explicitly to the Pharisees it is important that Christians do not themselves become Pharisaical in their manner of living. We are called to be holy, and not just to preach holiness.
 
-### **Matthew 24:42-44, Luke 21:36, Mark 13:35-37**
+### Matthew 24:42-44, Luke 21:36, and Mark 13:35-37
 
 > 42 **Watch therefore**, for you do not know what hour your Lord is coming. 43 But know this, that if the master of the house had known what hour the thief would come, **he would have watched and not allowed his house to be broken into.** 44 Therefore you also be ready, for the Son of Man is coming at an hour you do not expect.
 
@@ -103,7 +103,7 @@ Related to the leaven of the Pharisees. Again, although this is addressed explic
 
 "Watch therefore" that Christ does not return on a day when we are drunk, asleep, and unprepared for His coming. The house that Christ mentions in Matthew 24:23 is our very beings, our bodies that house our soul and spirit. If we are inattentive a thief may break in. In other words the thief (Satan) is always trying to break in, and we must be watchful as to stop him from entering. Rather we must invite God into the house of our soul.
 
-### **Parable of the Faithful/Watchful Servant** Matthew 24:45-51, Luke 12:35-48
+### **Parable of the Faithful/Watchful Servant** in Matthew 24:45-51 and Luke 12:35-48
 
 >45 Who then is a faithful and wise servant, whom his master made ruler over his household, to give them food in due season? **46 Blessed is that servant whom his master, when he comes, will find so doing**. 47 Assuredly, I say to you that he will make him ruler over all his goods. 48 But if that evil servant says in his heart, ‘My master is delaying his coming,’ 49 and begins to beat his fellow servants, and to eat and drink with the drunkards, 50 the master of that servant will come on a day when he is not looking for him and at an hour that he is not aware of, 51 and will cut him in two and appoint him his portion with the hypocrites. There shall be weeping and gnashing of teeth.
 
@@ -130,7 +130,7 @@ This parable is about Christ and the Church, or Christ and the world. Those wise
 
 The cyclical nature of the Apostles behavior is an apt description of our own behavior towards God. While God tries to rouse us to be united to Him through prayer, we fall back asleep, and if we awake it is only for a short while before we fall asleep again.
 
-### **Martha and Mary** Luke 10:38-42
+### Martha and Mary Luke 10:38-42
 
 >38 Now it happened as they went that He entered a certain village; and a certain woman named Martha welcomed Him into her house. 39 And she had a sister called Mary, who also sat at Jesus’ feet and heard His word. 40 **But Martha was distracted** with much serving, and she approached Him and said, “Lord, do You not care that my sister has left me to serve alone? Therefore tell her to help me.”
 41 And Jesus answered and said to her, “Martha, Martha, you are worried and troubled about many things. 42 **But one thing is needed, and Mary has chosen that good part, which will not be taken away from her.**”
