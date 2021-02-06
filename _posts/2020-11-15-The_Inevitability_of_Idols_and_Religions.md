@@ -3,7 +3,7 @@ title: "The Inevitability of Idols and Religions"
 description: "An essay on how religion and religious thinking/behavior is embedded into our consciousness, even if we do not call it a religion."
 date: 2020-11-15
 image:
-        feature: Idols_Religion_background2.png
+        feature: headers/Idols_Religion_background2.png
 ---
 ### Introduction to Epistemological Models
 

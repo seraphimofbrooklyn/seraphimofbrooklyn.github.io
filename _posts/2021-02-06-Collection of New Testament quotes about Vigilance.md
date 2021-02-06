@@ -45,7 +45,7 @@ This holds a similar theme to the last verses. To lay treasures on earth is to l
 
 > 7 Judge not, that you be not judged. 2 For with what judgment you judge, you will be judged; and with the measure you use, it will be measured back to you. 3 And why do you look at the speck in your brother’s eye, but do not consider the plank in your own eye? 4 Or how can you say to your brother, ‘Let me remove the speck from your eye’; and look, a plank is in your own eye? **5 Hypocrite! First remove the plank from your own eye, and then you will see clearly to remove the speck from your brother’s eye.**
 
-Again, Christ calls us to be attentive to the state of our own souls and be watchful. In light of the previous passage the "good" eye is one that is principally judging oneself rather than others. In most cases it is a distraction to be attentive to the state of others souls.
+Again, Christ calls us to be attentive to the state of our own souls and be watchful. In light of the previous passage the "good" eye is one that is principally judging oneself rather than others. In most cases it is a distraction to be attentive to the state of others souls when our own estates are disordered.
 
 ### Matthew 10:28
 
@@ -91,7 +91,7 @@ Here Christ rebukes Peter for being **mindful** of the things of men rather than
 
 > 27 Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs which indeed appear beautiful outwardly, but **inside are full of dead men’s bones and all uncleanness**. 28 Even so you also outwardly appear righteous to men, but **inside you are full of hypocrisy and lawlessness.**
 
-Related to the leaven of the Pharisees. Again, although this is addressed explicitly to the Pharisees it is important that Christians do not themselves become Pharisaical in their manner of living. We are called to be holy, and not just to preach holiness.
+This is related to the leaven of the Pharisees. Again, although this is addressed explicitly to the Pharisees it is important that Christians do not themselves become Pharisaical in their manner of living. We are called to be holy, and not just to preach holiness.
 
 ### Matthew 24:42-44, Luke 21:36, and Mark 13:35-37
 
@@ -139,7 +139,7 @@ These last verses from Luke detail the distinction between the active life and t
 
 # The Epistles
 
-The Apostles continue this and exhorts us to be vigilant, sober, and watchful against temptation from the evil one. I will refrain from commentary as it is straightforward from here.
+The Apostles continue this and exhorts us to be vigilant, sober, and watchful against temptation from the evil one. I will refrain from excess commentary as it is mostly straightforward from here.
 
 ### Ephesians 5:14
 
@@ -157,6 +157,8 @@ And Christ will give you light.”
 
 > 6 Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; 7 **and the peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus**.
 
+The Orthodox Church believes that once a Christian is baptized and chrismated, one is emptied through the purifying waters of baptism accomplished by the grace of God, and filled with the Holy Spirit (through the entrance of the Holy Spirit via one's personal Pentecost accomplished through the holy chrism). Thus one is born of water and the Spirit. It is to be emptied, and to be filled. Once we are filled, the attack from the devil is always from without rather than from within, and God guards our hearts and minds.
+
 ### The Day of the Lord 1 Thessalonians
 
 >5 But concerning the times and the seasons, brethren, you have no need that I should write to you. 2 For you yourselves know perfectly that the day of the Lord so comes as a thief in the night. 3 For when they say, “Peace and safety!” then sudden destruction comes upon them, as labor pains upon a pregnant woman. And they shall not escape. 4 But you, brethren, are not in darkness, so that this Day should overtake you as a thief. 5 You are all sons of light and sons of the day. We are not of the night nor of darkness. 6 **Therefore let us not sleep, as others do, but let us watch and be sober. 7 For those who sleep, sleep at night, and those who get drunk are drunk at night. 8 But let us who are of the day be sober**, putting on the breastplate of faith and love, and as a helmet the hope of salvation. 9 For God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ, 10 who died for us, that whether we wake or sleep, we should live together with Him.
@@ -173,6 +175,15 @@ And Christ will give you light.”
 
 >8 **Be sober, be vigilant**; because your adversary the devil walks about like a roaring lion, seeking whom he may devour.
 
+# Conclusion
+
+I will end with St. John's account of his vision of Christ speaking to the Church in Revelations. It is interesting to note that Christ describes **Himself** as "a thief" whereas in the prior accounts the thief is Satan. This is an example of the multivalent nature of symbols. Already I have excluded many other verses from the NT but I picked the ones that were most explicitly
+
 ### Revelations 3:2-3
 
 > 2 **Be watchful**, and strengthen the things which remain, that are ready to die, for I have not found your works perfect before God. 3 Remember therefore how you have received and heard; hold fast and repent. **Therefore if you will not watch, I will come upon you as a thief, and you will not know what hour I will come upon you.**
+
+<figure>
+	<img src="/images/icons/The-Judgement.png">
+	<figcaption> Icon of the Last Judgement </figcaption>
+</figure>

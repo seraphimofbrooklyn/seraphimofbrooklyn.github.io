@@ -3,7 +3,7 @@ title: "Iconography and Christian Symbolism in Modernity"
 description: "An essay on symbolism and Christian symbolism, and specifically on the theology of iconography. "
 date: 2020-11-06
 image:
-        feature: EO_Church.jpg
+        feature: headers/EO_Church.jpg
 ---
 ### What are the nature of symbols?
 
@@ -64,6 +64,6 @@ Where does such inversion come from? From Hollywood, TV, media, books, etc. **Wh
 To be Christian is to view the world through Christ, and to see things as they are revealed to us by Christ, and by doing so, restoring the world so that it is oriented toward God, the source of all things. In other words, **Christian symbols reveal reality in the eyes of God, as they are in very Truth, for only God is Truth.** The more we affirm the dialectic between symbol and reality, the more is capitulated to the prince of the world, and the more divorced everything becomes from God. Since Christ has revealed himself to us as the true icon of God by His divine condescension, bringing Life to the world, fulfilling and affirming Creation as “very good”, we too affirm it if we are to be Christians. Reality is experienced through symbols and if, one day, there are no more symbols that point to God, will we even remember Him? As Christians living in these times we must hold on to our symbols, and even reclaim those that have been stolen from us, else we further forget that all of life, and of Creation points to Christ.
 
 <figure>
-	<img src="/images/Christ_the_Pantocrator.jpg">
+	<img src="/images/icons/Christ_the_Pantocrator.jpg">
 	<figcaption> Figure 2: Christ Pantocrator in the Hagia Sophia</figcaption>
 </figure>

@@ -3,7 +3,7 @@ title: "The Metaphysics of Benjamin A Boyce"
 description: "An exploration of the Benjamin A Boyce's Metaphyics and Protestantism's inability to answer his doubts about how to engage with the Highest (ie God)"
 date: 2021-01-16
 image:
-        feature: boyce_header.PNG
+        feature: headers/boyce_header.PNG
 ---
 ### Introduction
 
