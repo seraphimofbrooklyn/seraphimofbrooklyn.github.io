@@ -24,6 +24,11 @@ To Christ, to lack attention to prayer and to God is to fall asleep, to have one
 
 I start here because this is a synopsis of spiritual warfare. When we take up our cross and decide to let God leads us into the wilderness, the tempter will come and try to lead us away from God. If we are hungry he will tempt us with gluttony. If we are lonely he will tempt us with lust and fornication. If we lack material wealth (or even have material wealth) he will tempt us with greed. In face of these temptations we must not fall asleep.
 
+### Matthew 5:8
+> Blessed are the pure in heart, For they shall see God.
+
+Without purifying our hearts we shall not see God. Such purity can only be achieved by guarding our hearts from temptation, and through the purifying grace of the Holy Trinity. It is even possible in this life to see God and to have true knowledge of Him through experiencing His light.
+
 ### **Matthew 5: 27-31, Matthew 18:9, Mark 9:47**
 
 > 27 You have heard that it was said to those of old, ‘You shall not commit adultery.’ 28 **But I say to you that whoever looks at a woman to lust for her has already committed adultery with her in his heart.** 29 **If your right eye causes you to sin, pluck it out and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell.** 30 And if your right hand causes you to sin, cut it off and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell.
@@ -130,6 +135,44 @@ The cyclical nature of the Apostles behavior is an apt description of our own be
 >38 Now it happened as they went that He entered a certain village; and a certain woman named Martha welcomed Him into her house. 39 And she had a sister called Mary, who also sat at Jesus’ feet and heard His word. 40 **But Martha was distracted** with much serving, and she approached Him and said, “Lord, do You not care that my sister has left me to serve alone? Therefore tell her to help me.”
 41 And Jesus answered and said to her, “Martha, Martha, you are worried and troubled about many things. 42 **But one thing is needed, and Mary has chosen that good part, which will not be taken away from her.**”
 
-These last verses from Luke detail the distinction between the active life and the contemplative life. This is not to disparage the need to serve and to love one another, but rather to call to mind that **there is only one thing needful: Christ.** 
+These last verses from Luke detail the distinction between the active life and the contemplative life. This is not to disparage the need to serve and to love one another. Rather, it is to call to mind that **there is only one thing needful: Christ.**
 
 # The Epistles
+
+The Apostles continue this and exhorts us to be vigilant, sober, and watchful against temptation from the evil one. I will refrain from commentary as it is straightforward from here.
+
+### Ephesians 5:14
+
+>13 But all things that are exposed are made manifest by the light, for whatever makes manifest is light. 14 Therefore He says:
+**“Awake, you who sleep**,
+Arise from the dead,
+And Christ will give you light.”
+
+### The Whole Armor of God Ephesians 6:10-18  
+
+> 11 Put on the whole armor of God, that you may be able to stand against the wiles of the devil. 12 For we do not wrestle against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this age, against spiritual hosts of wickedness in the heavenly places. 13 Therefore take up the whole armor of God, that you may be able to withstand in the evil day, and having done all, to stand.
+10 Finally, my brethren, be strong in the Lord and in the power of His might. 14 Stand therefore, having girded your waist with truth, having put on the breastplate of righteousness, 15 and having shod your feet with the preparation of the gospel of peace; 16 above all, taking the shield of faith with which you will be able to quench all the fiery darts of the wicked one. 17 And take the helmet of salvation, and the sword of the Spirit, which is the word of God; 18 praying always with all prayer and supplication in the Spirit, **being watchful** to this end with all perseverance and supplication for all the saints—
+
+### Philippians 4:6-8
+
+> 6 Be anxious for nothing, but in everything by prayer and supplication, with thanksgiving, let your requests be made known to God; 7 **and the peace of God, which surpasses all understanding, will guard your hearts and minds through Christ Jesus**.
+
+### The Day of the Lord 1 Thessalonians
+
+>5 But concerning the times and the seasons, brethren, you have no need that I should write to you. 2 For you yourselves know perfectly that the day of the Lord so comes as a thief in the night. 3 For when they say, “Peace and safety!” then sudden destruction comes upon them, as labor pains upon a pregnant woman. And they shall not escape. 4 But you, brethren, are not in darkness, so that this Day should overtake you as a thief. 5 You are all sons of light and sons of the day. We are not of the night nor of darkness. 6 **Therefore let us not sleep, as others do, but let us watch and be sober. 7 For those who sleep, sleep at night, and those who get drunk are drunk at night. 8 But let us who are of the day be sober**, putting on the breastplate of faith and love, and as a helmet the hope of salvation. 9 For God did not appoint us to wrath, but to obtain salvation through our Lord Jesus Christ, 10 who died for us, that whether we wake or sleep, we should live together with Him.
+
+### 2 Timothy 4:5
+
+> 5 But you be **watchful in all things**, endure afflictions, do the work of an evangelist, fulfill your ministry.
+
+### 1 Peter 4:7
+
+> But the end of all things is at hand; therefore be **serious and watchful in your prayers**.
+
+### 1 Peter 5:8
+
+>8 **Be sober, be vigilant**; because your adversary the devil walks about like a roaring lion, seeking whom he may devour.
+
+### Revelations 3:2-3
+
+> 2 **Be watchful**, and strengthen the things which remain, that are ready to die, for I have not found your works perfect before God. 3 Remember therefore how you have received and heard; hold fast and repent. **Therefore if you will not watch, I will come upon you as a thief, and you will not know what hour I will come upon you.**
