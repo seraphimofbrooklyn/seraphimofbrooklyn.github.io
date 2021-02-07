@@ -2,7 +2,7 @@
 layout: post
 permalink: /Fathers/index.html
 title: Quotes from the Fathers
-description: A collection of my favorite quotes from the great wisdom of the Church Fathers.
+description: A collection of my favorite quotes from the great wisdom of the Church and Neptic Fathers both of the Patristic age and into today. I will continue to add to this as time passes. 
 tags: [about, Jekyll, theme, responsive]
 image:
   feature: soft-trees.jpg
