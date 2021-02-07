@@ -1,7 +1,7 @@
 ---
 title: "Collection of New Testament Quotes about Vigilance"
 description: "A collection of NT verses on the need to be watchful and vigilant"
-date: 2021-02-16
+date: 2021-02-05
 image:
         feature: headers/vigil_candle.png
 ---

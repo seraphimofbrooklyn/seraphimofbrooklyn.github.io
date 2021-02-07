@@ -1,7 +1,7 @@
 ---
 title: "Western and Eastern Theories of Salvation"
 description: "A comparison of salvation as interpreted by the Western Churches and Eastern Orthodox Church"
-date: 2021-02-16
+date: 2021-02-07
 image:
 ---
 In this essay I would like to examine Western primarily Augustinian soteriology  and compare it to the Eastern Patristic understanding of soteriology. I had originally wrote this in 2019 but only just dug it up and made some edits to it.
