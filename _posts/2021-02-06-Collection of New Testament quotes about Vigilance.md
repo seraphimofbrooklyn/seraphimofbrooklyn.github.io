@@ -3,7 +3,7 @@ title: "Collection of New Testament Quotes about Vigilance"
 description: "A collection of NT verses on the need to be watchful and vigilant"
 date: 2021-02-16
 image:
-        feature: vigil_candle.png
+        feature: headers/vigil_candle.png
 ---
 
 # Introduction to Nepsis and Hesychia
@@ -177,7 +177,7 @@ The Orthodox Church believes that once a Christian is baptized and chrismated, o
 
 # Conclusion
 
-Already I have excluded many other verses from the NT. The ones included here were most explicitly about mindfulness and nepsis. I hope that to anyone reading this is useful to you, whether you are of the Orthodox faith or not. I will end with St. John's account of his vision of Christ speaking to the Church in Revelations. It is interesting to note that Christ describes **Himself** as "a thief" whereas in the prior accounts the thief is Satan. This is an example of the multivalent nature of symbols. 
+Already I have excluded many other verses from the NT. The ones included here were most explicitly about mindfulness and nepsis. I hope that to anyone reading this is useful to you, whether you are of the Orthodox faith or not. I will end with St. John's account of his vision of Christ speaking to the Church in Revelations. It is interesting to note that Christ describes **Himself** as "a thief" whereas in the prior accounts the thief is Satan. This is an example of the multivalent nature of symbols.
 
 ### Revelations 3:2-3
 
