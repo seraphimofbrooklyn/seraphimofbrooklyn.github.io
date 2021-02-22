@@ -38,7 +38,7 @@ This sounds very familiar to **penal substitution of atonement**, but differs in
 
 <figure>
 	<img src="/images/catholic/self-flagellation.jfif">
-	<figcaption> Icon of the Last Judgement </figcaption>
+	<figcaption> Artistic rendering of self-flagellation </figcaption>
 </figure>
 
 For example, self-flagellation is particular only to Catholic monasteries and convents. To the monasteries of the Eastern Churches, the historic heart of monastic life in Christendom you would not find any mention of flagellation by the Desert Fathers, or Anthony the Great because the monastic tradition and Church Tradition in general did not hold the view that self punishment could act as reparation to God, or even one that it was beneficial. Even in the West, St. John Cassian and St. Benedict who established monasticism did not mention such a practice. Strict ascetism was not done to **punish** oneself but to allow one's body and soul be attentive to God. In addition, penance (also named Confession) in the Catholic practice is a very "penal" in the sense that the works one does after confession is almost punishing in nature. One often goes into Confession with a list of one's sins, and for every sin there is an associated form of punishment, typically in the form of a number of Hail Marys. This falls in line with the idea that it is not enough for one to be repentant but also to be further punished for sinning.
@@ -67,7 +67,7 @@ There is even an additional event between the Crucifixion and the Resurrection t
 </figure>
 
 
-In conclusion, Christ did indeed come to save us from damnation, but more importantly he came to raise us from the dead, to make us His sons and His co-workers. **Thus for Christians, salvation has already happened, is happening, and will happen.** Through his love we are saved through baptism, we are being saved by his grace at every moment, and will be saved in the Resurrection to come. Christs life, His Incarnation, his Crucifixion, his Resurrection and his Ascension are all a testament to His love towards mankind, loving us to the point that He allows us to be restored to the heavenly life of Paradise which is union with God, both in this life and in the next.
+In conclusion, Christ did indeed come to save us from damnation (for God is a judge), but more importantly he came to raise us from the dead, to make us His sons and His co-workers. **Thus for Christians, salvation has already happened, is happening, and will happen.** Through his love we are saved through baptism, we are being saved by his grace at every moment, and will be saved in the Resurrection to come. Christs life, His Incarnation, his Crucifixion, his Resurrection and his Ascension are all a testament to His love towards mankind, loving us to the point that He allows us to be restored to the heavenly life of Paradise which is union with God, both in this life and in the next.
 
 ### Further Readings
 
