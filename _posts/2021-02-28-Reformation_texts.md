@@ -1,0 +1,41 @@
+
+### German Reformation
+
+(https://upload.wikimedia.org/wikipedia/commons/8/86/Hans_and_Margarethe_Luther%2C_by_Lucas_Cranach_the_Elder.jpg)To understand the Reformation in Germany, one must look at Martin Luther's life and works. Thus, this is where we start. Martin Luther was born to Hans Luther and Margarethe (née Lindemann) in 1483 in Central Germany in a town called Eisleben. He went to university in 1501 nearby in Erfurt to study to become a lawyer. After four years of studying he was caught in a storm when a lightning bolt struck near him and in fear he cried out "Help! Saint Anna, I will become a monk!". As he made it out safely, he sold his university books and became a monk. When he was ordained a priest in 1507, his father came for Luther's first mass.
+
+
+
+(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpursuingveritasdotcom.files.wordpress.com%2F2015%2F05%2F19017302-r_640_600-b_1_d6d6d6-f_jpg-q_x-xxyxx.jpg&f=1&nofb=1)
+
+Luther entered the University of Wittenberg in 1508 and received his Doctorate of Theology in 1512. Between receiving his bachelors and his doctorates, Luther had a life-changing experience when he visited Rome. As a newly tonsured monk, this was a dream come true but the blasphemy and corruption among the clergy  there shook him.
+
+Like most pilgrims to Rome, he visited all of the holy sites, including the steps at St. John Lateran, on which he prayed the Lord's prayer for each step he took. This he did to relieve his grandfather time at purgatory, but at the end of this exercise he was only left with doubt as to whether or not the practice was efficacious.
+
+(https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wittenberg_Thesentuer_Schlosskirche.JPG/800px-Wittenberg_Thesentuer_Schlosskirche.JPG)
+
+He taught his first lectures on the Psalms from 1513 to 1515. During this time, he "devoured" the writings of St. Augustine and began to develop highly critical views of Roman Catholic theology and ecclesiology. It was also during this time that the sale of indulgences was reaching its peak. Fr. Johann Tetzel was the indulgence preacher who inspired Luther to write the 95 Theses. Below is a quote that best summarizes the preachers message about indulgences and purgatory "Your coin into the treasury jings, and a soul from purgatory springs". On 31 October 1517 he sent the 95 Theses to Tetzel's bishop Albrecht von Brandenburg, Archbishop of Mainz. The alterative account (and more famous account) was that Luther posted the 95 Theses the front door of Castle Church of Wittenburg which at the time  would have been standard academic practice to call for debate
+
+Of the most important and striking of the 95 theses are these.
+
+Thesis 1 famously stated this "When our Lord and Master Jesus Christ said, 'Repent,' he willed the entire life of believers to be one of repentance." Thesis 5 "asserted that the Pope had no ability to remit any penalties at all except those imposed by his own authority or that of the papal canons". Thesis 38 "affirmed that papal remission and blessig should be properly valued as a proclamation of the divine remission of sins". Thesis 62 asserts that the true treasure of the Church is the Gospel not the treasury of merits. Thesis 82 "that if the Pope has power to empty purgatory then he should do it for the sake of love and not for money.
+
+Luther's 95th Theses did not immediately cause a large stir within the Holy Roman Empire. However, it was widely distributed within Germany in the following months when it was translated by his friends and followers from Latin to German. It called into question the authority of the Pope, the fallibility of councils, and the place of Scripture in doctrinal matters. Only over time did it become a central symbol of the Reformation. The dissemination of the 95 Theses along with the rest of Luther's work would not have been possible without the Gutenberg Press. It is estimated that in the early 16th century, his work represented one-fifth of all printed material of Germany.
+
+The two next events of Luther's life were the Heidelburg Disputation of 1518 and Leipzig Disputation of 1519. It was at Heidelburg that Luther first articulated the 'solas' that are fundamental to Protestantism: sola fidei and sola gratia.
+
+
+ He also converted a Dominican monastic by the name of Martin Bucer who later became an important Reformed figure in his own right. At Leipzig he debated John Eck who represented the Roman Catholic position he denied papal primacy and the infallibility of councils. He would run into John Eck many more times later in his life. In 15 June 1520, Pope Leo X addressed Luther in Exsurge Domine telling him that he risked excommunication unless he recanted his positions. In response, Luther burned the papal bull on December 10th of 1520, leading to his excommunication on January 3rd of 1521.
+
+It was in these years and those following that Luther becomes increasingly reliant on the backing of political entities like the Electors of Saxony and the landgraves of Hesse. For example, in 1518 when Pope Leo X sent for Luther to be examined for heresy, Frederick III of Saxony interceded on Luther's behalf so that the venue was changed from Rome to Augsburg. Later at the Diet of Worms of 1521 Frederick III of Saxony obtained a safe conduct to and from the Diet. There, Luther came before John Eck and the imperial diet and refused to recant his teachings and writings famously saying this
+
+"Unless I am convinced by the testimony of the Scriptures or by clear reason (for I do not trust either in the pope or in councils alone, since it is well known that they have often erred and contradicted themselves), I am bound by the Scriptures I have quoted and my conscience is captive to the Word of God. I cannot and will not recant anything, since it is neither safe nor right to go against conscience. May God help me. Amen."
+
+[https://upload.wikimedia.org/wikipedia/commons/4/43/Luther_at_the_Diet_of_Worms.jpg]
+
+He was declared on outlaw by Charles V in the Edict of Worms on 25 May 1521. This edict also banned his literature, called for his arrest, and made it illegal for anyone to house or feed Luther while making it permissible for anyone to kill Luther without consequence. The Elector of Saxony once again stepped in for Luther, and housed him in Wartburg Castle for the next 8 months before returning to Wittenburg to restore order. He forsook his monastic vows and married Katharina von Bora, a former nun who he "freed", on 13 June 1525, and together with his wife moved into the Black Monastery (now known as Lutherhaus) a former monastery. It must be noted that this marriage came as a surprise to many, even to Philip Melanchthon a close friend and the closest Reformer to Luther theologically. This may have been due to the death of Frederick III who had died a month prior on 5 May 1525, and who officially was opposed to the marriage of priests, and along those conservative lines most likely would've been especially opposed to the marriage of a former monk to a former nun. This marriage would have likely caused undesirable tension between Luther and his most powerful secular benefactor thus the marriage was delayed until after the Elector's death.
+
+The Colloquy of Marburg in 1529 was the first time that Protestant leaders came together to unify their doctrine. Philip of Hesse was the organizer and host of this meeting. His motivation was primarily political as he wanted to a political alliance of Protestant states of the HRE, and this alliance would be strengthened if there were religious unity. After agreeing on 14 points, they disagreed on the central act of worship: The Eucharist. Ulrich Zwingli on one hand denied that it was the truly the body and blood of Christ while Luther affirmed it. "Before I would have mere wine with the fanatics, I would rather receive sheer blood with the pope."
+
+Later, Philip of Hesse threatened Luther and the other Reformers with the breaking off of political support unless they agreed to bless his second marriage. He used the example of the polygamy of the Patriarchs of the Old Testament to justify his position. Although they disagreed theologically, they acquiesced   
+
+Luther also gave advice to Henry VIII of England, advocating for bigamy instead of divorce.
