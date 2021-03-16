@@ -10,7 +10,7 @@ image:
 Central Point: Attention as your most precious resource and what Christ seeks. "Revelations 3:20"
 
 ##Intro
-The central idea is that what you pay attention to, what you seek to hear, to see, etc what creates impressions on your soul becomes a part of you. In a sense the thing that you pay attention to the most.. is what you worship. To seek God, and to attend to God, and to see God are all synonymous with one another. There is a theme of light, watchfulness, wakefulness, sobriety juxtaposed with darkness, distractedness, slumber, and stupor. To pay attention to things lower than God is to be in the darkness and to pay attention to God is to be "enlightened".
+The central idea is that what you pay attention to, what you hear and see, etc what creates impressions on your soul becomes a part of you or... even controls you. The thing that you pay attention to the most.. is what you worship. We are vessels, and we can be vessels for God or other spirits. In the NT there is a theme of light, watchfulness, wakefulness, sobriety juxtaposed with darkness, distractedness, slumber, and stupor. To pay attention to things lower than God is to be in the darkness and to pay attention to God is to be "enlightened".
 
 There are many warnings in both the Old and NT of guarding one's heart. In short, to guard one’s heart is to guard one’s soul from idols that may compete for our attention and worship. If we find ourselves obsessively looking at something or paying attention to something, this is a distraction and perhaps may even become an idol. For example, a person who is constantly checking his bank account balance or stocks is doing so out of attention to his finances. Taken to an extreme, this attention to one’s financial situation can become idolatrous.
 
@@ -18,7 +18,7 @@ To Christ, to lack attention to prayer and to God is to fall asleep, to have one
 
 Mark 13:35-37 "35 Watch therefore, for you do not know when the master of the house is coming—in the evening, at midnight, at the crowing of the rooster, or in the morning— 36 lest, coming suddenly, he find you sleeping. 37 And what I say to you, I say to all: Watch!” and equivalents in Matt 24 and Luke 21.
 
-Social Media and the internet is an extremely potent tool for it is an "extension" of our eyes. This tool is most analogous to the Palintir in LOTR. It grants us vision and knowledge of things that isn't accessible normally, and if used can lead to possession and influence from the evil one.
+Social Media and the internet is an extremely potent tool for it is an "extension" of our eyes. This tool is most analogous to the Palintir in LOTR. It grants us vision and knowledge of things that isn't accessible normally, and if used without vigilance can lead to possession and influence from the evil one.
 
 ### Main
 
