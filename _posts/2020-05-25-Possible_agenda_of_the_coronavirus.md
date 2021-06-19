@@ -25,7 +25,7 @@ Not everyone is on board, and you can see that in many individuals and even loca
 *TLDR: There is and have been liars in the American government who transcend party lines. These liars work with corporations, media, and universities to achieve what they believe to be the "best" for the American people (and on some level the whole world) but on its own twisted, tyrannical, and fundamentally immoral terms. This virus is no exception to the way in which they respond to crises (sometimes after creating them), which is to create as much fear as possible then offer a “solution”. This is not to say that the virus is a "hoax" and that there is NO threat to human life but that the threat is heavily overstated in order to bring forth new policies that advance their agenda.*
 
 
-###Links
+### Links
 https://www.smithsonianmag.com/smart-news/1950-us-released-bioweapon-san-francisco-180955819/ - Weapons testing on SF
 
 https://www.businessinsider.com/army-sprayed-st-louis-with-toxic-dust-2012-10 - Bioweapons testing on St. Louis

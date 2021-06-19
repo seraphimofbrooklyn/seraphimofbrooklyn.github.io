@@ -25,3 +25,7 @@ We are always distracted and weak, envious and wicked; often do we think evil of
 Do you see God's Providence? Do you see Christ's loving-kindness? Do you see how God Who is Holy ever loves us and wants us to be saved?
 
 Blessed is the man who ever strikes to prepare a pure heart for grace, that when she comes she might find the fragrance of virtues and a sacred place in the soul and reside therein unto the ages of ages. - Psalm 114 of the Spiritual Psalter (Or reflections On God) of St. Ephraim
+
+# **St. Porphyrios**
+
+In the eyes of God, the married and the unmarried are the same, provided they live in accordance with the commandments of God and provided they live the life of God. Chastity, lack of possessions and poverty, which are the virtues of the monk, are to be found in a person's heart. Someone who may be a virgin as far as the body is concerned, but be like an inveterate whore as far as the soul is concerned on account of his malice and passions. Someone may own a dozen houses and yet in his soul be liberated from material things and live like someone who owns nothing. On   the other hand, someone may be poor in an external sense, but not free of possessions internally. It is not the quantity of possessions that makes someone  propertied or unpropertied, but the attachment of the heart.
