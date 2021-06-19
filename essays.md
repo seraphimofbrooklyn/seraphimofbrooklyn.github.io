@@ -7,7 +7,7 @@ tags: [essays, graphic design]
 
 A page with a link to my essays in no particular order. I'll organize them by topic if it gets busy.
 
-https://seraphimofbrooklyn.github.io/21-On-Pharmeceutical-and-Medical-Malfeanse
+https://seraphimofbrooklyn.github.io/On-Pharmeceutical-and-Medical-Malfeanse
 
 https://seraphimofbrooklyn.github.io/Western-Theories-of-Salvation
 
