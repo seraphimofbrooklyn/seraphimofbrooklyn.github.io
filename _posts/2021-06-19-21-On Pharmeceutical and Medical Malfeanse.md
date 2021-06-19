@@ -2,7 +2,7 @@
 title: "On Pharmaceutical and Medical Malfeasance"
 description: "An essay on science and it's abuse by moneyed interests which encompasses both the industry and the government"
 date: 2021-5-14
-image:
+image: headers/drugmoney.jpeg
 ---
 ### Introduction
 
