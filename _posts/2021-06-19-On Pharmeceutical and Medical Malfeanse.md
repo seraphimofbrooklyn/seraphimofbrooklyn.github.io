@@ -7,7 +7,7 @@ image:
 ---
 ### Introduction
 
-**Is curing disease a sustainable business model?** This very memorable question was posed by Goldman Sachs in a report done on April 10 of 2018 [1]. The details of the report aren't as important as the general spirit that inspired the question, that sentiment being one of greed and irresponsibility. In this essay I will explore the manifestation of this spirit in the pharmaceutical and medical industry of the West. Specifically I will go over Primodos, Thalidomide, Tobacco, Sugar and Insulin, Oxycontin, and Atrizine. This broadly covers the pharmaceutical industries' hands in birth control, recreational drugs, antidiabetics, painkillers, and agriculture.
+**Is curing disease a sustainable business model?** This very memorable question was posed by Goldman Sachs in a report done on April 10 of 2018 [1]. The details of the report aren't as important as the general spirit that inspired the question, that sentiment being one of greed and irresponsibility. In this essay I will explore the manifestation of this spirit in the pharmaceutical and medical industry of the West. Specifically I will go over Primodos, Thalidomide, Tobacco, Sugar and Insulin, Oxycontin, and Atrizine. This broadly covers the pharmaceutical industries' hands in *birth control, recreational drugs, antidiabetics, painkillers, and agriculture*. I will do my best not to assign malice where ineptitude may serve as a better explanation, but it is difficult not to be cynical.
 
 ### Primodos and Thalidomide
 
