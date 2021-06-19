@@ -22,7 +22,7 @@ image:
 However, it wasn't until after 10 years of use that the first evidence was published in 1967 by **Isabel Gal** who presented evidence that HPTs increased the likelihood of spinal bifida, a birth defect of the spine and spinal cord. A year later, an additional study by statistician Dr Dennis Cook showed "the incidence of birth malformations" in the UK rose with the introduction of Primodos [2]. The Royal College of General Practitioners (RCGP) also conducted a study that started in 1965 and ended in 1969 recorded a much higher incidence of abnormal outcomes of pregnancies when using HPTs. In 1970 Primodos was no longer recommended for pregnancy testing but continued to use it as a treatment for irregular periods. Despite this doctors were not explicitly warned until later in 1975 "about the possible risk of congenital anomalies was added to the label, as was a contraindication in pregnancy" [3]. In June of the same year a public notice was sent to all doctors in the UK advising that there may be a link between birth defects and the drug, recommending that the drug "should not now be normally used" [3]. In 1977 this changed to HPTs "should not be used" [3], and finally a year later Primodos was removed from the UK. **From the first study in 1967, it took 8 years for a warning to be issued, and another 3 after that for it to be removed from the market.** Why?
 
 <figure>
-	<img src="/images/pharma/Table 1.png">
+	<img src="/images/pharma/Figure_2_RCGP_table.png">
 	<figcaption> Figure 2: Data from the RCGP study that showed a much higher incidence of birth defects when using Primodos
 </figcaption>
 </figure>
@@ -86,7 +86,7 @@ The industry also suppressed research that would have cast aspersions towards su
 Despite the long-term changes in macronutrient composition with a heavier emphasis on carbohydrate at the expense of protein and fat consumption, obesity and heart disease continues to grow.... This can be clearly seen in three studies, one in 1971-2000 by the CDC which tracked an increase in obesity from 14.5% to 30.9% with less fat and protein consumption and increasing carbohydrate consumption (from 42.4% to 49.0% of the diet for men and from 45.4% to 51.6% for women)[21]. Similar observations were found in a study done by Austin, Ogden and Hill that found increase in obesity from "11.9% to 33.4% in men and from 16.6% to 36.5% in women" in the time period of 1971-2006 despite changes in diet composition. During that time, the "percentage of energy from carbohydrates increased from 44.0% to 48.7%, the percentage of energy from fat decreased from 36.6% to 33.7%, and the percentage of energy from protein decreased from 16.5% to 15.7%" [22]. Finally, we get to the most damning of the studies which calls this phenomena "The American Paradox" [23]. Using a population survey that constituted nationally representative samples, Dr. Adrian Heidi concludes that **"reduced fat and calorie intake use of low-calorie food products have been associated with a paradoxical increase in the prevalence of obesity."**
 
 <figure>
-	<img src="/images/pharma/american_paradox_figure2.png">
+	<img src="/images/pharma/Figure_6_American_Paradox.png">
 	<figcaption> Figure 6: Figure from paper mentioned above by Dr. Adrian Heidi
 </figcaption>
 </figure>
@@ -96,7 +96,7 @@ Add this to the fact that **saturated fat consumption has also gone down (from 1
 It is also important to account for the growing amount of diabetics **(from 1% to 10% since the 1950s according to the CDC)** in the US population who are entirely dependent on insulin as a matter of life or death due to insulin being the medical establishment's only approved treatment for type 2 diabetes [25]. I believe there is a system in which the research from which policy and guidelines are developed are either purposely misleading, or unintentionally misleading the public with the result of possibly exacerbating the massive health crises of the US and other countries following in the example of the US. I do not ascribe malice to the part of the institutions being discussed here, yet it is entirely within the realm of possibility that there can be a financial incentive for the proliferation of disease and illness.
 
 <figure>
-	<img src="/images/pharma/diabetes_incidence.png">
+	<img src="/images/pharma/Figure_7_Diabetes_Incidence.png">
 	<figcaption> Figure 7: CDC graph showing the increasing incidence of diabetes. If this graph were to continue to 2021 it would be near 10% of the population with diabetes
 </figcaption>
 </figure>
@@ -111,13 +111,13 @@ Like tobacco, it is practically mainstream knowledge that deceptive tactics that
 However the slow release mechanism could be very easily bypassed. If the oral tablet was crushed and snorted results in the rapid release of the drug, and can lead to overdose. And if not overdose it would very quickly lead to abuse and addiction. Hence a strategy abusers often adopted was "doctor shopping" in which a person seeking Oxycontin would go to various doctors complaining about pain so that several prescriptions can be obtained.  This is supported by a study that states that "70% of OxyContin® abusers obtained the drug via a physician’s prescription" [30].**When accounting for the fact that most people (80%) who use heroin first misused prescription opioids it is very easy to establish the connection between the over-prescription of OxyContin and the current opioid epidemic, which kills roughly 50,000 every year**. Of the 50,000 overdose deaths, heroine claims roughly the same number of lives as prescription opioids do as seen in the figures below. [31]
 
 <figure>
-	<img src="/images/pharma/cdc_opioid_deaths.png">
+	<img src="/images/pharma/Figure_8_Prescription_Deaths.png">
 	<figcaption> Figure 8: National Institute on Drug Abuse graph showing trend of prescription opioid overdose deaths which has more than tripled from 4,000 deaths to its peak at 17,029 deaths in 2017.
 </figcaption>
 </figure>
 
 <figure>
-	<img src="/images/pharma/cdc_opioid_deaths_2	.png">
+	<img src="/images/pharma/Figure_9_Heroine_Deaths.png">
 	<figcaption> Figure 9: National Institute on Drug Abuse graph showing trend of heroine overdose deaths which has grown from 1,960 to 15,469 at its peak in 2016.
 </figcaption>
 </figure>
