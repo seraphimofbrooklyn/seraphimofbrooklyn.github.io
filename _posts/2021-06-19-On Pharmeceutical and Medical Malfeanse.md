@@ -3,7 +3,7 @@ title: "On Pharmaceutical and Medical Malfeasance"
 description: "An essay on science and it's abuse by moneyed interests which encompasses both the industry and the government"
 date: 2021-6-19
 image:
-feature: headers/drugmoney.jpeg
+        feature: headers/boyce_header.PNG
 ---
 ### Introduction
 
@@ -11,7 +11,7 @@ feature: headers/drugmoney.jpeg
 
 ### Primodos and Thalidomide
 
-**Primodos** will be the first of the pharmaceuticals that we will speak of. It was manufactured by Schering AG and used from 1958 to 1978 in the UK as a hormone pregnancy test (HPT), being prescribed to around 1.5 million women. The drug consists of 20 μg of oestrogen ethinylestradiol and a large dose (about 10 mg) of progestogen norethisterone, which is 40 times the amount that is used today in oral contraceptives. Typically it was more attractive than alternatives like Hagben which was more expensive and took 2 weeks for a result, while also having an extremely simple mechanism: if you bled (typically within 3-6 days) you were not pregnant, and if you did not bleed you were pregnant. However, it had the horrible side effect of increasing the chance of congenital malformations, which in retrospect would have been the first thing they should've tested given that it was **marketed as a HPT**.
+**Primodos** will be the first of the pharmaceuticals that we will speak of. It was manufactured by Schering AG and used from 1958 to 1978 in the UK as a *hormone pregnancy test (HPT)*, being prescribed to around 1.5 million women. The drug consists of 20 μg of oestrogen ethinylestradiol and a large dose (about 10 mg) of progestogen norethisterone, which is 40 times the amount that is used today in oral contraceptives. Typically it was more attractive than alternatives like Hagben which was more expensive and took 2 weeks for a result, while also having an extremely simple mechanism: if you bled (typically within 3-6 days) you were not pregnant, and if you did not bleed you were pregnant. However, it had the horrible side effect of increasing the chance of congenital malformations, which in retrospect would have been the first thing they should've tested given that it was **marketed as a HPT**.
 
 <figure>
 	<img src="/images/pharma/primodos.jpg">
