@@ -144,7 +144,7 @@ Of special concern is the revolving door policy that is present in virtually all
 ### Sygenta, Atrazine, and "Gay Frogs"
 
 <figure>
-	<img src="/images/pharma/Figure_10_frogs.jpg">
+	<img src="/images/pharma/Figure_10_Frogs.jpg">
 	<figcaption> Figure 11: Frogs embracing one another
 </figcaption>
 </figure>
