@@ -93,7 +93,7 @@ Despite the long-term changes in macronutrient composition with a heavier emphas
 
 Add this to the fact that **saturated fat consumption has also gone down (from 13%~ to 11%~)**, while **heart disease has more than doubled from 1979 to 2004** (increase from 1,274,000 cases/222 million to 3,860,000 cases/292 million which is about 2.3x higher rate) [24].... and we have a glaring problem on our hands, namely that the dietary paradigm that has been propagated seems to be at the very least inaccurate and incomplete, if not completely wrong altogether.
 
-It is also important to account for the growing amount of diabetics **(from 1% to 10% since the 1950s according to the CDC)** in the US population who are entirely dependent on insulin as a matter of life or death due to insulin being the medical establishment's only approved treatment for type 2 diabetes [25]. I believe there is a system in which the research from which policy and guidelines are developed are either purposely misleading, or unintentionally misleading the public with the result of possibly exacerbating the massive health crises of the US and other countries following in the example of the US. I do not ascribe malice to the part of the institutions being discussed here, yet it is entirely within the realm of possibility that there can be a financial incentive for the proliferation of disease and illness.
+It is also important to account for the growing amount of diabetics **(from 1% to 10% since the 1950s according to the CDC)** in the US population who are entirely dependent on insulin as a matter of life or death due to insulin being the medical establishment's only approved treatment for type 2 diabetes [25]. I believe there is a system in which the research from which policy and guidelines are developed are either purposely misleading, or unintentionally misleading the public with the result of possibly exacerbating the massive health crises of the US and other countries following in the example of the US. I do not ascribe malice to the part of the institutions being discussed here, yet it is entirely within the realm of possibility that there can be a financial incentive for the proliferation of disease and illness. Chronic illness may be a much better "business" model than health.
 
 <figure>
 	<img src="/images/pharma/Figure_7_Diabetes_Incidence.png">
@@ -143,14 +143,20 @@ Of special concern is the revolving door policy that is present in virtually all
 
 ### Sygenta, Atrazine, and "Gay Frogs"
 
+<figure>
+	<img src="/images/pharma/Figure_10_frogs.jpg">
+	<figcaption> Figure 11: Frogs embracing one another
+</figcaption>
+</figure>
+
 This last section will be likely the most fantastical of the topics we have already covered given that it is tied with Alex Jones' famous quote and accusation that "they are putting chemicals in the water that are turning the friggin frogs gay". This is mainly based off of a documentary made by a YouTuber who runs a channel called "
 Oki's Weird Stories". He did an extremely thorough investigation, personally calling and interviewing the individuals involved in this controversy including 3 EPA employees [32]. The bulk of this section will be based off of his video and the sources that he uses.
 
-First... What is **Atrazine**? It is an herbicide produced by **Sygenta** used on broadleaf weeds in crops like corn, sugarcane, sorghum, turf and residential lawns. It enters the environment through runoff and is frequently detected in "US streams, reservoirs, groundwater, and precipitation" to the point where it was considered the **most commonly detected pesticide detected in drinking water sources**, being detected in **30%** of 2460 ground water sites surveyed in a study done in 2000 (Pesticides of US 1992-1996)[33][34][35]. It is considered non-toxic by the EPA for mammals, but toxic to fish and aquatic plants in concentrations as low as 20 μg/l, and amphibians in concentrations from 200 to 127,000 μg/l. Two studies done by **Tyrone Hayes** from UC Berkeley in 2002 found that **atrazine exposure induces hermaphroditism (showing both testes and ovaries) in male frogs**, causing impaired sexual development and skewed sex ratios [36]. They also saw a ten-fold decrease in testosterone levels in frogs exposed to atrazine levels 1/30th the safe level set by the EPA for drinking water. These observations were theorized to be factors contributing to the global amphibian population declines.
+First... What is **Atrazine**? It is an herbicide produced by **Sygenta** used on broadleaf weeds in crops like corn, sugarcane, sorghum, turf and residential lawns. It enters the environment through runoff and is frequently detected in "US streams, reservoirs, groundwater, and precipitation" to the point where it was considered the **most commonly detected pesticide detected in drinking water sources**, being detected in **30%** of 2460 ground water sites surveyed in a study done in 2000 (Pesticides of US 1992-1996) [33][34][35]. It is considered non-toxic by the EPA for mammals, but toxic to fish and aquatic plants in concentrations as low as 20 μg/l, and amphibians in concentrations from 200 to 127,000 μg/l. Two studies done by **Tyrone Hayes** from UC Berkeley in 2002 found that **atrazine exposure induces hermaphroditism (showing both testes and ovaries) in male frogs**, causing impaired sexual development and skewed sex ratios [36]. They also saw a ten-fold decrease in testosterone levels in frogs exposed to atrazine levels 1/30th the safe level set by the EPA for drinking water. These observations were theorized to be factors contributing to the global amphibian population declines. They may also have implications into human health given their prevalence in our drinking water.  
 
 <figure>
 	<img src="/images/pharma/herbicide1.gif">
-	<figcaption> Figure 10: 1994 Atrazine use in pounds per sq mile. Source: Department of the Interior
+	<figcaption> Figure 11: 1994 Atrazine use in pounds per sq mile. Source: Department of the Interior
 </figcaption>
 </figure>
 
