@@ -5,7 +5,7 @@ description: "Article on the dialectic between faith and works."
 
 ---
 
-Having the foretaste of heaven how can we not help but to seek more? What you perceive as works are manifestations of the deep longing the Bridge has towards the Bridegroom. Why does the faithful wife keep an orderly home, clean and pristine? Why does she keep herself faithful in body, mind, and soul to him? When the Beloved returns she wishes to be embraced, to be honored and praised for her fidelity and purity. So does the Church in expectation of Christ in His fullness. The love of God is freely given yes, but we do not always receive it in its fullness due to our sins, and our lack of attention to Him.
+Having had the foretaste of heaven how can we not help but to seek more? What you perceive as works are manifestations of the deep longing the Bridge has towards the Bridegroom. Why does the faithful wife keep an orderly home, clean and pristine? Why does she keep herself faithful in body, mind, and soul to him? When the Beloved returns she wishes to be embraced, to be honored and praised for her fidelity and purity. So does the Church in expectation of Christ in His fullness. The love of God is freely given yes, but we do not always receive it in its fullness due to our sins, and our lack of attention to Him.
 
 >Behold, the Bridegroom is comes in the middle of the night; and blessed is the servant who He shall find watching. Unworthy is the servant who He shall find being lazy. Beware, O my soul, be not overcome by sleep, so that you not be handed over to death and be shut out from the Kingdom. Come to your senses and cry aloud: Holy, holy, holy are You our God. By the power of Your Cross save us. - Hymn sung during Bridegroom Matins of Holy Week of Lent
 
