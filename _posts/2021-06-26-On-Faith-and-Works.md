@@ -1,0 +1,22 @@
+---
+title: "On Faith and Works"
+description: "Article on the dialectic between faith and works."
+
+
+---
+
+Having the foretaste of heaven how can we not help but to seek more? What you perceive as works are manifestations of the deep longing the Bridge has towards the Bridegroom. Why does the faithful wife keep an orderly home, clean and pristine? Why does she keep herself faithful in body, mind, and soul to him? When the Beloved returns she wishes to be embraced, to be honored and praised for her fidelity and purity. So does the Church in expectation of Christ in His fullness. The love of God is freely given yes, but we do not always receive it in its fullness due to our sins, and our lack of attention to Him.
+
+>Behold, the Bridegroom is comes in the middle of the night; and blessed is the servant who He shall find watching. Unworthy is the servant who He shall find being lazy. Beware, O my soul, be not overcome by sleep, so that you not be handed over to death and be shut out from the Kingdom. Come to your senses and cry aloud: Holy, holy, holy are You our God. By the power of Your Cross save us.
+
+In the present day, the Eastern Orthodox is centered on monastic asceticism the goal of which is to cleanse ourselves of anything that obscures the nous to the things of above. We cannot see and perceive God's grace unless we like Moses take off our sandals; but for us moderns the sandals are the countless passions that have rooted themselves deeply within us, and the multitude of distractions that pull us in every direction but the centre of all being. We are the disciples who, when Christ was praying at Gethsemane, continuously fell asleep instead of keeping watch and praying. Our hearts are hardened but Christ has left the Church (His Body) and the Holy Spirit to soften it.
+
+The purity of heart is what allows us to see God (as in the Beatitudes). Just to call oneself Christian, or even to be within the confines of the Church is merely the 1st step. To experience God more fully, and more deeply, to have him interpenetrate all parts of our lives and our very being, to be one with Him... this is the goal of prayer, confession, fasting, and communion. We want to receive Christ but we want to do so with a pure heart and conscience. And though no-one is truly worthy to commune we will still try, in all of our frailty, to be solely dedicated to Him as the Theotokos was to God when she, by her affirmation of God's will, said "let it be done to me according to thy word". 
+
+The Church is His body. It is by virtue of this reality that the Church is able to serve the body with His Body and Blood. It is with such firm faith in God and his faithfulness to the Church that we believe that He left us with the divine Mysteries by which we become His body. It is this faith which drives us to attend church and commune. We become what we eat. After all, you are what you eat. And there is no higher or more fulfulling meal than the manna of heaven, and the daily bread that he promised to all the faithful. Of course, mystical prayer and theoria is good and desirable, but even the highest states of mysticism is grounded by participation in the "works" of the church. The lofty heights of theosis is only possible through the latter more visible aspects of the Christian life.
+
+Works are to facilitate and embody the faith. The mere intellectual assent to God, is faith without works, and as St. James says: faith without works is dead. True faith which is integrated into the person always produces tangible action in the body because we of matter and spirit. The Christian, in uniting the heavenly will of God with his own will (on Earth as it is in heaven) also unites the physical and earthly parts of himself with the loftier spiritual aspects of it. Thus when he was manifested his desire to cleave to God through prayer, fasting, attending church, loving his neighbor, etc, he has integrated this vision of the Lord's Prayer into his heart of hearts.
+
+>"Thy Kingdom come, Thy will be done, on **Earth as it is in Heaven**".
+
+On Earth (the works that is visible to the world and to others) as it is in Heaven (the faith and spiritual relation to God that is only visible to God) is the union of heaven and earth, of the material and the spiritual. The outer works ideally match the interior disposition towards God. When heaven and earth meet, when the will of God is manifested within us, when it is no longer us who live but Christ that lives within us, we become what we are truly called to be: Christians.  
