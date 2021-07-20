@@ -12,8 +12,8 @@ He will come with trifles and trinkets
 He will come offering artifices of oneness   
 
 Give heed, oh my sons.  
-The time draws near  
-When He will come with the clouds  
+The time draws near when  
+He will come with the clouds  
 But why do you sleep?  
 
 Do you not see the sign of the times?  
@@ -39,7 +39,7 @@ for no man shall hide himself from his heat.
 Before that day, which no man nor angel shall know,  
 there will be a pretender to the throne.  
 He will put on a spectacular show and to his audience,  
-gifting an illusion of unity yet in truth, alone.  
+gifting to each an illusion of unity yet in truth, alone.  
 
 Saying "Such rest and sleep has man not known,  
 Enraptured, would he leave given the choice?  
