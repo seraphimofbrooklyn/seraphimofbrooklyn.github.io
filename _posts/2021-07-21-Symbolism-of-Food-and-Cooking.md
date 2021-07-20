@@ -15,10 +15,10 @@ In the current era, it is too often that we spiritualize everything, often as a 
 
 In the Trisagion prayers we address the Holy Sprit as "Heavenly King, O Comforter, the Spirit of Truth who art in all places and fillest all things, Treasury of blessings, and Giver of Life" . Hence while God is both the alpha and the omega of Creation, and thus is the origin and end of all things, He is also the sustainer of all things, including the conditions from which both animal and plant life blossoms forth. Hence the Psalmist attributes the bountiful riches of the earth to God.
 
-> He sendeth forth springs in the valleys; between the mountains will the waters run.  
-> They shall give drink to all the beasts of the field; the wild asses will wait to quench their thirst.  
+> He sendeth forth **springs** in the valleys; between the mountains will the **waters** run.  
+> They shall give drink to all the **beasts** of the field; the wild asses will wait to quench their thirst.  
 > Beside them will the birds of the heaven lodge, from the midst of the rocks will they give voice.  
-> He watereth the mountains from His chambers; the earth shall be satisfied with the fruit of Thy works.  
+> He watereth the mountains from His chambers; the earth shall be satisfied with the **fruit** of Thy works.  
 > He causeth the grass to grow for the **cattle**, and **green herb** for the service of men,  
 > to bring forth **bread** out of the earth; and **wine** maketh glad the heart of man.  
 > To make his face cheerful with **oil**; and bread strengtheneth man's heart. Psalm 103:12-15.
