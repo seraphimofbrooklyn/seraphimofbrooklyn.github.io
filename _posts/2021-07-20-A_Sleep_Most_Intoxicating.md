@@ -3,7 +3,7 @@ title: "A Sleep Most Intoxicating"
 description: "A short poem on vigilance and the sign of the times"
 date: 2021-7-20
 image:
-        feature: headers/lotus eater.jpg
+        feature: headers/lotuseater.jpg
 ---
 
 He will come bearing glad tidings
