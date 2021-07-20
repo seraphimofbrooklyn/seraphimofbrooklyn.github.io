@@ -6,10 +6,10 @@ image:
         feature: headers/lotuseater.jpg
 ---
 
-He will come bearing glad tidings
-He will come promising perpetual pleasure
-He will come with trifles and trinkets
-He will come offering artifices of oneness
+He will come bearing glad tidings  
+He will come promising perpetual pleasure  
+He will come with trifles and trinkets  
+He will come offering artifices of oneness   
 
 Give heed, oh my sons.
 The time draws near
