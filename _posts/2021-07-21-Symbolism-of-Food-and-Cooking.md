@@ -19,7 +19,7 @@ In the Trisagion prayers we address the Holy Sprit as "Heavenly King, O Comforte
 > He watereth the mountains from His chambers; the earth shall be satisfied with the fruit of Thy works.
 > He causeth the grass to grow fro the cattle, and green herb for the service of men,
 > TO bring forth bread ouf of the earth; and wine maketh glad the heart of man.
-> To make his face cheerful with oil; and bread strengtheneth man's heart. Psalm 103:12-15. 
+> To make his face cheerful with oil; and bread strengtheneth man's heart. Psalm 103:12-15.
 
 But what does it mean to eat? To consume is to assume into ourselves. At the most physical level every organism has to incorporate some aspect from that which is external to them in order to continue to survive. This remains true at every scale whether you take the example of a single-cellular organism, a human, or a large body of humans like a city. This consumption and eventual assumption into ourselves reproduces our identity and creates or maintains our body. At the small scale bacteria in cell cultures consume growth medium, and create more body by reproducing. On the human scale most would prefer not to create more body, as most would prefer to lose weight or not reproduce.
 
