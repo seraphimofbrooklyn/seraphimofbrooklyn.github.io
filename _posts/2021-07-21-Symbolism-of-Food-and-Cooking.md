@@ -1,7 +1,9 @@
 ---
 title: "On the Symbolism of Eating and Cooking"
 description: "Article on the Symbolism of Eating and Cooking. Written for a friend who is a chef."
-
+date: 2021-7-20
+image:
+        feature: headers/lamb.jpg
 
 ---
 
@@ -11,15 +13,15 @@ Though it may not seem obvious, food and eating is a central part of the Bible, 
 
 In the current era, it is too often that we spiritualize everything, often as a reactionary reflex to the  poverty of materialism. Such a reaction engenders a worldview that removes God from the material realm, relegating him to someone who is invisible, distant, and quite apart from day-to-day life. It also places him in some distant time of thousands of years ago in a distant land. But this was not the God of the Israelites, nor the God of the Christians of the Early Church. This distant "God" is an alien and foreign God who is not the Christian God, an idol to be dashed against the rocks.
 
-In the Trisagion prayers we address the Holy Sprit as "Heavenly King, O Comforter, the Spirit of Truth who art in all places and fillest all things, Treasury of blessings, and Giver of Life" . Hence while God is both the alpha and the omega of Creation, and thus is the origin and end of all things, He is also the sustainer of all things, including the conditions from which both animal and plant life blossoms forth.
+In the Trisagion prayers we address the Holy Sprit as "Heavenly King, O Comforter, the Spirit of Truth who art in all places and fillest all things, Treasury of blessings, and Giver of Life" . Hence while God is both the alpha and the omega of Creation, and thus is the origin and end of all things, He is also the sustainer of all things, including the conditions from which both animal and plant life blossoms forth. Hence the Psalmist attributes the bountiful riches of the earth to God.
 
 > He sendeth forth springs in the valleys; between the mountains will the waters run.  
 > They shall give drink to all the beasts of the field; the wild asses will wait to quench their thirst.  
 > Beside them will the birds of the heaven lodge, from the midst of the rocks will they give voice.
 > He watereth the mountains from His chambers; the earth shall be satisfied with the fruit of Thy works.
-> He causeth the grass to grow fro the cattle, and green herb for the service of men,
-> TO bring forth bread ouf of the earth; and wine maketh glad the heart of man.
-> To make his face cheerful with oil; and bread strengtheneth man's heart. Psalm 103:12-15.
+> He causeth the grass to grow for the **cattle**, and **green herb** for the service of men,
+> TO bring forth **bread** out of the earth; and **wine** maketh glad the heart of man.
+> To make his face cheerful with **oil**; and bread strengtheneth man's heart. Psalm 103:12-15.
 
 But what does it mean to eat? To consume is to assume into ourselves. At the most physical level every organism has to incorporate some aspect from that which is external to them in order to continue to survive. This remains true at every scale whether you take the example of a single-cellular organism, a human, or a large body of humans like a city. This consumption and eventual assumption into ourselves reproduces our identity and creates or maintains our body. At the small scale bacteria in cell cultures consume growth medium, and create more body by reproducing. On the human scale most would prefer not to create more body, as most would prefer to lose weight or not reproduce.
 
