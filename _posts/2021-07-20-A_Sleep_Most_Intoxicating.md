@@ -38,8 +38,8 @@ for no man shall hide himself from his heat.
 
 Before that day, which no man nor angel shall know,  
 there will be a pretender to the throne.  
-He will put on a spectacular show and to his audience,  
-gifting to each an illusion of unity yet in truth, alone.  
+He will put on a spectacular show and gifting to his audience,  
+to each an illusion of unity yet in truth, alone.  
 
 Saying "Such rest and sleep has man not known,  
 Enraptured, would he leave given the choice?  
