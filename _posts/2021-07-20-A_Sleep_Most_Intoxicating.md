@@ -21,7 +21,7 @@ Does the world not seem as an imitation upon imitation?
 Do you not hear the whispers of the Great Spirit calling?  
 And do not the murmurs from below not disturb your silence?  
 
-The walls are falling down  
+The walls are falling   
 The waters are rising  
 There is no dry land  
 There is no shelter from the storm.  
