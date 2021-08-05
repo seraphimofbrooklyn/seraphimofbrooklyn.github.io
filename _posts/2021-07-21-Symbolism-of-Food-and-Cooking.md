@@ -127,7 +127,7 @@ St. Ephrem the Syrian speaks of how man is nourished in the Paradise to come.
   and not any other
   variety of food; Hymns on Paradise 9:18
 
-So let us  not forget our ultimate goal whether you are a chef, or someone who just happens to have stumbled upon this article. If we forget and are careless, then we may end up at the feast without a wedding garment, and be cast out into the outer darkness (Matthew 22:12). Instead let us clothe ourselves with Christ , and be vigilant that we do not stain our garments so that we are spotless for the Bridegroom when He returns.
+So let us  not forget our ultimate goal whether you are a chef, or someone who just happens to have stumbled upon this article. If we forget and are careless, then we may end up at the feast without a wedding garment, and be cast out into the outer darkness (Matthew 22:12). Instead let us clothe ourselves with Christ , and be vigilant that we do not stain our garments or lose them entirely so that we are ready for the Bridegroom when He returns and gathers us to His banquet.
 
 I will end with the last section of St. Ephrem's 9th Hymn on Paradise as a prayer.
 
