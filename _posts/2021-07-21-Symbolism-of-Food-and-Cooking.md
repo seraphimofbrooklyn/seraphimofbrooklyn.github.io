@@ -31,7 +31,7 @@ Cultural assimilation can also apply across borders. For example, Western imperi
 
 To be able to successfully consume something is to be able to successfully assimilate it into ourselves. **However, there are things that are "unconsumable" in the sense that it will cause illness or even death**. The prime biblical archetype of course will be the fruit of the Tree of the Knowledge of Good and Evil, which introduced death into the world. In contrast, a good and healthy meal will be pleasurable, and we maintain our body and identity through such a meal. On the other hand, food that cannot be assimilated is expelled via vomiting. Like wise a state can exiled or expel ethnic groups or individuals. In severe cases of food poisoning that results in death, a complete dissolution is possible through the breakdown of our bodies into its material parts; carbon, nitrogen, calcium, etc. Identity is also broken down, as there is no longer a body to sustain it in the world. Analogously, a culture/spirit that cannot be assimilated can cause the death of the original culture like in the case of the Russian Revolution that transformed imperial Russia into Soviet Russia. In this case, the spirit of the Red Bolsheviks, like a virus or a parasite, took over the body of Russia.
 
-### Part 1 Mediatior, Priest and Physician
+### Part 1 Mediator, Priest and Physician
 
 <figure>
 	<img src="/images/icons/Christ&Adam.jpeg">
@@ -72,7 +72,7 @@ Cooks therefore hold the important role of Adam, naming things that are consumab
 Sacrifice was a regular part of worship in the ancient world. The process went something like this. Firstly, you and your community gathered and someone would lead the ritual by preparing the sacrifice elements. These would often be agricultural products like wheat or rice (depends on the location) prepared into bread or rice cakes. Sometimes they would be animals like goats or cows. These sacrificial elements would then be lathered with oil or alcohol and burnt up (raising matter). This burnt offering would be "consumed" by the spirit, and the rest of the food that wasn't burnt was eaten by the community. The spirit was hopefully satisfied with the sacrifice, and the people would eat together in peace and harmony with the spirit. Hence, it was a communion between the people worshipping, but also between the community and the spirit to whom they were sacrificing. So on a very generic level, this satisfies the model of heaven and earth.  
 
 <figure>
-	<img src="/images/food/BurntOffering.jpg">
+	<img src="/images/food/burntoffering.jpg">
 	<figcaption> Figure 5: Lamb sacrificed on the altar of burnt-offering </figcaption>
 </figure>
 
