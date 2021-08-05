@@ -103,33 +103,41 @@ Yes there is goodness in the world, and that God has blessed it. Yes food and dr
 As visible things are images of spiritual reality, food is an image of the heavenly food. The Bible always speaks about God through food and images of food. He promises to fill our mouths (Ps 80:10), feed us with the fat of the wheat and honey ouf of the rock (Ps 80:16). He caused manna to fall from heaven and quail to come up (Exodus 16). He makes our cup overflow (Ps 22:5), and giveth food to all flesh (Ps 135:26). He has prepared a fruit in Paradise to grant us eternal life. He came down and take flesh that we could taste and see that the Lord is good (Psalm 33:8). Christ, the Lamb of God, is the bread from heaven, and whosoever eats of this bread will live forever. He scandalized his followers and even his disciples when He said, "Most assuredly, I say to you, unless you eat the flesh of the Son of Man and drink His blood, you have no life in you" (John 6:53). This of course, is the same bread referenced in Luke 14:15 "Blessed is everyone who will eat bread in the Kingdom of God". God is calling us to his banquet table, and when our bellies are filled & satisfied is it not just to call others to share in his heavenly feast? Of course all are invited but none are worthy (Matthew 22:8), but by his loving kindness and great mercy we sit and eat at His table.
 
 <figure>
-	<img src="/images/icons/Lordssupper.jpg">
+	<img src="/images/icons/lordssupper.jpg">
 	<figcaption> Figure 8: Diagram on Symbols (from The Language of Creation by Matthieu Pageau)</figcaption>
 </figure>
 
 St. Ephrem the Syrian speaks of how man is nourished in the Paradise to come.
 
-> "The breezes of Paradise hasten to attend to the just; one blows satiety, another quenches the thirst" Hymns on Paradise 9:8
+> "The breezes of Paradise   
+  hasten to attend to the just;   
+  one blows satiety,  
+  another quenches the thirst" Hymns on Paradise 9:8
 
-> "Who has eaten to satisfaction without any food, or drunk and become merry without any drink?" Hymns on Paradise 9:9
+> "Who has eaten to satisfaction without any food,  
+  or drunk and become merry without any drink?" Hymns on Paradise 9:9
 
-> "For that which is spiritual has the Spirit's breath as its nourishment" Hymns on Paradise 9:10
+> "For that which is spiritual  
+  has the Spirit's breath as its nourishment" Hymns on Paradise 9:10
 
-> The soul requires sustenance appropriate to its needs;
-   it is by the Nourisher of all that the soul receives its fill,
-   and not any other variety of food; Hymns on Paradise 9:18
+> The soul requires sustenance  
+  appropriate to its needs;  
+  it is by the Nourisher of all  
+  that the soul receives its fill,   
+  and not any other
+  variety of food; Hymns on Paradise 9:18
 
 So let us  not forget our ultimate goal whether you are a chef, or someone who just happens to have stumbled upon this article. If we forget and are careless, then we may end up at the feast without a wedding garment, and be cast out into the outer darkness (Matthew 22:12). Instead let us clothe ourselves with Christ , and be vigilant that we do not stain our garments so that we are spotless for the Bridegroom when He returns.
 
 I will end with the last section of St. Ephrem's 9th Hymn on Paradise as a prayer.
 
->Grant Lord, that I and those dear to me may together there,
-find the very last remnants of Your gift!
-Just the sight of Your Dear One is a fountain of delight;
-whoever is worthy to be ravished thereby will despise ordinary food;
-all who look upon You
-will be sustained by Your beauty.
-Praises be to Your splendor.
+>Grant Lord, that I and those dear to me may together there,  
+find the very last remnants of Your gift!  
+Just the sight of Your Dear One is a fountain of delight;  
+whoever is worthy to be ravished thereby will despise ordinary food;  
+all who look upon You  
+will be sustained by Your beauty.  
+Praises be to Your splendor.  
 
 
 
