@@ -131,10 +131,15 @@ So let us  not forget our ultimate goal whether you are a chef, or someone who j
 
 I will end with the last section of St. Ephrem's 9th Hymn on Paradise as a prayer.
 
->Grant Lord, that I and those dear to me may together there,  
-find the very last remnants of Your gift!  
-Just the sight of Your Dear One is a fountain of delight;  
-whoever is worthy to be ravished thereby will despise ordinary food;  
+>Grant Lord, that I and those dear to me  
+may together there,  
+find the very last remnants  
+of Your gift!  
+Just the sight of Your Dear One  
+is a fountain of delight;  
+whoever is worthy  
+to be ravished thereby
+will despise ordinary food;  
 all who look upon You  
 will be sustained by Your beauty.  
 Praises be to Your splendor.  
