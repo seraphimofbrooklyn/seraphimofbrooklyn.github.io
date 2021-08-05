@@ -31,7 +31,7 @@ Cultural assimilation can also apply across borders. For example, Western imperi
 
 To be able to successfully consume something is to be able to successfully assimilate it into ourselves. **However, there are things that are "unconsumable" in the sense that it will cause illness or even death**. The prime biblical archetype of course will be the fruit of the Tree of the Knowledge of Good and Evil, which introduced death into the world. In contrast, a good and healthy meal will be pleasurable, and we maintain our body and identity through such a meal. On the other hand, food that cannot be assimilated is expelled via vomiting. Like wise a state can exiled or expel ethnic groups or individuals. In severe cases of food poisoning that results in death, a complete dissolution is possible through the breakdown of our bodies into its material parts; carbon, nitrogen, calcium, etc. Identity is also broken down, as there is no longer a body to sustain it in the world. Analogously, a culture/spirit that cannot be assimilated can cause the death of the original culture like in the case of the Russian Revolution that transformed imperial Russia into Soviet Russia. In this case, the spirit of the Red Bolsheviks, like a virus or a parasite, took over the body of Russia.
 
-### Part 1 Mediation, Priest and Physician
+### Part 1 Mediatior, Priest and Physician
 
 <figure>
 	<img src="/images/icons/Christ&Adam.jpeg">
