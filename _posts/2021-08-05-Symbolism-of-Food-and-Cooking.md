@@ -1,7 +1,7 @@
 ---
 title: "On the Symbolism of Eating and Cooking"
 description: "Article on the Symbolism of Eating and Cooking. Written for a friend who is a chef."
-date: 2021-7-20
+date: 2021-8-05
 image:
         feature: headers/lamb.jpg
 
