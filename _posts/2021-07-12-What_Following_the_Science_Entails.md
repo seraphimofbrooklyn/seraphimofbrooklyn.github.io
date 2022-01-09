@@ -15,4 +15,4 @@ But this is not necessarily a bad thing. Making qualitative judgements is fundam
 
 So when you hear "follow the science" be very attentive to what is being said because often much more is packed into that statement than one may realize.
 
-Based off of Pagaeu's description of science in this  [video](https://www.youtube.com/watch?v=hUQs5PxSi4s)) from minutes 12 to 19. 
+Based off of Pagaeu's description of science in this  [video](https://www.youtube.com/watch?v=hUQs5PxSi4s)) from minutes 12 to 19.
