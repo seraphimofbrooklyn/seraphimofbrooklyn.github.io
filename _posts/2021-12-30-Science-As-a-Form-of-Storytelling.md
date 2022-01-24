@@ -51,7 +51,7 @@ What makes scientific studies "narrative-driven" is this. It must always condens
 
 * It didn't differentiate between different types of cholesterol High density lipids (LDL) vs Low density lipids (LDL) which is a better biomarker for cardiovascular disease
 * It didn't differentiate between vegetable oils that are mainly composed of omega-6 fatty acids such as corn oil and soybean oil vs those that are mainly composed of omega-9 and omega-3 fatty acids such as avocado oil and olive oil. High ratios of omega-6 to other fatty acids are associated with inflammation, heart disease, and other chronic illnesses
-* It only studied 7 countries, mainly Western and in the case of Japan an industrialized nation. It did so despite having access to 16 more countries as Yerushalmy and Hilleboe note in their study. Other criticisms leveled by this paper included the use of food inventories of countries to estimate diets, which cannot account for food waste. *"For example, it is highly probable that far more dietary fat is throw into waste cans int he United States than in less fortunate countries".* [4].
+* It only studied 7 countries, mainly Western industrialized nations and in the case of Japan also an industrialized nation. It did so despite having access to 16 more countries as Yerushalmy and Hilleboe note in their study. Other criticisms leveled by this paper included the use of food inventories of countries to estimate diets, which cannot account for food waste. *"For example, it is highly probable that far more dietary fat is throw into waste cans int he United States than in less fortunate countries".* [4].
 
 It reasonably excluded details such as
 * A recollection of their childhood and marriage life of each of the participants of the study
