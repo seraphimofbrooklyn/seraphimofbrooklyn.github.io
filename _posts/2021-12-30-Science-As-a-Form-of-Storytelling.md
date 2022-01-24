@@ -2,6 +2,8 @@
 title: "Science as a Form of Storytelling"
 description: "An essay on the narrative structure of Science"
 date: 2021-12-30
+image:
+        feature: headers/heart_attack.jpg
 
 ---
 
