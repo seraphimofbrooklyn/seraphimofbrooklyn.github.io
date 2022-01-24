@@ -43,7 +43,7 @@ The result of this study along with the Hegsted Equation and *Framingham Heart S
 	<figcaption> Figure 4: USDA Food Pyramind which recommends 6-11 servings of simple carbohydrates </figcaption>
 </figure>
 
-### The Narrative Structure of Models
+### The Narrative Structure of Scientific Models
 
 What makes scientific studies "narrative-driven" is this. It must always condense details to a level that is digestible and informative. There is an infinite variety of details that the scientists could have focused on within the scope of the study but didn't. For example, common critique of the SCS include
 
