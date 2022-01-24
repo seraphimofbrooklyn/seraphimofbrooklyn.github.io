@@ -41,7 +41,7 @@ What the researchers found was that countries with lower rates of saturated fat 
 The result of this study along with the Hegsted Equation and *Framingham Heart Study* was the 1961 American Heart Association publication which advocated for a reduction of saturated fats in favor of polyunsaturated fats (PUFAs) [3] and later the publishing of the *Dietary Guidelines for Americans* by the USDA in 1980. This recommended a reduction of dietary consumption of fat and animal products, including meat, dairy, and eggs. In short, it inspired a crusade against fat. Later on in 1992, the food pyramid was created by the USDA (as shown below in Figure 3) with which many people are familiar. It recommends 6-11 servings of simple carbs a day. Following he food pyramid carb recommendations would require eating 12 ounces of pasta at minimum and 22 ounces of pasta at maximum (one regular box of pasta is 16 oz).  
 
 <figure>
-	<img src="/images/fat/USDA_Food_pyramid.png">
+	<img src="/images/fat/USDA_Food_Pyramid.png">
 	<figcaption> Figure 4: USDA Food Pyramind which recommends 6-11 servings of simple carbohydrates </figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ What makes scientific studies "narrative-driven" is this. It must always condens
 
 * It didn't differentiate between different types of cholesterol High density lipids (LDL) vs Low density lipids (LDL) which is a better biomarker for cardiovascular disease
 * It didn't differentiate between vegetable oils that are mainly composed of omega-6 fatty acids such as corn oil and soybean oil vs those that are mainly composed of omega-9 and omega-3 fatty acids such as avocado oil and olive oil. High ratios of omega-6 to other fatty acids are associated with inflammation, heart disease, and other chronic illnesses
-* It only studied 7 countries, mainly Western industrialized nations and in the case of Japan also an industrialized nation. It did so despite having access to 16 more countries as Yerushalmy and Hilleboe note in their study. Other criticisms leveled by this paper included the use of food inventories of countries to estimate diets, which cannot account for food waste. *"For example, it is highly probable that far more dietary fat is throw into waste cans int he United States than in less fortunate countries".* [4].
+* It only studied 7 countries, mainly Western industrialized nations and in the case of Japan also an industrialized nation. It did so despite having access to 16 more countries as Yerushalmy and Hilleboe note in their study. Other criticisms leveled by this paper included the use of food inventories of countries to estimate diets, which cannot account for food waste. *"For example, it is highly probable that far more dietary fat is throw into waste cans in the United States than in less fortunate countries".* [4].
 
 It reasonably excluded details such as
 * A recollection of their childhood and marriage life of each of the participants of the study
