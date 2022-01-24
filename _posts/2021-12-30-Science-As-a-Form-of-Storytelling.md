@@ -41,7 +41,7 @@ What the researchers found was that countries with lower rates of saturated fat 
 The result of this study along with the Hegsted Equation and *Framingham Heart Study* was the 1961 American Heart Association publication which advocated for a reduction of saturated fats in favor of polyunsaturated fats (PUFAs) [3] and later the publishing of the *Dietary Guidelines for Americans* by the USDA in 1980. This recommended a reduction of dietary consumption of fat and animal products, including meat, dairy, and eggs. In short, it inspired a crusade against fat. Later on in 1992, the food pyramid was created by the USDA (as shown below in Figure 3) with which many people are familiar. It recommends 6-11 servings of simple carbs a day. Following he food pyramid carb recommendations would require eating 12 ounces of pasta at minimum and 22 ounces of pasta at maximum (one regular box of pasta is 16 oz).  
 
 <figure>
-	<img src="/images/fat/USDA_Food_pyramid.gif">
+	<img src="/images/fat/USDA_Food_pyramid.png">
 	<figcaption> Figure 4: USDA Food Pyramind which recommends 6-11 servings of simple carbohydrates </figcaption>
 </figure>
 
