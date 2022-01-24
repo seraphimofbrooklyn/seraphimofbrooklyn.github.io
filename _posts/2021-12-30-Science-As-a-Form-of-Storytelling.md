@@ -109,7 +109,7 @@ Lastly, for the scope of this essay I avoided talking about qualitative vs quant
 
 There were some interesting things that I have read when writing this essay. I have left links to all such documents below and uploaded my R code for anyone who is interested in the raw data that I used.
 
-Of interest was something called the "Israeli  Paradox" which notes the high incidence of chronic illness such as diabetes, heart disease, hypertension, etc in Israel despite the "heart-healthy" Israeli diet which is high in dietary polysunsaturated fat. In fact, it is one of the highest in the world being "8% higher than in the US", and "10-12% higher than most European countries". [7]
+Of interest was something called the "Israeli  Paradox" which notes the high incidence of chronic illness such as diabetes, heart disease, hypertension, etc in Israel despite the "heart-healthy" Israeli diet which is high in dietary polysunsaturated fat. In fact, it is one of the highest in the world being "8% higher than in the US", and "10-12% higher than most European countries". [7] So in addition to the French Paradox there is the Israeli Paradox. There is even something called... the Indian Paradox.
 
 Another was the fact that the literature surrounding cardiovascular disease in the Inuit population seems contradictory. A literature review done in 2002 reviewed seemingly all of the available evidence at the time and concluded *"The mortality from all cardiovascular diseases combined is not lower among the
 Inuit than in white comparison populations."* [8] More recently in 2014, and more surprisingly, Fodor et al concluded *The results of these
@@ -151,4 +151,4 @@ Eskimos][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975865/]
 
 [11][The 171 countries study - revisiting the classic by Ancel Keys][https://github.com/akubisch/171_countries/blob/master/171_countries_study.pdf]
 
-[][Epidemiological Studies in the Upernavik District](https://www.researchgate.net/publication/328928562_Epidemioilogical_Studies_in_the_Upernavik_District?enrichId=rgreq-c47893d5d71a6c3fe9b6d5904728284c-XXX&enrichSource=Y292ZXJQYWdlOzMyODkyODU2MjtBUzo2OTI4MDY1NDQ3OTc2OThAMTU0MjE4OTM2MDMxNA%3D%3D&el=1_x_2&_esc=publicationCoverPdf)
+[12][Epidemiological Studies in the Upernavik District](https://www.researchgate.net/publication/328928562_Epidemioilogical_Studies_in_the_Upernavik_District?enrichId=rgreq-c47893d5d71a6c3fe9b6d5904728284c-XXX&enrichSource=Y292ZXJQYWdlOzMyODkyODU2MjtBUzo2OTI4MDY1NDQ3OTc2OThAMTU0MjE4OTM2MDMxNA%3D%3D&el=1_x_2&_esc=publicationCoverPdf)
