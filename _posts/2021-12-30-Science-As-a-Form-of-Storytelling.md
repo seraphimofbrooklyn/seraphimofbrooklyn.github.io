@@ -119,42 +119,42 @@ investigations confirm that the prevalence of
 CAD in Inuits (Eskimos) is as high or higher
 compared to non-Eskimo populations’*, **the complete opposite conclusion as that of the papers written in the mid-20th century!**. [9] So even here there is conflicting evidence. I incline towards the traditional narrative which is in line with James J DiNicolantonio who believes that the earlier evidence is more representative of the traditional Inuit diet, as even in the 1970s the diets of Inuits were increasingly conforming to modern Western diets, high in sugar and carbohydrates. He writes that refined sugar intake was only 6g of day in 1940s and prior, but bulged to a massive 164-175 g/day or about 40x more sugar [10].
 
-Thirdly, Dr. Alexandar Kubisch a data analyst performed an updated analysis on Key's original lipid hypothesis (Figure 1) using recent WHO data available from 2000-2012. I've uploaded it to my github and referenced it below [11]. He shows that there is actually a **negative** correlation between mean total cholesterol and deaths from cardiovascular disease as shown in Figure 11 below. Of course he admits this analysis has limitations and says that mean cholesterol probably has no value for predicting death by CHD, but I found it interesting that using the similar methodology with a much higher sample size gave the complete **opposite** story as Key's story.
+Thirdly, Dr. Alexandar Kubisch a data analyst performed an updated analysis on the Seven Countries Study using recent WHO data available from 2000-2012. I've uploaded it to my github and referenced it below [11]. He shows that there is actually a **negative** correlation between mean total cholesterol and deaths from cardiovascular disease as shown in Figure 11 below. Of course he admits this analysis has limitations and says that mean cholesterol probably has no value for predicting death by CHD, but I found it interesting that using the similar methodology with a much higher sample size gave the complete **opposite** story as Key's story.
 
 <figure>
 	<img src="/images/fat/Figure_11_171_countries.PNG">
 	<figcaption> Figure 10: Removal of the US data point, and addition of French data point </figcaption>
 </figure>
 
-Lastly.... in 1968 Keys did a 5-yr long double blind randomized control trial with Ivan Frantz with the intervention group having their food replaced with foods that were naturally or artificially high in linoleic acid (main type of PUFA). They found no benefits to the intervention group, in fact ***"There was a 22% higher risk of death for each 30 mg/dL (0.78 mmol/L) reduction in serum cholesterol in covariate adjusted Cox regression models"***. [12] To put it simply, the lower your cholestrol the higher your risk for death. The results were not published, only partially presented in 1975 at an AHA conference, and partially published in 1989 in *Arteriosclerosis* a medical journal. It wasn't until 2013 when the full set of raw data and analysis were discovered Ivan Frantz's estate. Of course, no one truly knows the reason why they weren't published, but one can surmise. It isn't absurd to believe that because Ancel Key's entire career up to that point depended on the lipid narrative, the results of this experiment were far too dangerous to his credibility and established work to publish.
+Lastly.... in 1968 Keys did a 5-yr long double blind randomized control trial with Ivan Frantz with the intervention group having their food replaced with foods that were naturally or artificially high in linoleic acid (main type of PUFA). They found no benefits to the intervention group, in fact ***"There was a 22% higher risk of death for each 30 mg/dL (0.78 mmol/L) reduction in serum cholesterol in covariate adjusted Cox regression models"***. [12] To put it simply, they found that the lower your cholesterol the higher your risk for death. The intervention group had worse outcomes than the baseline group. The results were not published, only partially presented in 1975 at an AHA conference, and partially published in 1989 in *Arteriosclerosis* a medical journal. It wasn't until 2013 when the full set of raw data and analysis were discovered Ivan Frantz's estate. Of course, no one truly knows the reason why they weren't published, but one can surmise. It isn't absurd to believe that because Ancel Key's entire career up to that point depended on the lipid narrative, the results of this experiment being far too dangerous to his credibility and established work to publish.
 
 ## References
 
-[1][Atherosclerosis: a problem in newer public health][https://pubmed.ncbi.nlm.nih.gov/13085148/]
+[1] [Atherosclerosis: a problem in newer public health](https://pubmed.ncbi.nlm.nih.gov/13085148/)
 
-[2][Seven Countries Study - Cross Cultural Findings][https://www.sevencountriesstudy.com/study-findings/cross-cultural/]
+[2] [Seven Countries Study - Cross Cultural Findings](https://www.sevencountriesstudy.com/study-findings/cross-cultural/)
 
-[3][Dietary Fat and Its Relation to Heart Attacks and Strokes][https://jamanetwork.com/journals/jama/fullarticle/vol/175/pg/389]
+[3] [Dietary Fat and Its Relation to Heart Attacks and Strokes](https://jamanetwork.com/journals/jama/fullarticle/vol/175/pg/389)
 
-[4][Fat in the diet and mortality from heart disease; a methodologic note][https://pubmed.ncbi.nlm.nih.gov/13447160/]
+[4] [Fat in the diet and mortality from heart disease; a methodologic note](https://pubmed.ncbi.nlm.nih.gov/13447160/)
 
-[5][Mortality due to heart disease among Alaskan natives, 1955-65.][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1920051/]
+[5] [Mortality due to heart disease among Alaskan natives, 1955-65.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1920051/)
 
-[6][Differences in coronary mortality can be explained by differences in cholesterol and saturated fat intakes in 40 countries but not in France and Finland. A paradox][https://pubmed.ncbi.nlm.nih.gov/8252690/]
+[6] [Differences in coronary mortality can be explained by differences in cholesterol and saturated fat intakes in 40 countries but not in France and Finland. A paradox](https://pubmed.ncbi.nlm.nih.gov/8252690/)
 
-[7][Diet and disease--the Israeli paradox: possible dangers of a high omega-6 polyunsaturated fatty acid diet][https://pubmed.ncbi.nlm.nih.gov/8960090/]
+[7] [Diet and disease--the Israeli paradox: possible dangers of a high omega-6 polyunsaturated fatty acid diet](https://pubmed.ncbi.nlm.nih.gov/8960090/)
 
-[8][Increase in the intake of refined carbohydrates and sugar may have led to the health decline of the Greenland Eskimos][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975865/]
+[8] [Increase in the intake of refined carbohydrates and sugar may have led to the health decline of the Greenland Eskimos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975865/)
 
-[9][“Fishing” for the Origins of the “Eskimos and Heart Disease” Story: Facts or Wishful Thinking?][https://linkinghub.elsevier.com/retrieve/pii/S0828282X14002372]
+[9] [“Fishing” for the Origins of the “Eskimos and Heart Disease” Story: Facts or Wishful Thinking?](https://linkinghub.elsevier.com/retrieve/pii/S0828282X14002372)
 
-[10][Increase in the intake of refined
+[10] [Increase in the intake of refined
 carbohydrates and sugar may have led
 to the health decline of the Greenland
-Eskimos][https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975865/]
+Eskimos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975865/)
 
-[11][The 171 countries study - revisiting the classic by Ancel Keys][https://github.com/akubisch/171_countries/blob/master/171_countries_study.pdf]
+[11][The 171 countries study - revisiting the classic by Ancel Keys](https://github.com/akubisch/171_countries/blob/master/171_countries_study.pdf)
 
 [12][Re-evaluation of the traditional diet-heart hypothesis: analysis of recovered data from Minnesota Coronary Experiment (1968-73)]https://seraphimofbrooklyn.github.io/Science-As-a-Form-of-Storytelling]
 
-[13][Epidemiological Studies in the Upernavik District](https://www.researchgate.net/publication/328928562_Epidemioilogical_Studies_in_the_Upernavik_District?enrichId=rgreq-c47893d5d71a6c3fe9b6d5904728284c-XXX&enrichSource=Y292ZXJQYWdlOzMyODkyODU2MjtBUzo2OTI4MDY1NDQ3OTc2OThAMTU0MjE4OTM2MDMxNA%3D%3D&el=1_x_2&_esc=publicationCoverPdf)
+[13] [Epidemiological Studies in the Upernavik District](https://www.researchgate.net/publication/328928562_Epidemioilogical_Studies_in_the_Upernavik_District?enrichId=rgreq-c47893d5d71a6c3fe9b6d5904728284c-XXX&enrichSource=Y292ZXJQYWdlOzMyODkyODU2MjtBUzo2OTI4MDY1NDQ3OTc2OThAMTU0MjE4OTM2MDMxNA%3D%3D&el=1_x_2&_esc=publicationCoverPdf)
