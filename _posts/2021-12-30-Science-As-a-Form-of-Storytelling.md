@@ -155,6 +155,6 @@ Eskimos](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975865/)
 
 [11][The 171 countries study - revisiting the classic by Ancel Keys](https://github.com/akubisch/171_countries/blob/master/171_countries_study.pdf)
 
-[12][Re-evaluation of the traditional diet-heart hypothesis: analysis of recovered data from Minnesota Coronary Experiment (1968-73)]https://seraphimofbrooklyn.github.io/Science-As-a-Form-of-Storytelling]
+[12][Re-evaluation of the traditional diet-heart hypothesis: analysis of recovered data from Minnesota Coronary Experiment (1968-73)](https://seraphimofbrooklyn.github.io/Science-As-a-Form-of-Storytelling)
 
 [13] [Epidemiological Studies in the Upernavik District](https://www.researchgate.net/publication/328928562_Epidemioilogical_Studies_in_the_Upernavik_District?enrichId=rgreq-c47893d5d71a6c3fe9b6d5904728284c-XXX&enrichSource=Y292ZXJQYWdlOzMyODkyODU2MjtBUzo2OTI4MDY1NDQ3OTc2OThAMTU0MjE4OTM2MDMxNA%3D%3D&el=1_x_2&_esc=publicationCoverPdf)
