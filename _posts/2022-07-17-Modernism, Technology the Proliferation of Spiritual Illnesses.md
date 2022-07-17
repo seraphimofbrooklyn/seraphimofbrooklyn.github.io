@@ -92,7 +92,7 @@ It is true that the average person of today is more "educated" than the average 
 I would posit that in modernity we see the appearance of health, and mistake it for the reality of health. **There is an epidemic of spiritual illnesses and proliferation of passions, the worst of the them being amplified by technology.** Most susceptible to such amplification appears to be vainglory or vanity, and the associated passion of pride. The distinction between the two is that the former expresses the desire for praise from others, while the latter expresses disdain for others. They are not mutually exclusive, and can be even thought of as a positive feedback loop, in which each mutually reinforces one another. Social media is the most pertinent technology in exacerbating these passions. There on Instagram, TikTok, YouTube, people build a temple offered to themselves, projecting and cultivating the image of beauty, riches, success, happiness, and even virtue.  
 
 <figure>
-	<img src="/images/people/kim.png">
+	<img src="/images/people/kim0.png">
 	<figcaption> Figure 4: Kim Kardashian's Instagram. Tried to find the most safe for work photos but they may still be a bit immodest
 </figcaption>
 </figure>
