@@ -1,5 +1,5 @@
 ---
-title: "Liberal Anthropology and the Proliferation of Spiritual Illnesses"
+title: "Modernism, Technology and the Proliferation of Spiritual Illnesses"
 description: "An essay on modern anthropology, technology and its role in the epidemic of spiritual illnesses, and slavery to the passions"
 date: 2022-07-22
 image:
