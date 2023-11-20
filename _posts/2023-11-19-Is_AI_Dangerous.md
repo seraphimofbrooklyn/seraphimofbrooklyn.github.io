@@ -1,7 +1,7 @@
 ---
 title: "Is AI Dangerous?"
 description: "An essay on the possible pitfalls of AI and its evaluation from the perspective of a Christian"
-date: 2023=11=20
+date: 2023-11-20
 image:
         feature: headers/AI article.png
 
@@ -89,7 +89,7 @@ Finally, here are some practical steps.
 
 If you are a parent... get your children away from phones and the internet as much as possible. Let their minds be connected to their bodies. Teach them how to do prostrations. Let them exercise. If they must be exposed to the internet, stay far away from AI chatbots, and be heavy handed and stringent in the type of media the yconsume.
 
-If you are an adult... avoid the use of AI chatbots for anything other than pure utility as you would use Google. Minimize the use of internet in general. Have times of the day where internet use is simply barred, especially at night when prayer, vigil, readings can be done. E-books with no access to the internet is typically fine. Avoid image generating AI services, especially those involving people. If you must use generative AI that can generate anything involving the human form, EXPLICITLY state that you are requesting safe for work (sfw) content though be warned this has failed on me more than once. Use it sparingly and use it wisely. 
+If you are an adult... avoid the use of AI chatbots for anything other than pure utility as you would use Google. Minimize the use of internet in general. Have times of the day where internet use is simply barred, especially at night when prayer, vigil, readings can be done. E-books with no access to the internet is typically fine. Avoid image generating AI services, especially those involving people. If you must use generative AI that can generate anything involving the human form, EXPLICITLY state that you are requesting safe for work (sfw) content though be warned this has failed on me more than once. Use it sparingly and use it wisely.
 
 
 
