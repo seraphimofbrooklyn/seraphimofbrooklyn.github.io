@@ -3,7 +3,7 @@ title: "Is AI Dangerous?"
 description: "An essay on the possible pitfalls of AI and its evaluation from the perspective of a Christian"
 date: 2023-11-20
 image:
-        feature: headers/AI article.png
+        feature: headers/AI_article.png
 
 ---
 
@@ -51,7 +51,7 @@ stigmatizing those relationships with um AIS and I think that it's time for this
 For those who did not necessarily feel lonely in the romantic sense, but wanted companionship, healing, or guidance there were also these "intelligent" entities that filled that hole such as the "Jesus AI" bot below, or the "Son of God" in the Bible AI Chat below. For the spiritually lost (and undiscerning) Christian would an AI Jesus be appealing? In this case it is an obvious Anti-Christ (ie replacement for Christ), but so are all the rest of the LLMs we communicate with on the daily basis in the sense that they are stealing our attention, time, money and perhaps even love and devotion that could otherwise go to God.
 
 <figure>
-	<img src="/images/AI/Figure2_chatbots.png">
+	<img src="/images/AI/Figure2_Chatbots.png">
 	<figcaption> Figure 2: "AI Girlfriend search in the Android Playstore, Replika ad showcasing their paid version, and an ad for "Bible AI Chat by BiblePics".
 </figcaption>
 </figure>
