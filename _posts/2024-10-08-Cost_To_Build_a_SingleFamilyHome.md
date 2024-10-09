@@ -7,7 +7,7 @@ image:
 
 ---
 
-###Background
+### Background
 I have been on and off about my "OrthoTown" project but finally found some motivation to update some of these essays I wrote back on my secondary blog on Urbit. I have taken down my Urbit blog and am transferring things over to here.
 
 ### Essay

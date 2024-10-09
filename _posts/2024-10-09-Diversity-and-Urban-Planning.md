@@ -7,7 +7,7 @@ image:
 
 ---
 
-###Background
+### Background
 I have been on and off about my "OrthoTown" project but finally found some motivation to update some of these essays I wrote back on my secondary blog on Urbit. I have taken down my Urbit blog and am transferring things over to here.
 
 ### Essay
@@ -36,6 +36,6 @@ Rittenhouse Park in Philidelphia would not be as well used if it were not for th
 >As a result of only having commercial buildings around it, and very low number of residential units, the park is unpopulated from morning until noon (due to lunch time) and again after lunch, meaning the only time it is used is at lunch by the local office workers.
 Therefore, Washington Square, of necessity. is a vacuum most of the day and evening. Into it came what usually fils city vacuums-a form of blight" - Page 97 of Death and Life of Great American Cities
 
-In a similar fashion she makes the argument for diversity in the maintenance and flourishing of city streets so does she cite diversity as crucial in the sucess of parks. I believe that the same would apply even to the smaller scales like within the home. The success of a room or a furniture lies in the diversity of use that it receives. Hence, the unloved and unused antique rocking chair becomes simply a decoration rather than a functional piece of furniture. 
+In a similar fashion she makes the argument for diversity in the maintenance and flourishing of city streets so does she cite diversity as crucial in the sucess of parks. I believe that the same would apply even to the smaller scales like within the home. The success of a room or a furniture lies in the diversity of use that it receives. Hence, the unloved and unused antique rocking chair becomes simply a decoration rather than a functional piece of furniture.
 
 To conclude, diversity is key in making a space lively, and full of life. One could apply this to single buildings like churches, homes, or schools, or communities composed of many buildings, or even back to the smaller scale of single rooms... Regardless of the scale, diversity seems to have utility in determining what makes physical spaces comfortable, and inviting to us.
